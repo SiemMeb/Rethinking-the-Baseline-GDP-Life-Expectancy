@@ -4,7 +4,7 @@ A data science project asking: **can economic prosperity explain differences in 
 It combines a regression analysis with time-series checks (stationarity tests and a fixed-effects panel model) and interactive matplotlib and Plotly graphs.
 
 **Notebook:** [`rethinking-the-baseline-gdp-longevity.ipynb`](rethinking-the-baseline-gdp-longevity.ipynb)
-**Kaggle version:** <!-- paste your Kaggle notebook link here -->
+**Interactive version:** [View on Kaggle](https://www.kaggle.com/code/siemmebrahtu/rethinking-the-baseline-gdp-longevity))
 
 ## Data
 
