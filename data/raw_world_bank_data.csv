@@ -1,0 +1,3869 @@
+country,country_code,year,indicator,value
+United States,USA,2025,GDP_per_capita,90026.5163005744
+United States,USA,2024,GDP_per_capita,86169.6641581917
+United States,USA,2023,GDP_per_capita,82586.7847707894
+United States,USA,2022,GDP_per_capita,78008.6895811877
+United States,USA,2021,GDP_per_capita,71441.2319805947
+United States,USA,2020,GDP_per_capita,64465.2971415748
+United States,USA,2019,GDP_per_capita,65227.9565911038
+United States,USA,2018,GDP_per_capita,62875.6661382728
+United States,USA,2017,GDP_per_capita,60047.7190728307
+United States,USA,2016,GDP_per_capita,57976.628204291
+United States,USA,2015,GDP_per_capita,56849.4697923159
+United States,USA,2014,GDP_per_capita,55153.3940182967
+United States,USA,2013,GDP_per_capita,53297.3862901595
+United States,USA,2012,GDP_per_capita,51708.3940614082
+United States,USA,2011,GDP_per_capita,50024.8812320773
+United States,USA,2010,GDP_per_capita,48642.6312088213
+United States,USA,2009,GDP_per_capita,47194.9500893872
+United States,USA,2008,GDP_per_capita,48570.0594269601
+United States,USA,2007,GDP_per_capita,48050.227412195
+United States,USA,2006,GDP_per_capita,46301.9876485519
+United States,USA,2005,GDP_per_capita,44123.3996470026
+United States,USA,2004,GDP_per_capita,41724.6411982614
+United States,USA,2003,GDP_per_capita,39490.3023903176
+United States,USA,2002,GDP_per_capita,37997.7424300242
+United States,USA,2001,GDP_per_capita,37133.6203973517
+United States,USA,2000,GDP_per_capita,36329.9702595751
+United States,USA,1999,GDP_per_capita,34515.3813073394
+United States,USA,1998,GDP_per_capita,32853.6725949234
+United States,USA,1997,GDP_per_capita,31459.1299691554
+United States,USA,1996,GDP_per_capita,29967.7127181749
+United States,USA,1995,GDP_per_capita,28690.8757013347
+United States,USA,1994,GDP_per_capita,27694.853416234
+United States,USA,1993,GDP_per_capita,26387.2937338171
+United States,USA,1992,GDP_per_capita,25418.9907763319
+United States,USA,1991,GDP_per_capita,24342.2589048189
+United States,USA,1990,GDP_per_capita,23888.6000088133
+United States,USA,1989,GDP_per_capita,22857.1544330056
+United States,USA,1988,GDP_per_capita,21417.0119305191
+United States,USA,1987,GDP_per_capita,20038.9410992658
+United States,USA,1986,GDP_per_capita,19071.2271949295
+United States,USA,1985,GDP_per_capita,18236.8277265009
+United States,USA,1984,GDP_per_capita,17121.2254849995
+United States,USA,1983,GDP_per_capita,15543.8937174925
+United States,USA,1982,GDP_per_capita,14433.787727053
+United States,USA,1981,GDP_per_capita,13976.10539252
+United States,USA,1980,GDP_per_capita,12574.7915062163
+United States,USA,1979,GDP_per_capita,11674.1818666548
+United States,USA,1978,GDP_per_capita,10564.9482220275
+United States,USA,1977,GDP_per_capita,9452.57651914511
+United States,USA,1976,GDP_per_capita,8592.25353727612
+United States,USA,1975,GDP_per_capita,7801.45666356443
+United States,USA,1974,GDP_per_capita,7225.69135952566
+United States,USA,1973,GDP_per_capita,6726.35895596695
+United States,USA,1972,GDP_per_capita,6094.01798986165
+United States,USA,1971,GDP_per_capita,5609.38259952519
+United States,USA,1970,GDP_per_capita,5234.2966662115
+United States,USA,1969,GDP_per_capita,5019.99818634473
+United States,USA,1968,GDP_per_capita,4684.58840293763
+United States,USA,1967,GDP_per_capita,4325.95935063186
+United States,USA,1966,GDP_per_capita,4136.30829579106
+United States,USA,1965,GDP_per_capita,3818.28825117968
+United States,USA,1964,GDP_per_capita,3565.31443016356
+United States,USA,1963,GDP_per_capita,3366.36978960346
+United States,USA,1962,GDP_per_capita,3236.01311150062
+United States,USA,1961,GDP_per_capita,3059.16082086127
+United States,USA,1960,GDP_per_capita,2999.86487154495
+United States,USA,2024,Life_expectancy,78.890243902439
+United States,USA,2023,Life_expectancy,78.3853658536585
+United States,USA,2022,Life_expectancy,77.4341463414634
+United States,USA,2021,Life_expectancy,76.3292682926829
+United States,USA,2020,Life_expectancy,76.9804878048781
+United States,USA,2019,Life_expectancy,78.7878048780488
+United States,USA,2018,Life_expectancy,78.6390243902439
+United States,USA,2017,Life_expectancy,78.5390243902439
+United States,USA,2016,Life_expectancy,78.5390243902439
+United States,USA,2015,Life_expectancy,78.690243902439
+United States,USA,2014,Life_expectancy,78.8414634146341
+United States,USA,2013,Life_expectancy,78.7414634146342
+United States,USA,2012,Life_expectancy,78.7414634146342
+United States,USA,2011,Life_expectancy,78.6414634146341
+United States,USA,2010,Life_expectancy,78.5414634146342
+United States,USA,2009,Life_expectancy,78.390243902439
+United States,USA,2008,Life_expectancy,78.0390243902439
+United States,USA,2007,Life_expectancy,77.9878048780488
+United States,USA,2006,Life_expectancy,77.6878048780488
+United States,USA,2005,Life_expectancy,77.4878048780488
+United States,USA,2004,Life_expectancy,77.4878048780488
+United States,USA,2003,Life_expectancy,77.0365853658537
+United States,USA,2002,Life_expectancy,76.9365853658537
+United States,USA,2001,Life_expectancy,76.8365853658537
+United States,USA,2000,Life_expectancy,76.6365853658537
+United States,USA,1999,Life_expectancy,76.5829268292683
+United States,USA,1998,Life_expectancy,76.5804878048781
+United States,USA,1997,Life_expectancy,76.4292682926829
+United States,USA,1996,Life_expectancy,76.0268292682927
+United States,USA,1995,Life_expectancy,75.6219512195122
+United States,USA,1994,Life_expectancy,75.619512195122
+United States,USA,1993,Life_expectancy,75.419512195122
+United States,USA,1992,Life_expectancy,75.6170731707317
+United States,USA,1991,Life_expectancy,75.3658536585366
+United States,USA,1990,Life_expectancy,75.2146341463415
+United States,USA,1989,Life_expectancy,75.0170731707317
+United States,USA,1988,Life_expectancy,74.7658536585366
+United States,USA,1987,Life_expectancy,74.7658536585366
+United States,USA,1986,Life_expectancy,74.6146341463415
+United States,USA,1985,Life_expectancy,74.5634146341464
+United States,USA,1984,Life_expectancy,74.5634146341464
+United States,USA,1983,Life_expectancy,74.4634146341463
+United States,USA,1982,Life_expectancy,74.3609756097561
+United States,USA,1981,Life_expectancy,74.009756097561
+United States,USA,1980,Life_expectancy,73.609756097561
+United States,USA,1979,Life_expectancy,73.8048780487805
+United States,USA,1978,Life_expectancy,73.3560975609756
+United States,USA,1977,Life_expectancy,73.2560975609756
+United States,USA,1976,Life_expectancy,72.8560975609756
+United States,USA,1975,Life_expectancy,72.6048780487805
+United States,USA,1974,Life_expectancy,71.9560975609756
+United States,USA,1973,Life_expectancy,71.3560975609756
+United States,USA,1972,Life_expectancy,71.1560975609756
+United States,USA,1971,Life_expectancy,71.1073170731707
+United States,USA,1970,Life_expectancy,70.8073170731707
+United States,USA,1969,Life_expectancy,70.5073170731708
+United States,USA,1968,Life_expectancy,69.9512195121951
+United States,USA,1967,Life_expectancy,70.5609756097561
+United States,USA,1966,Life_expectancy,70.2121951219512
+United States,USA,1965,Life_expectancy,70.2146341463415
+United States,USA,1964,Life_expectancy,70.1658536585366
+United States,USA,1963,Life_expectancy,69.9170731707317
+United States,USA,1962,Life_expectancy,70.119512195122
+United States,USA,1961,Life_expectancy,70.2707317073171
+United States,USA,1960,Life_expectancy,69.7707317073171
+United States,USA,2025,Population,341784857.0
+United States,USA,2024,Population,340003797.0
+United States,USA,2023,Population,336755052.0
+United States,USA,2022,Population,333996304.0
+United States,USA,2021,Population,332100166.0
+United States,USA,2020,Population,331578104.0
+United States,USA,2019,Population,330226227.0
+United States,USA,2018,Population,328529577.0
+United States,USA,2017,Population,326608609.0
+United States,USA,2016,Population,324353340.0
+United States,USA,2015,Population,321815121.0
+United States,USA,2014,Population,319257560.0
+United States,USA,2013,Population,316726282.0
+United States,USA,2012,Population,314339099.0
+United States,USA,2011,Population,311839461.0
+United States,USA,2010,Population,309378227.0
+United States,USA,2009,Population,306771529.0
+United States,USA,2008,Population,304093966.0
+United States,USA,2007,Population,301231207.0
+United States,USA,2006,Population,298379912.0
+United States,USA,2005,Population,295516599.0
+United States,USA,2004,Population,292805298.0
+United States,USA,2003,Population,290107933.0
+United States,USA,2002,Population,287625193.0
+United States,USA,2001,Population,284968955.0
+United States,USA,2000,Population,282162411.0
+United States,USA,1999,Population,279040000.0
+United States,USA,1998,Population,275854000.0
+United States,USA,1997,Population,272657000.0
+United States,USA,1996,Population,269394000.0
+United States,USA,1995,Population,266278000.0
+United States,USA,1994,Population,263126000.0
+United States,USA,1993,Population,259919000.0
+United States,USA,1992,Population,256514000.0
+United States,USA,1991,Population,252981000.0
+United States,USA,1990,Population,249623000.0
+United States,USA,1989,Population,246819000.0
+United States,USA,1988,Population,244499000.0
+United States,USA,1987,Population,242289000.0
+United States,USA,1986,Population,240133000.0
+United States,USA,1985,Population,237924000.0
+United States,USA,1984,Population,235825000.0
+United States,USA,1983,Population,233792000.0
+United States,USA,1982,Population,231664000.0
+United States,USA,1981,Population,229466000.0
+United States,USA,1980,Population,227225000.0
+United States,USA,1979,Population,225055000.0
+United States,USA,1978,Population,222585000.0
+United States,USA,1977,Population,220239000.0
+United States,USA,1976,Population,218035000.0
+United States,USA,1975,Population,215973000.0
+United States,USA,1974,Population,213854000.0
+United States,USA,1973,Population,211909000.0
+United States,USA,1972,Population,209896000.0
+United States,USA,1971,Population,207661000.0
+United States,USA,1970,Population,205052000.0
+United States,USA,1969,Population,202677000.0
+United States,USA,1968,Population,200706000.0
+United States,USA,1967,Population,198712000.0
+United States,USA,1966,Population,196560000.0
+United States,USA,1965,Population,194303000.0
+United States,USA,1964,Population,191889000.0
+United States,USA,1963,Population,189242000.0
+United States,USA,1962,Population,186538000.0
+United States,USA,1961,Population,183691000.0
+United States,USA,1960,Population,180671000.0
+China,CHN,2025,GDP_per_capita,13861.970224368
+China,CHN,2024,GDP_per_capita,13293.1162269366
+China,CHN,2023,GDP_per_capita,12951.1782397043
+China,CHN,2022,GDP_per_capita,12970.6056414327
+China,CHN,2021,GDP_per_capita,12887.4357242941
+China,CHN,2020,GDP_per_capita,10627.4637989619
+China,CHN,2019,GDP_per_capita,10342.9009524335
+China,CHN,2018,GDP_per_capita,10085.6638148819
+China,CHN,2017,GDP_per_capita,8979.67652709856
+China,CHN,2016,GDP_per_capita,8254.86859320357
+China,CHN,2015,GDP_per_capita,8175.33285077393
+China,CHN,2014,GDP_per_capita,7781.06597484974
+China,CHN,2013,GDP_per_capita,7147.03518622344
+China,CHN,2012,GDP_per_capita,6405.0574241349
+China,CHN,2011,GDP_per_capita,5703.76027973346
+China,CHN,2010,GDP_per_capita,4629.24551710077
+China,CHN,2009,GDP_per_capita,3898.24459158811
+China,CHN,2008,GDP_per_capita,3523.44302065213
+China,CHN,2007,GDP_per_capita,2734.72709877693
+China,CHN,2006,GDP_per_capita,2129.25696999613
+China,CHN,2005,GDP_per_capita,1777.64496828464
+China,CHN,2004,GDP_per_capita,1530.92726215723
+China,CHN,2003,GDP_per_capita,1306.97245408557
+China,CHN,2002,GDP_per_capita,1163.55957673426
+China,CHN,2001,GDP_per_capita,1065.40597574519
+China,CHN,2000,GDP_per_capita,969.199513696287
+China,CHN,1999,GDP_per_capita,881.146614068925
+China,CHN,1998,GDP_per_capita,835.095348597432
+China,CHN,1997,GDP_per_capita,786.743548510999
+China,CHN,1996,GDP_per_capita,713.337387811657
+China,CHN,1995,GDP_per_capita,612.680277898627
+China,CHN,1994,GDP_per_capita,475.677874448369
+China,CHN,1993,GDP_per_capita,378.939353053314
+China,CHN,1992,GDP_per_capita,367.822651903542
+China,CHN,1991,GDP_per_capita,334.130288119078
+China,CHN,1990,GDP_per_capita,318.50335359039
+China,CHN,1989,GDP_per_capita,311.429461227032
+China,CHN,1988,GDP_per_capita,284.023573149686
+China,CHN,1987,GDP_per_capita,252.256760114454
+China,CHN,1986,GDP_per_capita,282.445603096707
+China,CHN,1985,GDP_per_capita,295.007445815897
+China,CHN,1984,GDP_per_capita,251.192686463827
+China,CHN,1983,GDP_per_capita,225.86534696156
+China,CHN,1982,GDP_per_capita,203.722788366928
+China,CHN,1981,GDP_per_capita,197.425510967822
+China,CHN,1980,GDP_per_capita,195.149479992051
+China,CHN,1979,GDP_per_capita,184.285853059043
+China,CHN,1978,GDP_per_capita,156.655616850835
+China,CHN,1977,GDP_per_capita,185.728620718294
+China,CHN,1976,GDP_per_capita,165.680987722637
+China,CHN,1975,GDP_per_capita,178.621249282085
+China,CHN,1974,GDP_per_capita,160.402546852304
+China,CHN,1973,GDP_per_capita,157.339888078555
+China,CHN,1972,GDP_per_capita,132.097410431007
+China,CHN,1971,GDP_per_capita,118.84249157909
+China,CHN,1970,GDP_per_capita,113.346243039894
+China,CHN,1969,GDP_per_capita,100.308139479526
+China,CHN,1968,GDP_per_capita,91.6454581848979
+China,CHN,1967,GDP_per_capita,96.7614480104016
+China,CHN,1966,GDP_per_capita,104.50646350178
+China,CHN,1965,GDP_per_capita,98.6681688740435
+China,CHN,1964,GDP_per_capita,85.6611074645449
+China,CHN,1963,GDP_per_capita,74.4681540864463
+China,CHN,1962,GDP_per_capita,71.0616845971262
+China,CHN,1961,GDP_per_capita,75.9655011127574
+China,CHN,1960,GDP_per_capita,89.7150749167731
+China,CHN,2024,Life_expectancy,78.017
+China,CHN,2023,Life_expectancy,77.953
+China,CHN,2022,Life_expectancy,78.202
+China,CHN,2021,Life_expectancy,78.117
+China,CHN,2020,Life_expectancy,78.019
+China,CHN,2019,Life_expectancy,77.94
+China,CHN,2018,Life_expectancy,77.709
+China,CHN,2017,Life_expectancy,77.235
+China,CHN,2016,Life_expectancy,77.214
+China,CHN,2015,Life_expectancy,76.975
+China,CHN,2014,Life_expectancy,76.714
+China,CHN,2013,Life_expectancy,76.452
+China,CHN,2012,Life_expectancy,76.2
+China,CHN,2011,Life_expectancy,75.889
+China,CHN,2010,Life_expectancy,75.668
+China,CHN,2009,Life_expectancy,75.317
+China,CHN,2008,Life_expectancy,74.833
+China,CHN,2007,Life_expectancy,74.789
+China,CHN,2006,Life_expectancy,74.404
+China,CHN,2005,Life_expectancy,74.085
+China,CHN,2004,Life_expectancy,73.727
+China,CHN,2003,Life_expectancy,73.385
+China,CHN,2002,Life_expectancy,73.034
+China,CHN,2001,Life_expectancy,72.675
+China,CHN,2000,Life_expectancy,72.288
+China,CHN,1999,Life_expectancy,71.952
+China,CHN,1998,Life_expectancy,71.601
+China,CHN,1997,Life_expectancy,71.227
+China,CHN,1996,Life_expectancy,70.823
+China,CHN,1995,Life_expectancy,70.363
+China,CHN,1994,Life_expectancy,69.835
+China,CHN,1993,Life_expectancy,69.492
+China,CHN,1992,Life_expectancy,69.059
+China,CHN,1991,Life_expectancy,68.61
+China,CHN,1990,Life_expectancy,68.155
+China,CHN,1989,Life_expectancy,67.93
+China,CHN,1988,Life_expectancy,67.607
+China,CHN,1987,Life_expectancy,67.263
+China,CHN,1986,Life_expectancy,66.887
+China,CHN,1985,Life_expectancy,66.532
+China,CHN,1984,Life_expectancy,66.148
+China,CHN,1983,Life_expectancy,65.728
+China,CHN,1982,Life_expectancy,65.249
+China,CHN,1981,Life_expectancy,64.778
+China,CHN,1980,Life_expectancy,64.243
+China,CHN,1979,Life_expectancy,63.704
+China,CHN,1978,Life_expectancy,63.102
+China,CHN,1977,Life_expectancy,62.458
+China,CHN,1976,Life_expectancy,61.225
+China,CHN,1975,Life_expectancy,60.952
+China,CHN,1974,Life_expectancy,60.241
+China,CHN,1973,Life_expectancy,59.496
+China,CHN,1972,Life_expectancy,58.579
+China,CHN,1971,Life_expectancy,57.731
+China,CHN,1970,Life_expectancy,56.824
+China,CHN,1969,Life_expectancy,55.988
+China,CHN,1968,Life_expectancy,55.191
+China,CHN,1967,Life_expectancy,54.401
+China,CHN,1966,Life_expectancy,53.662
+China,CHN,1965,Life_expectancy,53.001
+China,CHN,1964,Life_expectancy,52.343
+China,CHN,1963,Life_expectancy,51.67
+China,CHN,1962,Life_expectancy,50.959
+China,CHN,1961,Life_expectancy,40.158
+China,CHN,1960,Life_expectancy,33.419
+China,CHN,2025,Population,1406585000.0
+China,CHN,2024,Population,1408975000.0
+China,CHN,2023,Population,1410710000.0
+China,CHN,2022,Population,1412175000.0
+China,CHN,2021,Population,1412360000.0
+China,CHN,2020,Population,1411100000.0
+China,CHN,2019,Population,1407745000.0
+China,CHN,2018,Population,1402760000.0
+China,CHN,2017,Population,1396215000.0
+China,CHN,2016,Population,1387790000.0
+China,CHN,2015,Population,1379860000.0
+China,CHN,2014,Population,1371860000.0
+China,CHN,2013,Population,1363240000.0
+China,CHN,2012,Population,1354190000.0
+China,CHN,2011,Population,1345035000.0
+China,CHN,2010,Population,1337705000.0
+China,CHN,2009,Population,1331260000.0
+China,CHN,2008,Population,1324655000.0
+China,CHN,2007,Population,1317885000.0
+China,CHN,2006,Population,1311020000.0
+China,CHN,2005,Population,1303720000.0
+China,CHN,2004,Population,1296075000.0
+China,CHN,2003,Population,1288400000.0
+China,CHN,2002,Population,1280400000.0
+China,CHN,2001,Population,1271850000.0
+China,CHN,2000,Population,1262645000.0
+China,CHN,1999,Population,1252735000.0
+China,CHN,1998,Population,1241935000.0
+China,CHN,1997,Population,1230075000.0
+China,CHN,1996,Population,1217550000.0
+China,CHN,1995,Population,1204855000.0
+China,CHN,1994,Population,1191835000.0
+China,CHN,1993,Population,1178440000.0
+China,CHN,1992,Population,1164970000.0
+China,CHN,1991,Population,1150780000.0
+China,CHN,1990,Population,1135185000.0
+China,CHN,1989,Population,1118650000.0
+China,CHN,1988,Population,1101630000.0
+China,CHN,1987,Population,1084035000.0
+China,CHN,1986,Population,1066790000.0
+China,CHN,1985,Population,1051040000.0
+China,CHN,1984,Population,1036825000.0
+China,CHN,1983,Population,1023310000.0
+China,CHN,1982,Population,1008630000.0
+China,CHN,1981,Population,993885000.0
+China,CHN,1980,Population,981235000.0
+China,CHN,1979,Population,969005000.0
+China,CHN,1978,Population,956165000.0
+China,CHN,1977,Population,943455000.0
+China,CHN,1976,Population,930685000.0
+China,CHN,1975,Population,916395000.0
+China,CHN,1974,Population,900350000.0
+China,CHN,1973,Population,881940000.0
+China,CHN,1972,Population,862030000.0
+China,CHN,1971,Population,841105000.0
+China,CHN,1970,Population,818315000.0
+China,CHN,1969,Population,796025000.0
+China,CHN,1968,Population,774510000.0
+China,CHN,1967,Population,754550000.0
+China,CHN,1966,Population,735400000.0
+China,CHN,1965,Population,715185000.0
+China,CHN,1964,Population,698355000.0
+China,CHN,1963,Population,682335000.0
+China,CHN,1962,Population,665770000.0
+China,CHN,1961,Population,660330000.0
+China,CHN,1960,Population,667070000.0
+India,IND,2025,GDP_per_capita,2702.47987141553
+India,IND,2024,GDP_per_capita,2591.9916607122
+India,IND,2023,GDP_per_capita,2434.44826340989
+India,IND,2022,GDP_per_capita,2279.98145719369
+India,IND,2021,GDP_per_capita,2239.61384367482
+India,IND,2020,GDP_per_capita,1907.04251637669
+India,IND,2019,GDP_per_capita,2041.42863698585
+India,IND,2018,GDP_per_capita,1966.25455171679
+India,IND,2017,GDP_per_capita,1950.10468280866
+India,IND,2016,GDP_per_capita,1707.50892912243
+India,IND,2015,GDP_per_capita,1583.99815907985
+India,IND,2014,GDP_per_capita,1553.88396075118
+India,IND,2013,GDP_per_capita,1432.84397512195
+India,IND,2012,GDP_per_capita,1429.32199520032
+India,IND,2011,GDP_per_capita,1445.46127486037
+India,IND,2010,GDP_per_capita,1347.51939071367
+India,IND,2009,GDP_per_capita,1094.94974598436
+India,IND,2008,GDP_per_capita,992.519584923828
+India,IND,2007,GDP_per_capita,1021.88707706826
+India,IND,2006,GDP_per_capita,801.668353659022
+India,IND,2005,GDP_per_capita,710.488080408949
+India,IND,2004,GDP_per_capita,624.258826510066
+India,IND,2003,GDP_per_capita,544.143133545002
+India,IND,2002,GDP_per_capita,469.149928973927
+India,IND,2001,GDP_per_capita,450.357900514128
+India,IND,2000,GDP_per_capita,442.750218937263
+India,IND,1999,GDP_per_capita,441.927991436397
+India,IND,1998,GDP_per_capita,413.630864056851
+India,IND,1997,GDP_per_capita,416.228116203753
+India,IND,1996,GDP_per_capita,401.046754673579
+India,IND,1995,GDP_per_capita,375.17600537305
+India,IND,1994,GDP_per_capita,347.73421473994
+India,IND,1993,GDP_per_capita,302.884806246174
+India,IND,1992,GDP_per_capita,319.182472626315
+India,IND,1991,GDP_per_capita,305.574055928592
+India,IND,1990,GDP_per_capita,371.085936203765
+India,IND,1989,GDP_per_capita,349.915155021864
+India,IND,1988,GDP_per_capita,358.484539641693
+India,IND,1987,GDP_per_capita,344.941028293075
+India,IND,1986,GDP_per_capita,314.897116402542
+India,IND,1985,GDP_per_capita,300.928258576378
+India,IND,1984,GDP_per_capita,281.049867840717
+India,IND,1983,GDP_per_capita,295.999773299382
+India,IND,1982,GDP_per_capita,278.65038258267
+India,IND,1981,GDP_per_capita,274.964330768528
+India,IND,1980,GDP_per_capita,271.080945953678
+India,IND,1979,GDP_per_capita,227.958179873426
+India,IND,1978,GDP_per_capita,209.389063573463
+India,IND,1977,GDP_per_capita,189.585568552477
+India,IND,1976,GDP_per_capita,164.119999587322
+India,IND,1975,GDP_per_capita,161.086694022079
+India,IND,1974,GDP_per_capita,166.699661755332
+India,IND,1973,GDP_per_capita,146.568492582405
+India,IND,1972,GDP_per_capita,125.270705961882
+India,IND,1971,GDP_per_capita,120.680595539912
+India,IND,1970,GDP_per_capita,114.35532002008
+India,IND,1969,GDP_per_capita,109.477664384288
+India,IND,1968,GDP_per_capita,101.556802521195
+India,IND,1967,GDP_per_capita,97.9951481214155
+India,IND,1966,GDP_per_capita,91.0276950517841
+India,IND,1965,GDP_per_capita,121.50831902883
+India,IND,1964,GDP_per_capita,117.856430772855
+India,IND,1963,GDP_per_capita,103.435021262932
+India,IND,1962,GDP_per_capita,92.1999583629516
+India,IND,1961,GDP_per_capita,87.8538613470205
+India,IND,1960,GDP_per_capita,84.9328084793106
+India,IND,2024,Life_expectancy,72.235
+India,IND,2023,Life_expectancy,72.003
+India,IND,2022,Life_expectancy,71.698
+India,IND,2021,Life_expectancy,67.282
+India,IND,2020,Life_expectancy,70.156
+India,IND,2019,Life_expectancy,70.746
+India,IND,2018,Life_expectancy,70.415
+India,IND,2017,Life_expectancy,70.068
+India,IND,2016,Life_expectancy,69.709
+India,IND,2015,Life_expectancy,69.326
+India,IND,2014,Life_expectancy,68.932
+India,IND,2013,Life_expectancy,68.499
+India,IND,2012,Life_expectancy,68.076
+India,IND,2011,Life_expectancy,67.623
+India,IND,2010,Life_expectancy,67.162
+India,IND,2009,Life_expectancy,66.7
+India,IND,2008,Life_expectancy,66.247
+India,IND,2007,Life_expectancy,65.803
+India,IND,2006,Life_expectancy,65.373
+India,IND,2005,Life_expectancy,64.939
+India,IND,2004,Life_expectancy,64.484
+India,IND,2003,Life_expectancy,64.086
+India,IND,2002,Life_expectancy,63.649
+India,IND,2001,Life_expectancy,63.158
+India,IND,2000,Life_expectancy,62.749
+India,IND,1999,Life_expectancy,62.284
+India,IND,1998,Life_expectancy,61.852
+India,IND,1997,Life_expectancy,61.439
+India,IND,1996,Life_expectancy,61.027
+India,IND,1995,Life_expectancy,60.63
+India,IND,1994,Life_expectancy,60.237
+India,IND,1993,Life_expectancy,59.823
+India,IND,1992,Life_expectancy,59.445
+India,IND,1991,Life_expectancy,59.032
+India,IND,1990,Life_expectancy,58.618
+India,IND,1989,Life_expectancy,58.196
+India,IND,1988,Life_expectancy,57.744
+India,IND,1987,Life_expectancy,57.291
+India,IND,1986,Life_expectancy,56.819
+India,IND,1985,Life_expectancy,56.324
+India,IND,1984,Life_expectancy,55.813
+India,IND,1983,Life_expectancy,55.283
+India,IND,1982,Life_expectancy,54.735
+India,IND,1981,Life_expectancy,54.173
+India,IND,1980,Life_expectancy,53.593
+India,IND,1979,Life_expectancy,53.014
+India,IND,1978,Life_expectancy,52.42
+India,IND,1977,Life_expectancy,51.822
+India,IND,1976,Life_expectancy,51.302
+India,IND,1975,Life_expectancy,50.761
+India,IND,1974,Life_expectancy,50.259
+India,IND,1973,Life_expectancy,49.642
+India,IND,1972,Life_expectancy,49.213
+India,IND,1971,Life_expectancy,48.902
+India,IND,1970,Life_expectancy,48.585
+India,IND,1969,Life_expectancy,48.26
+India,IND,1968,Life_expectancy,47.925
+India,IND,1967,Life_expectancy,46.184
+India,IND,1966,Life_expectancy,45.884
+India,IND,1965,Life_expectancy,45.558
+India,IND,1964,Life_expectancy,46.742
+India,IND,1963,Life_expectancy,46.458
+India,IND,1962,Life_expectancy,46.133
+India,IND,1961,Life_expectancy,45.824
+India,IND,1960,Life_expectancy,45.61
+India,IND,2025,Population,1463865525.0
+India,IND,2024,Population,1450935791.0
+India,IND,2023,Population,1438069596.0
+India,IND,2022,Population,1425423212.0
+India,IND,2021,Population,1414203896.0
+India,IND,2020,Population,1402617695.0
+India,IND,2019,Population,1389030312.0
+India,IND,2018,Population,1374659064.0
+India,IND,2017,Population,1359657400.0
+India,IND,2016,Population,1343944296.0
+India,IND,2015,Population,1328024498.0
+India,IND,2014,Population,1312277191.0
+India,IND,2013,Population,1295829511.0
+India,IND,2012,Population,1278674502.0
+India,IND,2011,Population,1261224954.0
+India,IND,2010,Population,1243481564.0
+India,IND,2009,Population,1225524753.0
+India,IND,2008,Population,1207930964.0
+India,IND,2007,Population,1190676021.0
+India,IND,2006,Population,1172878890.0
+India,IND,2005,Population,1154676322.0
+India,IND,2004,Population,1135991513.0
+India,IND,2003,Population,1116803006.0
+India,IND,2002,Population,1097600380.0
+India,IND,2001,Population,1077898575.0
+India,IND,2000,Population,1057922733.0
+India,IND,1999,Population,1038225823.0
+India,IND,1998,Population,1018665080.0
+India,IND,1997,Population,999133762.0
+India,IND,1996,Population,979678458.0
+India,IND,1995,Population,960301044.0
+India,IND,1994,Population,941163767.0
+India,IND,1993,Population,922118387.0
+India,IND,1992,Population,902957070.0
+India,IND,1991,Population,883927600.0
+India,IND,1990,Population,864972221.0
+India,IND,1989,Population,846039529.0
+India,IND,1988,Population,827342990.0
+India,IND,1987,Population,808931270.0
+India,IND,1986,Population,790689978.0
+India,IND,1985,Population,772647793.0
+India,IND,1984,Population,754875449.0
+India,IND,1983,Population,737372681.0
+India,IND,1982,Population,720313473.0
+India,IND,1981,Population,703696250.0
+India,IND,1980,Population,687354025.0
+India,IND,1979,Population,671155747.0
+India,IND,1978,Population,655728229.0
+India,IND,1977,Population,640801103.0
+India,IND,1976,Population,625861883.0
+India,IND,1975,Population,611309535.0
+India,IND,1974,Population,597041391.0
+India,IND,1973,Population,583465598.0
+India,IND,1972,Population,570482142.0
+India,IND,1971,Population,558096387.0
+India,IND,1970,Population,545864268.0
+India,IND,1969,Population,533880544.0
+India,IND,1968,Population,522716889.0
+India,IND,1967,Population,511606372.0
+India,IND,1966,Population,500740247.0
+India,IND,1965,Population,490140146.0
+India,IND,1964,Population,479229598.0
+India,IND,1963,Population,468138575.0
+India,IND,1962,Population,457283090.0
+India,IND,1961,Population,446564729.0
+India,IND,1960,Population,435990338.0
+Japan,JPN,2025,GDP_per_capita,35951.0449549304
+Japan,JPN,2024,GDP_per_capita,33797.1014287876
+Japan,JPN,2023,GDP_per_capita,35215.003535366
+Japan,JPN,2022,GDP_per_capita,35548.2645222433
+Japan,JPN,2021,GDP_per_capita,41580.739040705
+Japan,JPN,2020,GDP_per_capita,41098.9739004553
+Japan,JPN,2019,GDP_per_capita,41424.8655601543
+Japan,JPN,2018,GDP_per_capita,40645.478086519
+Japan,JPN,2017,GDP_per_capita,39679.8635262948
+Japan,JPN,2016,GDP_per_capita,40214.9688631562
+Japan,JPN,2015,GDP_per_capita,35664.6446110613
+Japan,JPN,2014,GDP_per_capita,39172.8471161948
+Japan,JPN,2013,GDP_per_capita,41369.1948479498
+Japan,JPN,2012,GDP_per_capita,49626.6830327571
+Japan,JPN,2011,GDP_per_capita,49122.077634247
+Japan,JPN,2010,GDP_per_capita,45378.1378109399
+Japan,JPN,2009,GDP_per_capita,41678.1783063195
+Japan,JPN,2008,GDP_per_capita,40294.2081309702
+Japan,JPN,2007,GDP_per_capita,36129.9535132925
+Japan,JPN,2006,GDP_per_capita,36354.4271646349
+Japan,JPN,2005,GDP_per_capita,38158.6758263963
+Japan,JPN,2004,GDP_per_capita,38677.5708064787
+Japan,JPN,2003,GDP_per_capita,35808.6816792388
+Japan,JPN,2002,GDP_per_capita,33315.9165174962
+Japan,JPN,2001,GDP_per_capita,34910.166403687
+Japan,JPN,2000,GDP_per_capita,39752.937397755
+Japan,JPN,1999,GDP_per_capita,37028.7168989208
+Japan,JPN,1998,GDP_per_capita,32835.1192750829
+Japan,JPN,1997,GDP_per_capita,36331.0311480645
+Japan,JPN,1996,GDP_per_capita,39929.7185750327
+Japan,JPN,1995,GDP_per_capita,44947.4763611465
+Japan,JPN,1994,GDP_per_capita,40774.4450809919
+Japan,JPN,1993,GDP_per_capita,37110.6114371751
+Japan,JPN,1992,GDP_per_capita,32666.5024513195
+Japan,JPN,1991,GDP_per_capita,30048.1401766828
+Japan,JPN,1990,GDP_per_capita,26344.7273187725
+Japan,JPN,1989,GDP_per_capita,25798.0054757546
+Japan,JPN,1988,GDP_per_capita,26036.864097278
+Japan,JPN,1987,GDP_per_capita,21586.9260294922
+Japan,JPN,1986,GDP_per_capita,17819.3400779496
+Japan,JPN,1985,GDP_per_capita,12058.1469373485
+Japan,JPN,1984,GDP_per_capita,11443.4617086944
+Japan,JPN,1983,GDP_per_capita,10876.3275267125
+Japan,JPN,1982,GDP_per_capita,9985.92408278337
+Japan,JPN,1981,GDP_per_capita,10805.9900652449
+Japan,JPN,1980,GDP_per_capita,9872.35315959728
+Japan,JPN,1979,GDP_per_capita,9497.01423554433
+Japan,JPN,1978,GDP_per_capita,9201.91586719521
+Japan,JPN,1977,GDP_per_capita,6609.09338399173
+Japan,JPN,1976,GDP_per_capita,5422.25981204974
+Japan,JPN,1975,GDP_per_capita,4876.47163169944
+Japan,JPN,1974,GDP_per_capita,4541.99349265674
+Japan,JPN,1973,GDP_per_capita,4146.53123298424
+Japan,JPN,1972,GDP_per_capita,3095.27540388466
+Japan,JPN,1971,GDP_per_capita,2370.27536037237
+Japan,JPN,1970,GDP_per_capita,2144.98615266911
+Japan,JPN,1969,GDP_per_capita,1840.94789376713
+Japan,JPN,1968,GDP_per_capita,1585.98057427556
+Japan,JPN,1967,GDP_per_capita,1354.29188416199
+Japan,JPN,1966,GDP_per_capita,1167.69027982801
+Japan,JPN,1965,GDP_per_capita,1014.65899631996
+Japan,JPN,1964,GDP_per_capita,921.88053754104
+Japan,JPN,1963,GDP_per_capita,791.924737477456
+Japan,JPN,1962,GDP_per_capita,698.981262831415
+Japan,JPN,1961,GDP_per_capita,621.68620494448
+Japan,JPN,1960,GDP_per_capita,519.415170624485
+Japan,JPN,2024,Life_expectancy,84.0363414634146
+Japan,JPN,2023,Life_expectancy,84.0412195121951
+Japan,JPN,2022,Life_expectancy,83.9963414634146
+Japan,JPN,2021,Life_expectancy,84.4456097560976
+Japan,JPN,2020,Life_expectancy,84.56
+Japan,JPN,2019,Life_expectancy,84.3563414634146
+Japan,JPN,2018,Life_expectancy,84.2109756097561
+Japan,JPN,2017,Life_expectancy,84.099756097561
+Japan,JPN,2016,Life_expectancy,83.9848780487805
+Japan,JPN,2015,Life_expectancy,83.7939024390244
+Japan,JPN,2014,Life_expectancy,83.5878048780488
+Japan,JPN,2013,Life_expectancy,83.3319512195122
+Japan,JPN,2012,Life_expectancy,83.0960975609756
+Japan,JPN,2011,Life_expectancy,82.5912195121951
+Japan,JPN,2010,Life_expectancy,82.8426829268293
+Japan,JPN,2009,Life_expectancy,82.9314634146342
+Japan,JPN,2008,Life_expectancy,82.5875609756098
+Japan,JPN,2007,Life_expectancy,82.5070731707317
+Japan,JPN,2006,Life_expectancy,82.3219512195122
+Japan,JPN,2005,Life_expectancy,81.9551219512195
+Japan,JPN,2004,Life_expectancy,82.030243902439
+Japan,JPN,2003,Life_expectancy,81.76
+Japan,JPN,2002,Life_expectancy,81.6907317073171
+Japan,JPN,2001,Life_expectancy,81.4163414634146
+Japan,JPN,2000,Life_expectancy,81.0760975609756
+Japan,JPN,1999,Life_expectancy,80.4609756097561
+Japan,JPN,1998,Life_expectancy,80.5014634146342
+Japan,JPN,1997,Life_expectancy,80.4241463414634
+Japan,JPN,1996,Life_expectancy,80.219756097561
+Japan,JPN,1995,Life_expectancy,79.5360975609756
+Japan,JPN,1994,Life_expectancy,79.6968292682927
+Japan,JPN,1993,Life_expectancy,79.3036585365854
+Japan,JPN,1992,Life_expectancy,79.080243902439
+Japan,JPN,1991,Life_expectancy,79.0368292682927
+Japan,JPN,1990,Life_expectancy,78.8370731707317
+Japan,JPN,1989,Life_expectancy,78.7685365853659
+Japan,JPN,1988,Life_expectancy,78.349756097561
+Japan,JPN,1987,Life_expectancy,78.429512195122
+Japan,JPN,1986,Life_expectancy,78.0104878048781
+Japan,JPN,1985,Life_expectancy,77.5604878048781
+Japan,JPN,1984,Life_expectancy,77.2912195121951
+Japan,JPN,1983,Life_expectancy,76.9219512195122
+Japan,JPN,1982,Life_expectancy,76.8736585365854
+Japan,JPN,1981,Life_expectancy,76.3948780487805
+Japan,JPN,1980,Life_expectancy,75.9890243902439
+Japan,JPN,1979,Life_expectancy,76.1087804878049
+Japan,JPN,1978,Life_expectancy,75.5846341463415
+Japan,JPN,1977,Life_expectancy,75.2558536585366
+Japan,JPN,1976,Life_expectancy,74.6865853658537
+Japan,JPN,1975,Life_expectancy,74.2470731707317
+Japan,JPN,1974,Life_expectancy,73.6721951219512
+Japan,JPN,1973,Life_expectancy,73.2951219512195
+Japan,JPN,1972,Life_expectancy,73.1536585365854
+Japan,JPN,1971,Life_expectancy,72.8090243902439
+Japan,JPN,1970,Life_expectancy,71.919756097561
+Japan,JPN,1969,Life_expectancy,71.8580487804878
+Japan,JPN,1968,Life_expectancy,71.6109756097561
+Japan,JPN,1967,Life_expectancy,71.4660975609756
+Japan,JPN,1966,Life_expectancy,70.9158536585366
+Japan,JPN,1965,Life_expectancy,70.2668292682927
+Japan,JPN,1964,Life_expectancy,70.2065853658537
+Japan,JPN,1963,Life_expectancy,69.7124390243902
+Japan,JPN,1962,Life_expectancy,68.6348780487805
+Japan,JPN,1961,Life_expectancy,68.3519512195122
+Japan,JPN,1960,Life_expectancy,67.6956097560976
+Japan,JPN,2025,Population,123366734.0
+Japan,JPN,2024,Population,123975371.0
+Japan,JPN,2023,Population,124516650.0
+Japan,JPN,2022,Population,125124989.0
+Japan,JPN,2021,Population,125681593.0
+Japan,JPN,2020,Population,126261000.0
+Japan,JPN,2019,Population,126633000.0
+Japan,JPN,2018,Population,126811000.0
+Japan,JPN,2017,Population,126972000.0
+Japan,JPN,2016,Population,127076000.0
+Japan,JPN,2015,Population,127141000.0
+Japan,JPN,2014,Population,127276000.0
+Japan,JPN,2013,Population,127445000.0
+Japan,JPN,2012,Population,127629000.0
+Japan,JPN,2011,Population,127833000.0
+Japan,JPN,2010,Population,128070000.0
+Japan,JPN,2009,Population,128047000.0
+Japan,JPN,2008,Population,128063000.0
+Japan,JPN,2007,Population,128001000.0
+Japan,JPN,2006,Population,127854000.0
+Japan,JPN,2005,Population,127773000.0
+Japan,JPN,2004,Population,127761000.0
+Japan,JPN,2003,Population,127718000.0
+Japan,JPN,2002,Population,127445000.0
+Japan,JPN,2001,Population,127149000.0
+Japan,JPN,2000,Population,126843000.0
+Japan,JPN,1999,Population,126631000.0
+Japan,JPN,1998,Population,126400000.0
+Japan,JPN,1997,Population,126057000.0
+Japan,JPN,1996,Population,125757000.0
+Japan,JPN,1995,Population,125472000.0
+Japan,JPN,1994,Population,125178000.0
+Japan,JPN,1993,Population,124829000.0
+Japan,JPN,1992,Population,124425000.0
+Japan,JPN,1991,Population,123964000.0
+Japan,JPN,1990,Population,123478000.0
+Japan,JPN,1989,Population,123069000.0
+Japan,JPN,1988,Population,122578000.0
+Japan,JPN,1987,Population,122069000.0
+Japan,JPN,1986,Population,121482000.0
+Japan,JPN,1985,Population,120837000.0
+Japan,JPN,1984,Population,120083000.0
+Japan,JPN,1983,Population,119307000.0
+Japan,JPN,1982,Population,118480000.0
+Japan,JPN,1981,Population,117661000.0
+Japan,JPN,1980,Population,116807000.0
+Japan,JPN,1979,Population,115890000.0
+Japan,JPN,1978,Population,114913000.0
+Japan,JPN,1977,Population,113872000.0
+Japan,JPN,1976,Population,112775000.0
+Japan,JPN,1975,Population,111573000.0
+Japan,JPN,1974,Population,110162000.0
+Japan,JPN,1973,Population,108707000.0
+Japan,JPN,1972,Population,107188000.0
+Japan,JPN,1971,Population,105697000.0
+Japan,JPN,1970,Population,103403000.0
+Japan,JPN,1969,Population,102219000.0
+Japan,JPN,1968,Population,101011000.0
+Japan,JPN,1967,Population,99879000.0
+Japan,JPN,1966,Population,98851000.0
+Japan,JPN,1965,Population,97952000.0
+Japan,JPN,1964,Population,96903000.0
+Japan,JPN,1963,Population,95900000.0
+Japan,JPN,1962,Population,94933000.0
+Japan,JPN,1961,Population,94055000.0
+Japan,JPN,1960,Population,93216000.0
+Germany,DEU,2025,GDP_per_capita,60496.4350820414
+Germany,DEU,2024,GDP_per_capita,56103.7323182554
+Germany,DEU,2023,GDP_per_capita,54776.7668235491
+Germany,DEU,2022,GDP_per_capita,50506.5179638543
+Germany,DEU,2021,GDP_per_capita,52349.2459994422
+Germany,DEU,2020,GDP_per_capita,47394.8734504469
+Germany,DEU,2019,GDP_per_capita,47656.199739747
+Germany,DEU,2018,GDP_per_capita,48916.1686612154
+Germany,DEU,2017,GDP_per_capita,45553.9341495339
+Germany,DEU,2016,GDP_per_capita,42948.9381932694
+Germany,DEU,2015,GDP_per_capita,41929.7549110722
+Germany,DEU,2014,GDP_per_capita,48959.5991203133
+Germany,DEU,2013,GDP_per_capita,47206.8353514242
+Germany,DEU,2012,GDP_per_capita,44718.0159214069
+Germany,DEU,2011,GDP_per_capita,47630.9761883572
+Germany,DEU,2010,GDP_per_capita,42396.9665976293
+Germany,DEU,2009,GDP_per_capita,42471.8868625226
+Germany,DEU,2008,GDP_per_capita,46379.1647953479
+Germany,DEU,2007,GDP_per_capita,42350.9217211489
+Germany,DEU,2006,GDP_per_capita,36980.3349948954
+Germany,DEU,2005,GDP_per_capita,35084.4363546269
+Germany,DEU,2004,GDP_per_capita,34566.7359143735
+Germany,DEU,2003,GDP_per_capita,30711.1022511331
+Germany,DEU,2002,GDP_per_capita,25486.5942008748
+Germany,DEU,2001,GDP_per_capita,23878.3641471651
+Germany,DEU,2000,GDP_per_capita,23925.8559901991
+Germany,DEU,1999,GDP_per_capita,26965.4922773722
+Germany,DEU,1998,GDP_per_capita,27395.9440608051
+Germany,DEU,1997,GDP_per_capita,27046.9565464237
+Germany,DEU,1996,GDP_per_capita,30599.7891048363
+Germany,DEU,1995,GDP_per_capita,31747.2449398447
+Germany,DEU,1994,GDP_per_capita,27201.9593555204
+Germany,DEU,1993,GDP_per_capita,25616.6508772405
+Germany,DEU,1992,GDP_per_capita,26559.8543879632
+Germany,DEU,1991,GDP_per_capita,23443.3350818536
+Germany,DEU,1990,GDP_per_capita,22385.6778250275
+Germany,DEU,1989,GDP_per_capita,17829.4609524705
+Germany,DEU,1988,GDP_per_capita,17996.9783507619
+Germany,DEU,1987,GDP_per_capita,16738.6132825523
+Germany,DEU,1986,GDP_per_capita,13511.1520027486
+Germany,DEU,1985,GDP_per_capita,9464.11694710857
+Germany,DEU,1984,GDP_per_capita,9347.29068412377
+Germany,DEU,1983,GDP_per_capita,9900.48559233526
+Germany,DEU,1982,GDP_per_capita,9950.05926025365
+Germany,DEU,1981,GDP_per_capita,10246.4767623188
+Germany,DEU,1980,GDP_per_capita,12182.7800196802
+Germany,DEU,1979,GDP_per_capita,11322.3543443813
+Germany,DEU,1978,GDP_per_capita,9516.78283228907
+Germany,DEU,1977,GDP_per_capita,7711.10232025365
+Germany,DEU,1976,GDP_per_capita,6659.16546576017
+Germany,DEU,1975,GDP_per_capita,6259.20744498342
+Germany,DEU,1974,GDP_per_capita,5659.73787773336
+Germany,DEU,1973,GDP_per_capita,5065.24523302283
+Germany,DEU,1972,GDP_per_capita,3823.94032602696
+Germany,DEU,1971,GDP_per_capita,3203.82884836051
+Germany,DEU,1970,GDP_per_capita,2771.28310514754
+Germany,DEU,1969,GDP_per_capita,2281.27598218229
+Germany,DEU,1968,GDP_per_capita,2025.08159465853
+Germany,DEU,1967,GDP_per_capita,1885.61596607874
+Germany,DEU,1966,GDP_per_capita,1870.80540291774
+Germany,DEU,1965,GDP_per_capita,1774.1986904555
+Germany,DEU,1964,GDP_per_capita,1637.45522773672
+Germany,DEU,1963,GDP_per_capita,1502.15452905146
+Germany,DEU,1962,GDP_per_capita,1430.52095516263
+Germany,DEU,1961,GDP_per_capita,1315.90787834504
+Germany,DEU,1960,GDP_per_capita,1162.12266831735
+Germany,DEU,2024,Life_expectancy,80.7926829268293
+Germany,DEU,2023,Life_expectancy,81.0414634146342
+Germany,DEU,2022,Life_expectancy,80.6080487804878
+Germany,DEU,2021,Life_expectancy,80.790243902439
+Germany,DEU,2020,Life_expectancy,81.0414634146342
+Germany,DEU,2019,Life_expectancy,81.2926829268293
+Germany,DEU,2018,Life_expectancy,80.8926829268293
+Germany,DEU,2017,Life_expectancy,80.9926829268293
+Germany,DEU,2016,Life_expectancy,80.990243902439
+Germany,DEU,2015,Life_expectancy,80.6414634146341
+Germany,DEU,2014,Life_expectancy,81.090243902439
+Germany,DEU,2013,Life_expectancy,80.490243902439
+Germany,DEU,2012,Life_expectancy,80.5390243902439
+Germany,DEU,2011,Life_expectancy,80.4365853658537
+Germany,DEU,2010,Life_expectancy,79.9878048780488
+Germany,DEU,2009,Life_expectancy,79.8365853658537
+Germany,DEU,2008,Life_expectancy,79.7365853658537
+Germany,DEU,2007,Life_expectancy,79.5341463414634
+Germany,DEU,2006,Life_expectancy,79.1317073170732
+Germany,DEU,2005,Life_expectancy,78.9317073170732
+Germany,DEU,2004,Life_expectancy,78.6804878048781
+Germany,DEU,2003,Life_expectancy,78.3804878048781
+Germany,DEU,2002,Life_expectancy,78.2292682926829
+Germany,DEU,2001,Life_expectancy,78.3292682926829
+Germany,DEU,2000,Life_expectancy,77.9268292682927
+Germany,DEU,1999,Life_expectancy,77.7268292682927
+Germany,DEU,1998,Life_expectancy,77.4756097560976
+Germany,DEU,1997,Life_expectancy,77.0731707317073
+Germany,DEU,1996,Life_expectancy,76.6731707317073
+Germany,DEU,1995,Life_expectancy,76.4219512195122
+Germany,DEU,1994,Life_expectancy,76.2707317073171
+Germany,DEU,1993,Life_expectancy,75.8707317073171
+Germany,DEU,1992,Life_expectancy,75.819512195122
+Germany,DEU,1991,Life_expectancy,75.319512195122
+Germany,DEU,1990,Life_expectancy,75.0856341463415
+Germany,DEU,1989,Life_expectancy,75.1915365853659
+Germany,DEU,1988,Life_expectancy,74.9987317073171
+Germany,DEU,1987,Life_expectancy,74.8070243902439
+Germany,DEU,1986,Life_expectancy,74.3968292682927
+Germany,DEU,1985,Life_expectancy,74.1890975609756
+Germany,DEU,1984,Life_expectancy,74.0722926829268
+Germany,DEU,1983,Life_expectancy,73.6221463414634
+Germany,DEU,1982,Life_expectancy,73.3331463414634
+Germany,DEU,1981,Life_expectancy,73.0402195121951
+Germany,DEU,1980,Life_expectancy,72.8003170731707
+Germany,DEU,1979,Life_expectancy,72.6301707317073
+Germany,DEU,1978,Life_expectancy,72.2904146341464
+Germany,DEU,1977,Life_expectancy,72.3073170731707
+Germany,DEU,1976,Life_expectancy,71.7122195121951
+Germany,DEU,1975,Life_expectancy,71.259243902439
+Germany,DEU,1974,Life_expectancy,71.4189268292683
+Germany,DEU,1973,Life_expectancy,71.1128048780488
+Germany,DEU,1972,Life_expectancy,70.9067073170732
+Germany,DEU,1971,Life_expectancy,70.676756097561
+Germany,DEU,1970,Life_expectancy,70.4471951219512
+Germany,DEU,1969,Life_expectancy,70.2288048780488
+Germany,DEU,1968,Life_expectancy,70.3784634146342
+Germany,DEU,1967,Life_expectancy,70.7317317073171
+Germany,DEU,1966,Life_expectancy,70.5215853658537
+Germany,DEU,1965,Life_expectancy,70.4103658536585
+Germany,DEU,1964,Life_expectancy,70.4355609756098
+Germany,DEU,1963,Life_expectancy,69.9140731707317
+Germany,DEU,1962,Life_expectancy,69.7992195121951
+Germany,DEU,1961,Life_expectancy,69.6448780487805
+Germany,DEU,1960,Life_expectancy,69.0640731707317
+Germany,DEU,2025,Population,83491249.0
+Germany,DEU,2024,Population,83516593.0
+Germany,DEU,2023,Population,83287273.0
+Germany,DEU,2022,Population,83177813.0
+Germany,DEU,2021,Population,83196078.0
+Germany,DEU,2020,Population,83160871.0
+Germany,DEU,2019,Population,83092962.0
+Germany,DEU,2018,Population,82905782.0
+Germany,DEU,2017,Population,82657002.0
+Germany,DEU,2016,Population,82348669.0
+Germany,DEU,2015,Population,81686611.0
+Germany,DEU,2014,Population,80982500.0
+Germany,DEU,2013,Population,80645605.0
+Germany,DEU,2012,Population,80425823.0
+Germany,DEU,2011,Population,80274983.0
+Germany,DEU,2010,Population,81776930.0
+Germany,DEU,2009,Population,81902307.0
+Germany,DEU,2008,Population,82110097.0
+Germany,DEU,2007,Population,82266372.0
+Germany,DEU,2006,Population,82376451.0
+Germany,DEU,2005,Population,82469422.0
+Germany,DEU,2004,Population,82516260.0
+Germany,DEU,2003,Population,82534176.0
+Germany,DEU,2002,Population,82488495.0
+Germany,DEU,2001,Population,82349925.0
+Germany,DEU,2000,Population,82211508.0
+Germany,DEU,1999,Population,82100243.0
+Germany,DEU,1998,Population,82047195.0
+Germany,DEU,1997,Population,82034771.0
+Germany,DEU,1996,Population,81914831.0
+Germany,DEU,1995,Population,81678051.0
+Germany,DEU,1994,Population,81438348.0
+Germany,DEU,1993,Population,81156363.0
+Germany,DEU,1992,Population,80624598.0
+Germany,DEU,1991,Population,80013896.0
+Germany,DEU,1990,Population,79433029.0
+Germany,DEU,1989,Population,78751283.0
+Germany,DEU,1988,Population,78144619.0
+Germany,DEU,1987,Population,77839920.0
+Germany,DEU,1986,Population,77720436.0
+Germany,DEU,1985,Population,77684873.0
+Germany,DEU,1984,Population,77858685.0
+Germany,DEU,1983,Population,78128282.0
+Germany,DEU,1982,Population,78333366.0
+Germany,DEU,1981,Population,78407907.0
+Germany,DEU,1980,Population,78288576.0
+Germany,DEU,1979,Population,78126350.0
+Germany,DEU,1978,Population,78091820.0
+Germany,DEU,1977,Population,78159814.0
+Germany,DEU,1976,Population,78336950.0
+Germany,DEU,1975,Population,78673554.0
+Germany,DEU,1974,Population,78967433.0
+Germany,DEU,1973,Population,78936666.0
+Germany,DEU,1972,Population,78688452.0
+Germany,DEU,1971,Population,78312842.0
+Germany,DEU,1970,Population,78169289.0
+Germany,DEU,1969,Population,77909682.0
+Germany,DEU,1968,Population,77294314.0
+Germany,DEU,1967,Population,76951336.0
+Germany,DEU,1966,Population,76600311.0
+Germany,DEU,1965,Population,75963695.0
+Germany,DEU,1964,Population,75318337.0
+Germany,DEU,1963,Population,74714353.0
+Germany,DEU,1962,Population,74025784.0
+Germany,DEU,1961,Population,73377632.0
+Germany,DEU,1960,Population,72814900.0
+United Kingdom,GBR,2025,GDP_per_capita,57601.9621201954
+United Kingdom,GBR,2024,GDP_per_capita,53341.3131094262
+United Kingdom,GBR,2023,GDP_per_capita,49919.6896621586
+United Kingdom,GBR,2022,GDP_per_capita,47034.7795621476
+United Kingdom,GBR,2021,GDP_per_capita,47695.6491523474
+United Kingdom,GBR,2020,GDP_per_capita,40815.1255364787
+United Kingdom,GBR,2019,GDP_per_capita,43160.6843971799
+United Kingdom,GBR,2018,GDP_per_capita,43704.3162296687
+United Kingdom,GBR,2017,GDP_per_capita,40918.0520870944
+United Kingdom,GBR,2016,GDP_per_capita,41258.5374285695
+United Kingdom,GBR,2015,GDP_per_capita,45256.040227057
+United Kingdom,GBR,2014,GDP_per_capita,47746.9810645521
+United Kingdom,GBR,2013,GDP_per_capita,43607.6636827371
+United Kingdom,GBR,2012,GDP_per_capita,42688.3263728372
+United Kingdom,GBR,2011,GDP_per_capita,42295.9273835322
+United Kingdom,GBR,2010,GDP_per_capita,39778.3220528565
+United Kingdom,GBR,2009,GDP_per_capita,39009.3715547821
+United Kingdom,GBR,2008,GDP_per_capita,47652.4030691881
+United Kingdom,GBR,2007,GDP_per_capita,50629.0799172887
+United Kingdom,GBR,2006,GDP_per_capita,44695.161023424
+United Kingdom,GBR,2005,GDP_per_capita,42240.2462987547
+United Kingdom,GBR,2004,GDP_per_capita,40504.4118103928
+United Kingdom,GBR,2003,GDP_per_capita,34556.7726095905
+United Kingdom,GBR,2002,GDP_per_capita,30158.7017807858
+United Kingdom,GBR,2001,GDP_per_capita,28013.8729635508
+United Kingdom,GBR,2000,GDP_per_capita,28383.8761094996
+United Kingdom,GBR,1999,GDP_per_capita,28858.0065333126
+United Kingdom,GBR,1998,GDP_per_capita,28396.3523548013
+United Kingdom,GBR,1997,GDP_per_capita,26910.1381529902
+United Kingdom,GBR,1996,GDP_per_capita,24503.3829602903
+United Kingdom,GBR,1995,GDP_per_capita,23252.6157127423
+United Kingdom,GBR,1994,GDP_per_capita,19709.2380983653
+United Kingdom,GBR,1993,GDP_per_capita,18389.0195675099
+United Kingdom,GBR,1992,GDP_per_capita,20487.1707852878
+United Kingdom,GBR,1991,GDP_per_capita,19900.7266505069
+United Kingdom,GBR,1990,GDP_per_capita,19095.4669984608
+United Kingdom,GBR,1989,GDP_per_capita,16239.2821960944
+United Kingdom,GBR,1988,GDP_per_capita,15987.1680775688
+United Kingdom,GBR,1987,GDP_per_capita,13118.586534629
+United Kingdom,GBR,1986,GDP_per_capita,10611.112210096
+United Kingdom,GBR,1985,GDP_per_capita,8652.21654247593
+United Kingdom,GBR,1984,GDP_per_capita,8179.19444064991
+United Kingdom,GBR,1983,GDP_per_capita,8691.51881306514
+United Kingdom,GBR,1982,GDP_per_capita,9146.07735701852
+United Kingdom,GBR,1981,GDP_per_capita,9599.30622221965
+United Kingdom,GBR,1980,GDP_per_capita,10032.062080015
+United Kingdom,GBR,1979,GDP_per_capita,7804.76208051155
+United Kingdom,GBR,1978,GDP_per_capita,5976.93816899991
+United Kingdom,GBR,1977,GDP_per_capita,4681.43993173038
+United Kingdom,GBR,1976,GDP_per_capita,4138.16778761535
+United Kingdom,GBR,1975,GDP_per_capita,4299.74561799284
+United Kingdom,GBR,1974,GDP_per_capita,3665.8627976419
+United Kingdom,GBR,1973,GDP_per_capita,3426.27622050378
+United Kingdom,GBR,1972,GDP_per_capita,3030.43251411977
+United Kingdom,GBR,1971,GDP_per_capita,2649.80151387223
+United Kingdom,GBR,1970,GDP_per_capita,2347.54431773747
+United Kingdom,GBR,1969,GDP_per_capita,2100.66786858672
+United Kingdom,GBR,1968,GDP_per_capita,1951.75859587532
+United Kingdom,GBR,1967,GDP_per_capita,2058.78188198056
+United Kingdom,GBR,1966,GDP_per_capita,1986.74715869685
+United Kingdom,GBR,1965,GDP_per_capita,1873.56777435421
+United Kingdom,GBR,1964,GDP_per_capita,1748.2881176141
+United Kingdom,GBR,1963,GDP_per_capita,1613.45688373392
+United Kingdom,GBR,1962,GDP_per_capita,1525.77585271032
+United Kingdom,GBR,1961,GDP_per_capita,1472.38571407868
+United Kingdom,GBR,1960,GDP_per_capita,1397.5948032844
+United Kingdom,GBR,2024,Life_expectancy,81.3868536585366
+United Kingdom,GBR,2023,Life_expectancy,81.2380975609756
+United Kingdom,GBR,2022,Life_expectancy,81.0112195121951
+United Kingdom,GBR,2021,Life_expectancy,80.6473170731707
+United Kingdom,GBR,2020,Life_expectancy,80.331756097561
+United Kingdom,GBR,2019,Life_expectancy,81.3691219512195
+United Kingdom,GBR,2018,Life_expectancy,81.2560975609756
+United Kingdom,GBR,2017,Life_expectancy,81.2560975609756
+United Kingdom,GBR,2016,Life_expectancy,81.1560975609756
+United Kingdom,GBR,2015,Life_expectancy,80.9560975609756
+United Kingdom,GBR,2014,Life_expectancy,81.3048780487805
+United Kingdom,GBR,2013,Life_expectancy,81.0048780487805
+United Kingdom,GBR,2012,Life_expectancy,80.9048780487805
+United Kingdom,GBR,2011,Life_expectancy,80.9512195121951
+United Kingdom,GBR,2010,Life_expectancy,80.4024390243902
+United Kingdom,GBR,2009,Life_expectancy,80.0512195121951
+United Kingdom,GBR,2008,Life_expectancy,79.6
+United Kingdom,GBR,2007,Life_expectancy,79.4487804878049
+United Kingdom,GBR,2006,Life_expectancy,79.2487804878049
+United Kingdom,GBR,2005,Life_expectancy,79.0487804878049
+United Kingdom,GBR,2004,Life_expectancy,78.7463414634146
+United Kingdom,GBR,2003,Life_expectancy,78.4463414634146
+United Kingdom,GBR,2002,Life_expectancy,78.1439024390244
+United Kingdom,GBR,2001,Life_expectancy,77.9926829268293
+United Kingdom,GBR,2000,Life_expectancy,77.7414634146342
+United Kingdom,GBR,1999,Life_expectancy,77.390243902439
+United Kingdom,GBR,1998,Life_expectancy,77.190243902439
+United Kingdom,GBR,1997,Life_expectancy,77.2109756097561
+United Kingdom,GBR,1996,Life_expectancy,77.0878048780488
+United Kingdom,GBR,1995,Life_expectancy,76.8365853658537
+United Kingdom,GBR,1994,Life_expectancy,76.8853658536585
+United Kingdom,GBR,1993,Life_expectancy,76.3853658536585
+United Kingdom,GBR,1992,Life_expectancy,76.4341463414634
+United Kingdom,GBR,1991,Life_expectancy,76.0829268292683
+United Kingdom,GBR,1990,Life_expectancy,75.8804878048781
+United Kingdom,GBR,1989,Life_expectancy,75.5829268292683
+United Kingdom,GBR,1988,Life_expectancy,75.3804878048781
+United Kingdom,GBR,1987,Life_expectancy,75.280487804878
+United Kingdom,GBR,1986,Life_expectancy,74.9292682926829
+United Kingdom,GBR,1985,Life_expectancy,74.6292682926829
+United Kingdom,GBR,1984,Life_expectancy,74.7780487804878
+United Kingdom,GBR,1983,Life_expectancy,74.3780487804878
+United Kingdom,GBR,1982,Life_expectancy,74.1780487804878
+United Kingdom,GBR,1981,Life_expectancy,74.0268292682927
+United Kingdom,GBR,1980,Life_expectancy,73.6756097560976
+United Kingdom,GBR,1979,Life_expectancy,73.2756097560976
+United Kingdom,GBR,1978,Life_expectancy,73.1756097560976
+United Kingdom,GBR,1977,Life_expectancy,73.2243902439024
+United Kingdom,GBR,1976,Life_expectancy,72.7756097560976
+United Kingdom,GBR,1975,Life_expectancy,72.7243902439024
+United Kingdom,GBR,1974,Life_expectancy,72.5243902439024
+United Kingdom,GBR,1973,Life_expectancy,72.3243902439024
+United Kingdom,GBR,1972,Life_expectancy,72.1243902439024
+United Kingdom,GBR,1971,Life_expectancy,72.2731707317073
+United Kingdom,GBR,1970,Life_expectancy,71.9731707317073
+United Kingdom,GBR,1969,Life_expectancy,71.7219512195122
+United Kingdom,GBR,1968,Life_expectancy,71.7243902439025
+United Kingdom,GBR,1967,Life_expectancy,72.1243902439024
+United Kingdom,GBR,1966,Life_expectancy,71.5731707317073
+United Kingdom,GBR,1965,Life_expectancy,71.6243902439024
+United Kingdom,GBR,1964,Life_expectancy,71.6243902439024
+United Kingdom,GBR,1963,Life_expectancy,70.8268292682927
+United Kingdom,GBR,1962,Life_expectancy,70.9268292682927
+United Kingdom,GBR,1961,Life_expectancy,70.8780487804878
+United Kingdom,GBR,1960,Life_expectancy,71.1268292682927
+United Kingdom,GBR,2025,Population,69487000.0
+United Kingdom,GBR,2024,Population,69281000.0
+United Kingdom,GBR,2023,Population,68526000.0
+United Kingdom,GBR,2022,Population,67636000.0
+United Kingdom,GBR,2021,Population,66978000.0
+United Kingdom,GBR,2020,Population,66740000.0
+United Kingdom,GBR,2019,Population,66628000.0
+United Kingdom,GBR,2018,Population,66287000.0
+United Kingdom,GBR,2017,Population,65964000.0
+United Kingdom,GBR,2016,Population,65606000.0
+United Kingdom,GBR,2015,Population,65087000.0
+United Kingdom,GBR,2014,Population,64619000.0
+United Kingdom,GBR,2013,Population,64138000.0
+United Kingdom,GBR,2012,Population,63711000.0
+United Kingdom,GBR,2011,Population,63258810.0
+United Kingdom,GBR,2010,Population,62766365.0
+United Kingdom,GBR,2009,Population,62276270.0
+United Kingdom,GBR,2008,Population,61806995.0
+United Kingdom,GBR,2007,Population,61322463.0
+United Kingdom,GBR,2006,Population,60846820.0
+United Kingdom,GBR,2005,Population,60401206.0
+United Kingdom,GBR,2004,Population,59987905.0
+United Kingdom,GBR,2003,Population,59647577.0
+United Kingdom,GBR,2002,Population,59370479.0
+United Kingdom,GBR,2001,Population,59119673.0
+United Kingdom,GBR,2000,Population,58892514.0
+United Kingdom,GBR,1999,Population,58682466.0
+United Kingdom,GBR,1998,Population,58487141.0
+United Kingdom,GBR,1997,Population,58316954.0
+United Kingdom,GBR,1996,Population,58166950.0
+United Kingdom,GBR,1995,Population,58019030.0
+United Kingdom,GBR,1994,Population,57865745.0
+United Kingdom,GBR,1993,Population,57718614.0
+United Kingdom,GBR,1992,Population,57580402.0
+United Kingdom,GBR,1991,Population,57424897.0
+United Kingdom,GBR,1990,Population,57247586.0
+United Kingdom,GBR,1989,Population,57076711.0
+United Kingdom,GBR,1988,Population,56928327.0
+United Kingdom,GBR,1987,Population,56802050.0
+United Kingdom,GBR,1986,Population,56681396.0
+United Kingdom,GBR,1985,Population,56550268.0
+United Kingdom,GBR,1984,Population,56422072.0
+United Kingdom,GBR,1983,Population,56332848.0
+United Kingdom,GBR,1982,Population,56313641.0
+United Kingdom,GBR,1981,Population,56333829.0
+United Kingdom,GBR,1980,Population,56314216.0
+United Kingdom,GBR,1979,Population,56246951.0
+United Kingdom,GBR,1978,Population,56196504.0
+United Kingdom,GBR,1977,Population,56193492.0
+United Kingdom,GBR,1976,Population,56211968.0
+United Kingdom,GBR,1975,Population,56225800.0
+United Kingdom,GBR,1974,Population,56229974.0
+United Kingdom,GBR,1973,Population,56194527.0
+United Kingdom,GBR,1972,Population,56086065.0
+United Kingdom,GBR,1971,Population,55896223.0
+United Kingdom,GBR,1970,Population,55663250.0
+United Kingdom,GBR,1969,Population,55441750.0
+United Kingdom,GBR,1968,Population,55211700.0
+United Kingdom,GBR,1967,Population,54943600.0
+United Kingdom,GBR,1966,Population,54648500.0
+United Kingdom,GBR,1965,Population,54348050.0
+United Kingdom,GBR,1964,Population,54000000.0
+United Kingdom,GBR,1963,Population,53650000.0
+United Kingdom,GBR,1962,Population,53250000.0
+United Kingdom,GBR,1961,Population,52800000.0
+United Kingdom,GBR,1960,Population,52400000.0
+France,FRA,2025,GDP_per_capita,48985.7307807924
+France,FRA,2024,GDP_per_capita,46103.0840855884
+France,FRA,2023,GDP_per_capita,44700.1384177544
+France,FRA,2022,GDP_per_capita,40988.6396406579
+France,FRA,2021,GDP_per_capita,43725.0999521245
+France,FRA,2020,GDP_per_capita,39169.8606000707
+France,FRA,2019,GDP_per_capita,40408.2848574751
+France,FRA,2018,GDP_per_capita,41418.1766484844
+France,FRA,2017,GDP_per_capita,38687.1626407164
+France,FRA,2016,GDP_per_capita,37024.2157133669
+France,FRA,2015,GDP_per_capita,36702.4323733379
+France,FRA,2014,GDP_per_capita,43148.0459288416
+France,FRA,2013,GDP_per_capita,42669.1795111893
+France,FRA,2012,GDP_per_capita,40863.5814412333
+France,FRA,2011,GDP_per_capita,43929.7840873812
+France,FRA,2010,GDP_per_capita,40694.8211697025
+France,FRA,2009,GDP_per_capita,41728.0884164132
+France,FRA,2008,GDP_per_capita,45464.8181385158
+France,FRA,2007,GDP_per_capita,41486.1907828787
+France,FRA,2006,GDP_per_capita,36431.5658906555
+France,FRA,2005,GDP_per_capita,34696.3718316971
+France,FRA,2004,GDP_per_capita,33644.9282220364
+France,FRA,2003,GDP_per_capita,29479.5222101175
+France,FRA,2002,GDP_per_capita,24144.5727019529
+France,FRA,2001,GDP_per_capita,22331.7948343036
+France,FRA,2000,GDP_per_capita,22340.5939516217
+France,FRA,1999,GDP_per_capita,24576.3152254528
+France,FRA,1998,GDP_per_capita,24869.4030795939
+France,FRA,1997,GDP_per_capita,24169.4008102822
+France,FRA,1996,GDP_per_capita,26757.6351494145
+France,FRA,1995,GDP_per_capita,26791.8151982369
+France,FRA,1994,GDP_per_capita,23359.8985104774
+France,FRA,1993,GDP_per_capita,22238.8250618434
+France,FRA,1992,GDP_per_capita,23615.0168565483
+France,FRA,1991,GDP_per_capita,21500.7778366233
+France,FRA,1990,GDP_per_capita,21586.4674617483
+France,FRA,1989,GDP_per_capita,17547.2645422514
+France,FRA,1988,GDP_per_capita,17549.6440487161
+France,FRA,1987,GDP_per_capita,16175.7090467566
+France,FRA,1986,GDP_per_capita,13430.4824599685
+France,FRA,1985,GDP_per_capita,9657.01938533723
+France,FRA,1984,GDP_per_capita,9311.89426452129
+France,FRA,1983,GDP_per_capita,9862.28449386586
+France,FRA,1982,GDP_per_capita,10359.8920663549
+France,FRA,1981,GDP_per_capita,10955.9002996167
+France,FRA,1980,GDP_per_capita,12565.1639377144
+France,FRA,1979,GDP_per_capita,11062.5731730373
+France,FRA,1978,GDP_per_capita,9166.59011961391
+France,FRA,1977,GDP_per_capita,7458.76424117602
+France,FRA,1976,GDP_per_capita,6792.3099035538
+France,FRA,1975,GDP_per_capita,6616.76722499173
+France,FRA,1974,GDP_per_capita,5260.60025882755
+France,FRA,1973,GDP_per_capita,4906.53555379458
+France,FRA,1972,GDP_per_capita,3809.09946046394
+France,FRA,1971,GDP_per_capita,3137.05929958055
+France,FRA,1970,GDP_per_capita,2832.54913756906
+France,FRA,1969,GDP_per_capita,2729.37124785377
+France,FRA,1968,GDP_per_capita,2518.15825593491
+France,FRA,1967,GDP_per_capita,2328.11785496887
+France,FRA,1966,GDP_per_capita,2172.59339649824
+France,FRA,1965,GDP_per_capita,2023.50184544884
+France,FRA,1964,GDP_per_capita,1891.12061521027
+France,FRA,1963,GDP_per_capita,1723.23648290171
+France,FRA,1962,GDP_per_capita,1553.99323202639
+France,FRA,1961,GDP_per_capita,1401.87190432812
+France,FRA,1960,GDP_per_capita,1306.79629911648
+France,FRA,2024,Life_expectancy,82.9804878048781
+France,FRA,2023,Life_expectancy,82.8317073170732
+France,FRA,2022,Life_expectancy,82.1292682926829
+France,FRA,2021,Life_expectancy,82.3243902439024
+France,FRA,2020,Life_expectancy,82.1756097560976
+France,FRA,2019,Life_expectancy,82.8268292682927
+France,FRA,2018,Life_expectancy,82.6756097560976
+France,FRA,2017,Life_expectancy,82.5756097560976
+France,FRA,2016,Life_expectancy,82.5731707317073
+France,FRA,2015,Life_expectancy,82.3219512195122
+France,FRA,2014,Life_expectancy,82.719512195122
+France,FRA,2013,Life_expectancy,82.219512195122
+France,FRA,2012,Life_expectancy,81.9682926829268
+France,FRA,2011,Life_expectancy,82.1146341463415
+France,FRA,2010,Life_expectancy,81.6634146341463
+France,FRA,2009,Life_expectancy,81.4146341463415
+France,FRA,2008,Life_expectancy,81.2146341463415
+France,FRA,2007,Life_expectancy,81.1121951219512
+France,FRA,2006,Life_expectancy,80.8121951219512
+France,FRA,2005,Life_expectancy,80.1634146341463
+France,FRA,2004,Life_expectancy,80.1634146341463
+France,FRA,2003,Life_expectancy,79.1146341463415
+France,FRA,2002,Life_expectancy,79.2609756097561
+France,FRA,2001,Life_expectancy,79.1585365853659
+France,FRA,2000,Life_expectancy,79.0560975609756
+France,FRA,1999,Life_expectancy,78.7560975609756
+France,FRA,1998,Life_expectancy,78.6048780487805
+France,FRA,1997,Life_expectancy,78.3048780487805
+France,FRA,1996,Life_expectancy,77.9536585365854
+France,FRA,1995,Life_expectancy,77.7512195121951
+France,FRA,1994,Life_expectancy,77.6487804878049
+France,FRA,1993,Life_expectancy,77.3
+France,FRA,1992,Life_expectancy,77.1
+France,FRA,1991,Life_expectancy,76.8487804878049
+France,FRA,1990,Life_expectancy,76.6
+France,FRA,1989,Life_expectancy,76.3487804878049
+France,FRA,1988,Life_expectancy,76.1
+France,FRA,1987,Life_expectancy,75.8
+France,FRA,1986,Life_expectancy,75.6
+France,FRA,1985,Life_expectancy,75.3
+France,FRA,1984,Life_expectancy,75.0
+France,FRA,1983,Life_expectancy,74.8
+France,FRA,1982,Life_expectancy,74.5
+France,FRA,1981,Life_expectancy,74.3
+France,FRA,1980,Life_expectancy,74.0512195121951
+France,FRA,1979,Life_expectancy,73.8512195121951
+France,FRA,1978,Life_expectancy,73.6024390243903
+France,FRA,1977,Life_expectancy,73.3512195121951
+France,FRA,1976,Life_expectancy,73.1024390243903
+France,FRA,1975,Life_expectancy,72.8536585365854
+France,FRA,1974,Life_expectancy,72.6048780487805
+France,FRA,1973,Life_expectancy,72.3560975609756
+France,FRA,1972,Life_expectancy,72.1073170731707
+France,FRA,1971,Life_expectancy,71.9073170731707
+France,FRA,1970,Life_expectancy,71.6585365853659
+France,FRA,1969,Life_expectancy,71.4585365853659
+France,FRA,1968,Life_expectancy,71.309756097561
+France,FRA,1967,Life_expectancy,71.1609756097561
+France,FRA,1966,Life_expectancy,70.9609756097561
+France,FRA,1965,Life_expectancy,70.8121951219512
+France,FRA,1964,Life_expectancy,70.6634146341463
+France,FRA,1963,Life_expectancy,70.5146341463415
+France,FRA,1962,Life_expectancy,70.3146341463415
+France,FRA,1961,Life_expectancy,70.1170731707317
+France,FRA,1960,Life_expectancy,69.8682926829268
+France,FRA,2025,Population,68720337.0
+France,FRA,2024,Population,68551653.0
+France,FRA,2023,Population,68372286.0
+France,FRA,2022,Population,68184457.0
+France,FRA,2021,Population,67842811.0
+France,FRA,2020,Population,67601110.0
+France,FRA,2019,Population,67382061.0
+France,FRA,2018,Population,67158348.0
+France,FRA,2017,Population,66918020.0
+France,FRA,2016,Population,66724104.0
+France,FRA,2015,Population,66548272.0
+France,FRA,2014,Population,66312067.0
+France,FRA,2013,Population,65997932.0
+France,FRA,2012,Population,65657659.0
+France,FRA,2011,Population,65340830.0
+France,FRA,2010,Population,65026211.0
+France,FRA,2009,Population,64706436.0
+France,FRA,2008,Population,64375116.0
+France,FRA,2007,Population,64016890.0
+France,FRA,2006,Population,63622342.0
+France,FRA,2005,Population,63180854.0
+France,FRA,2004,Population,62707588.0
+France,FRA,2003,Population,62249855.0
+France,FRA,2002,Population,61812142.0
+France,FRA,2001,Population,61364377.0
+France,FRA,2000,Population,60918661.0
+France,FRA,1999,Population,60501986.0
+France,FRA,1998,Population,60190684.0
+France,FRA,1997,Population,59968066.0
+France,FRA,1996,Population,59754504.0
+France,FRA,1995,Population,59541294.0
+France,FRA,1994,Population,59324863.0
+France,FRA,1993,Population,59103094.0
+France,FRA,1992,Population,58846584.0
+France,FRA,1991,Population,58554242.0
+France,FRA,1990,Population,58261012.0
+France,FRA,1989,Population,57943062.0
+France,FRA,1988,Population,57598186.0
+France,FRA,1987,Population,57266167.0
+France,FRA,1986,Population,56956002.0
+France,FRA,1985,Population,56665619.0
+France,FRA,1984,Population,56383085.0
+France,FRA,1983,Population,56108330.0
+France,FRA,1982,Population,55806789.0
+France,FRA,1981,Population,55603353.0
+France,FRA,1980,Population,55274184.0
+France,FRA,1979,Population,54979851.0
+France,FRA,1978,Population,54734030.0
+France,FRA,1977,Population,54486467.0
+France,FRA,1976,Population,54232383.0
+France,FRA,1975,Population,54002853.0
+France,FRA,1974,Population,53746571.0
+France,FRA,1973,Population,53392161.0
+France,FRA,1972,Population,52962356.0
+France,FRA,1971,Population,52499553.0
+France,FRA,1970,Population,52007169.0
+France,FRA,1969,Population,51536014.0
+France,FRA,1968,Population,51112980.0
+France,FRA,1967,Population,50722791.0
+France,FRA,1966,Population,50311637.0
+France,FRA,1965,Population,49877725.0
+France,FRA,1964,Population,49401492.0
+France,FRA,1963,Population,48877567.0
+France,FRA,1962,Population,48389516.0
+France,FRA,1961,Population,47905982.0
+France,FRA,1960,Population,47412964.0
+Brazil,BRA,2025,GDP_per_capita,10713.2856869511
+Brazil,BRA,2024,GDP_per_capita,10310.5486973693
+Brazil,BRA,2023,GDP_per_capita,10377.5892792557
+Brazil,BRA,2022,GDP_per_capita,9281.33334441234
+Brazil,BRA,2021,GDP_per_capita,7972.5366498646
+Brazil,BRA,2020,GDP_per_capita,7074.19378337644
+Brazil,BRA,2019,GDP_per_capita,9029.83326681073
+Brazil,BRA,2018,GDP_per_capita,9300.66164923219
+Brazil,BRA,2017,GDP_per_capita,10080.5092819305
+Brazil,BRA,2016,GDP_per_capita,8836.28652735657
+Brazil,BRA,2015,GDP_per_capita,8936.19661712113
+Brazil,BRA,2014,GDP_per_capita,12274.9939689363
+Brazil,BRA,2013,GDP_per_capita,12458.8912138813
+Brazil,BRA,2012,GDP_per_capita,12521.7213519966
+Brazil,BRA,2011,GDP_per_capita,13396.6243562986
+Brazil,BRA,2010,GDP_per_capita,11403.2821278747
+Brazil,BRA,2009,GDP_per_capita,8678.6592244676
+Brazil,BRA,2008,GDP_per_capita,8908.33176538648
+Brazil,BRA,2007,GDP_per_capita,7409.69130673473
+Brazil,BRA,2006,GDP_per_capita,5934.14470924968
+Brazil,BRA,2005,GDP_per_capita,4827.78173074714
+Brazil,BRA,2004,GDP_per_capita,3663.823188064
+Brazil,BRA,2003,GDP_per_capita,3090.6070097455
+Brazil,BRA,2002,GDP_per_capita,2855.94018885769
+Brazil,BRA,2001,GDP_per_capita,3176.28935747524
+Brazil,BRA,2000,GDP_per_capita,3766.54811466032
+Brazil,BRA,1999,GDP_per_capita,3493.57162513699
+Brazil,BRA,1998,GDP_per_capita,5105.89099544117
+Brazil,BRA,1997,GDP_per_capita,5299.39630404412
+Brazil,BRA,1996,GDP_per_capita,5179.13052002464
+Brazil,BRA,1995,GDP_per_capita,4756.74840785403
+Brazil,BRA,1994,GDP_per_capita,3298.71250747787
+Brazil,BRA,1993,GDP_per_capita,2348.88247685352
+Brazil,BRA,1992,GDP_per_capita,2127.31642731638
+Brazil,BRA,1991,GDP_per_capita,2257.6092968885
+Brazil,BRA,1990,GDP_per_capita,2581.14187449078
+Brazil,BRA,1989,GDP_per_capita,2818.99277980122
+Brazil,BRA,1988,GDP_per_capita,2140.65027561164
+Brazil,BRA,1987,GDP_per_capita,2006.00226235757
+Brazil,BRA,1986,GDP_per_capita,1854.03775211919
+Brazil,BRA,1985,GDP_per_capita,1556.1297180511
+Brazil,BRA,1984,GDP_per_capita,1419.73154606978
+Brazil,BRA,1983,GDP_per_capita,1461.25582714178
+Brazil,BRA,1982,GDP_per_capita,2137.6250359394
+Brazil,BRA,1981,GDP_per_capita,2079.70908377484
+Brazil,BRA,1980,GDP_per_capita,1958.57159232662
+Brazil,BRA,1979,GDP_per_capita,1869.7133759549
+Brazil,BRA,1978,GDP_per_capita,1732.50012204556
+Brazil,BRA,1977,GDP_per_capita,1562.29143045708
+Brazil,BRA,1976,GDP_per_capita,1389.74952306555
+Brazil,BRA,1975,GDP_per_capita,1200.55823714607
+Brazil,BRA,1974,GDP_per_capita,1044.76980947499
+Brazil,BRA,1973,GDP_per_capita,814.731780553415
+Brazil,BRA,1972,GDP_per_capita,583.492034946156
+Brazil,BRA,1971,GDP_per_capita,500.001988983361
+Brazil,BRA,1970,GDP_per_capita,443.799484982738
+Brazil,BRA,1969,GDP_per_capita,399.49841913391
+Brazil,BRA,1968,GDP_per_capita,373.925432639683
+Brazil,BRA,1967,GDP_per_capita,351.472600370379
+Brazil,BRA,1966,GDP_per_capita,328.343791519407
+Brazil,BRA,1965,GDP_per_capita,268.028760553723
+Brazil,BRA,1964,GDP_per_capita,257.259726897671
+Brazil,BRA,1963,GDP_per_capita,294.169619376733
+Brazil,BRA,1962,GDP_per_capita,250.200572910273
+Brazil,BRA,1961,GDP_per_capita,231.564063269854
+Brazil,BRA,1960,GDP_per_capita,235.266009502589
+Brazil,BRA,2024,Life_expectancy,76.023
+Brazil,BRA,2023,Life_expectancy,75.848
+Brazil,BRA,2022,Life_expectancy,74.872
+Brazil,BRA,2021,Life_expectancy,73.038
+Brazil,BRA,2020,Life_expectancy,74.506
+Brazil,BRA,2019,Life_expectancy,75.809
+Brazil,BRA,2018,Life_expectancy,75.633
+Brazil,BRA,2017,Life_expectancy,75.383
+Brazil,BRA,2016,Life_expectancy,75.081
+Brazil,BRA,2015,Life_expectancy,75.106
+Brazil,BRA,2014,Life_expectancy,74.823
+Brazil,BRA,2013,Life_expectancy,74.609
+Brazil,BRA,2012,Life_expectancy,74.335
+Brazil,BRA,2011,Life_expectancy,74.047
+Brazil,BRA,2010,Life_expectancy,73.779
+Brazil,BRA,2009,Life_expectancy,73.457
+Brazil,BRA,2008,Life_expectancy,73.111
+Brazil,BRA,2007,Life_expectancy,72.73
+Brazil,BRA,2006,Life_expectancy,72.296
+Brazil,BRA,2005,Life_expectancy,71.832
+Brazil,BRA,2004,Life_expectancy,71.361
+Brazil,BRA,2003,Life_expectancy,70.884
+Brazil,BRA,2002,Life_expectancy,70.396
+Brazil,BRA,2001,Life_expectancy,69.98
+Brazil,BRA,2000,Life_expectancy,69.584
+Brazil,BRA,1999,Life_expectancy,69.211
+Brazil,BRA,1998,Life_expectancy,68.848
+Brazil,BRA,1997,Life_expectancy,68.505
+Brazil,BRA,1996,Life_expectancy,68.108
+Brazil,BRA,1995,Life_expectancy,67.701
+Brazil,BRA,1994,Life_expectancy,67.293
+Brazil,BRA,1993,Life_expectancy,66.892
+Brazil,BRA,1992,Life_expectancy,66.539
+Brazil,BRA,1991,Life_expectancy,66.203
+Brazil,BRA,1990,Life_expectancy,65.862
+Brazil,BRA,1989,Life_expectancy,65.514
+Brazil,BRA,1988,Life_expectancy,65.161
+Brazil,BRA,1987,Life_expectancy,64.785
+Brazil,BRA,1986,Life_expectancy,64.389
+Brazil,BRA,1985,Life_expectancy,63.98
+Brazil,BRA,1984,Life_expectancy,63.553
+Brazil,BRA,1983,Life_expectancy,63.133
+Brazil,BRA,1982,Life_expectancy,62.708
+Brazil,BRA,1981,Life_expectancy,62.267
+Brazil,BRA,1980,Life_expectancy,61.819
+Brazil,BRA,1979,Life_expectancy,61.365
+Brazil,BRA,1978,Life_expectancy,60.922
+Brazil,BRA,1977,Life_expectancy,60.461
+Brazil,BRA,1976,Life_expectancy,60.007
+Brazil,BRA,1975,Life_expectancy,59.556
+Brazil,BRA,1974,Life_expectancy,59.081
+Brazil,BRA,1973,Life_expectancy,58.681
+Brazil,BRA,1972,Life_expectancy,58.255
+Brazil,BRA,1971,Life_expectancy,57.786
+Brazil,BRA,1970,Life_expectancy,57.338
+Brazil,BRA,1969,Life_expectancy,56.898
+Brazil,BRA,1968,Life_expectancy,56.47
+Brazil,BRA,1967,Life_expectancy,56.016
+Brazil,BRA,1966,Life_expectancy,55.625
+Brazil,BRA,1965,Life_expectancy,55.243
+Brazil,BRA,1964,Life_expectancy,54.848
+Brazil,BRA,1963,Life_expectancy,54.452
+Brazil,BRA,1962,Life_expectancy,54.017
+Brazil,BRA,1961,Life_expectancy,53.594
+Brazil,BRA,1960,Life_expectancy,53.162
+Brazil,BRA,2025,Population,212812405.0
+Canada,CAN,2025,GDP_per_capita,55697.6639660837
+Canada,CAN,2024,GDP_per_capita,55015.7066917734
+Canada,CAN,2023,GDP_per_capita,54847.5370112652
+Canada,CAN,2022,GDP_per_capita,56496.9275340663
+Canada,CAN,2021,GDP_per_capita,52886.6407813788
+Canada,CAN,2020,GDP_per_capita,43537.8981198851
+Canada,CAN,2019,GDP_per_capita,46352.9695208927
+Canada,CAN,2018,GDP_per_capita,46539.2177903178
+Canada,CAN,2017,GDP_per_capita,45129.7335281051
+Canada,CAN,2016,GDP_per_capita,42314.1033623905
+Canada,CAN,2015,GDP_per_capita,43594.2379080706
+Canada,CAN,2014,GDP_per_capita,50960.8942086685
+Canada,CAN,2013,GDP_per_capita,52637.7313222622
+Canada,CAN,2012,GDP_per_capita,52670.1429540952
+Canada,CAN,2011,GDP_per_capita,52224.1237767406
+Canada,CAN,2010,GDP_per_capita,47560.8378831258
+Canada,CAN,2009,GDP_per_capita,40874.9612318547
+Canada,CAN,2008,GDP_per_capita,46710.3654423328
+Canada,CAN,2007,GDP_per_capita,44660.0838892281
+Canada,CAN,2006,GDP_per_capita,40504.8490329826
+Canada,CAN,2005,GDP_per_capita,36383.9671341396
+Canada,CAN,2004,GDP_per_capita,32145.5653280273
+Canada,CAN,2003,GDP_per_capita,28301.9097055898
+Canada,CAN,2002,GDP_per_capita,24256.0598742201
+Canada,CAN,2001,GDP_per_capita,23822.096210932
+Canada,CAN,2000,GDP_per_capita,24271.0020563821
+Canada,CAN,1999,GDP_per_capita,22315.3130930482
+Canada,CAN,1998,GDP_per_capita,21024.5627149423
+Canada,CAN,1997,GDP_per_capita,21901.5870048928
+Canada,CAN,1996,GDP_per_capita,21296.9723536904
+Canada,CAN,1995,GDP_per_capita,20679.634792669
+Canada,CAN,1994,GDP_per_capita,19997.6237373354
+Canada,CAN,1993,GDP_per_capita,20186.7988782965
+Canada,CAN,1992,GDP_per_capita,20950.3305287651
+Canada,CAN,1991,GDP_per_capita,21846.7930471354
+Canada,CAN,1990,GDP_per_capita,21525.8611387148
+Canada,CAN,1989,GDP_per_capita,20794.682233334
+Canada,CAN,1988,GDP_per_capita,19012.5723278349
+Canada,CAN,1987,GDP_per_capita,16377.6902109541
+Canada,CAN,1986,GDP_per_capita,14521.1800806
+Canada,CAN,1985,GDP_per_capita,14170.1249406067
+Canada,CAN,1984,GDP_per_capita,13930.4745502555
+Canada,CAN,1983,GDP_per_capita,13477.1031699599
+Canada,CAN,1982,GDP_per_capita,12527.3135323802
+Canada,CAN,1981,GDP_per_capita,12379.0368643833
+Canada,CAN,1980,GDP_per_capita,11208.2027394178
+Canada,CAN,1979,GDP_per_capita,10077.5026707269
+Canada,CAN,1978,GDP_per_capita,9154.43325277735
+Canada,CAN,1977,GDP_per_capita,8949.10989272982
+Canada,CAN,1976,GDP_per_capita,8838.94710677652
+Canada,CAN,1975,GDP_per_capita,7536.52009823861
+Canada,CAN,1974,GDP_per_capita,7056.70847496589
+Canada,CAN,1973,GDP_per_capita,5858.33407318788
+Canada,CAN,1972,GDP_per_capita,5106.73708049128
+Canada,CAN,1971,GDP_per_capita,4535.39338907773
+Canada,CAN,1970,GDP_per_capita,4135.82149842006
+Canada,CAN,1969,GDP_per_capita,3776.15613110238
+Canada,CAN,1968,GDP_per_capita,3473.23722551871
+Canada,CAN,1967,GDP_per_capita,3226.38273682011
+Canada,CAN,1966,GDP_per_capita,3055.28807884507
+Canada,CAN,1965,GDP_per_capita,2777.18317301162
+Canada,CAN,1964,GDP_per_capita,2561.63849088572
+Canada,CAN,1963,GDP_per_capita,2380.31732899108
+Canada,CAN,1962,GDP_per_capita,2274.4284708191
+Canada,CAN,1961,GDP_per_capita,2246.08356619252
+Canada,CAN,1960,GDP_per_capita,2264.94849658191
+Canada,CAN,2024,Life_expectancy,82.1080487804878
+Canada,CAN,2023,Life_expectancy,81.6263414634146
+Canada,CAN,2022,Life_expectancy,81.0948780487805
+Canada,CAN,2021,Life_expectancy,81.4514634146342
+Canada,CAN,2020,Life_expectancy,81.53
+Canada,CAN,2019,Life_expectancy,82.1585365853659
+Canada,CAN,2018,Life_expectancy,81.8036585365854
+Canada,CAN,2017,Life_expectancy,81.8078048780488
+Canada,CAN,2016,Life_expectancy,81.94
+Canada,CAN,2015,Life_expectancy,81.8258536585366
+Canada,CAN,2014,Life_expectancy,81.7843902439025
+Canada,CAN,2013,Life_expectancy,81.7448780487805
+Canada,CAN,2012,Life_expectancy,81.6636585365854
+Canada,CAN,2011,Life_expectancy,81.4826829268293
+Canada,CAN,2010,Life_expectancy,81.3221951219512
+Canada,CAN,2009,Life_expectancy,81.0660975609756
+Canada,CAN,2008,Life_expectancy,80.7246341463415
+Canada,CAN,2007,Life_expectancy,80.5436585365854
+Canada,CAN,2006,Life_expectancy,80.5436585365854
+Canada,CAN,2005,Life_expectancy,80.1126829268293
+Canada,CAN,2004,Life_expectancy,79.9921951219512
+Canada,CAN,2003,Life_expectancy,79.7151219512195
+Canada,CAN,2002,Life_expectancy,79.5307317073171
+Canada,CAN,2001,Life_expectancy,79.3980487804878
+Canada,CAN,2000,Life_expectancy,79.1668292682927
+Canada,CAN,1999,Life_expectancy,78.8390243902439
+Canada,CAN,1998,Life_expectancy,78.6236585365854
+Canada,CAN,1997,Life_expectancy,78.4124390243903
+Canada,CAN,1996,Life_expectancy,78.220243902439
+Canada,CAN,1995,Life_expectancy,77.9773170731707
+Canada,CAN,1994,Life_expectancy,77.8717073170732
+Canada,CAN,1993,Life_expectancy,77.7048780487805
+Canada,CAN,1992,Life_expectancy,77.8380487804878
+Canada,CAN,1991,Life_expectancy,77.5934146341464
+Canada,CAN,1990,Life_expectancy,77.4365853658537
+Canada,CAN,1989,Life_expectancy,77.1248780487805
+Canada,CAN,1988,Life_expectancy,76.8587804878049
+Canada,CAN,1987,Life_expectancy,76.7787804878049
+Canada,CAN,1986,Life_expectancy,76.4639024390244
+Canada,CAN,1985,Life_expectancy,76.3273170731707
+Canada,CAN,1984,Life_expectancy,76.3319512195122
+Canada,CAN,1983,Life_expectancy,76.0604878048781
+Canada,CAN,1982,Life_expectancy,75.7251219512195
+Canada,CAN,1981,Life_expectancy,75.4978048780488
+Canada,CAN,1980,Life_expectancy,75.1021951219512
+Canada,CAN,1979,Life_expectancy,74.8663414634146
+Canada,CAN,1978,Life_expectancy,74.529756097561
+Canada,CAN,1977,Life_expectancy,74.2156097560976
+Canada,CAN,1976,Life_expectancy,73.8560975609756
+Canada,CAN,1975,Life_expectancy,73.5217073170732
+Canada,CAN,1974,Life_expectancy,73.2375609756098
+Canada,CAN,1973,Life_expectancy,73.1626829268293
+Canada,CAN,1972,Life_expectancy,72.9339024390244
+Canada,CAN,1971,Life_expectancy,73.0292682926829
+Canada,CAN,1970,Life_expectancy,72.7004878048781
+Canada,CAN,1969,Life_expectancy,72.5014634146341
+Canada,CAN,1968,Life_expectancy,72.3534146341463
+Canada,CAN,1967,Life_expectancy,72.2078048780488
+Canada,CAN,1966,Life_expectancy,72.0043902439024
+Canada,CAN,1965,Life_expectancy,71.8721951219512
+Canada,CAN,1964,Life_expectancy,71.7763414634146
+Canada,CAN,1963,Life_expectancy,71.3807317073171
+Canada,CAN,1962,Life_expectancy,71.3670731707317
+Canada,CAN,1961,Life_expectancy,71.3460975609756
+Canada,CAN,1960,Life_expectancy,71.1331707317073
+Canada,CAN,2025,Population,41651653.0
+Canada,CAN,2024,Population,41262329.0
+Canada,CAN,2023,Population,40049088.0
+Canada,CAN,2022,Population,38950132.0
+Canada,CAN,2021,Population,38239864.0
+Canada,CAN,2020,Population,38028638.0
+Canada,CAN,2019,Population,37618495.0
+Canada,CAN,2018,Population,37072620.0
+Canada,CAN,2017,Population,36545075.0
+Canada,CAN,2016,Population,36110803.0
+Canada,CAN,2015,Population,35704498.0
+Canada,CAN,2014,Population,35434066.0
+Canada,CAN,2013,Population,35080992.0
+Canada,CAN,2012,Population,34713395.0
+Canada,CAN,2011,Population,34339221.0
+Canada,CAN,2010,Population,34005902.0
+Canada,CAN,2009,Population,33630069.0
+Canada,CAN,2008,Population,33247298.0
+Canada,CAN,2007,Population,32888886.0
+Canada,CAN,2006,Population,32571193.0
+Canada,CAN,2005,Population,32242732.0
+Canada,CAN,2004,Population,31938807.0
+Canada,CAN,2003,Population,31642461.0
+Canada,CAN,2002,Population,31359199.0
+Canada,CAN,2001,Population,31020855.0
+Canada,CAN,2000,Population,30685730.0
+Canada,CAN,1999,Population,30401286.0
+Canada,CAN,1998,Population,30155173.0
+Canada,CAN,1997,Population,29905948.0
+Canada,CAN,1996,Population,29610218.0
+Canada,CAN,1995,Population,29302311.0
+Canada,CAN,1994,Population,29000663.0
+Canada,CAN,1993,Population,28684764.0
+Canada,CAN,1992,Population,28371264.0
+Canada,CAN,1991,Population,28037420.0
+Canada,CAN,1990,Population,27691138.0
+Canada,CAN,1989,Population,27276781.0
+Canada,CAN,1988,Population,26791747.0
+Canada,CAN,1987,Population,26446601.0
+Canada,CAN,1986,Population,26100278.0
+Canada,CAN,1985,Population,25842116.0
+Canada,CAN,1984,Population,25607053.0
+Canada,CAN,1983,Population,25366451.0
+Canada,CAN,1982,Population,25116942.0
+Canada,CAN,1981,Population,24819915.0
+Canada,CAN,1980,Population,24515667.0
+Canada,CAN,1979,Population,24201544.0
+Canada,CAN,1978,Population,23963203.0
+Canada,CAN,1977,Population,23725843.0
+Canada,CAN,1976,Population,23449808.0
+Canada,CAN,1975,Population,23143275.0
+Canada,CAN,1974,Population,22807969.0
+Canada,CAN,1973,Population,22491777.0
+Canada,CAN,1972,Population,22218463.0
+Canada,CAN,1971,Population,21962032.0
+Canada,CAN,1970,Population,21324000.0
+Canada,CAN,1969,Population,21028000.0
+Canada,CAN,1968,Population,20744000.0
+Canada,CAN,1967,Population,20412000.0
+Canada,CAN,1966,Population,20048000.0
+Canada,CAN,1965,Population,19678000.0
+Canada,CAN,1964,Population,19325000.0
+Canada,CAN,1963,Population,18964000.0
+Canada,CAN,1962,Population,18614000.0
+Canada,CAN,1961,Population,18271000.0
+Canada,CAN,1960,Population,17909356.0
+Australia,AUS,2025,GDP_per_capita,65129.7227990563
+Australia,AUS,2024,GDP_per_capita,64609.9865116088
+Australia,AUS,2023,GDP_per_capita,65058.3773146674
+Australia,AUS,2022,GDP_per_capita,65169.5191118657
+Australia,AUS,2021,GDP_per_capita,60758.9044397144
+Australia,AUS,2020,GDP_per_capita,51983.4523666382
+Australia,AUS,2019,GDP_per_capita,55194.7585097428
+Australia,AUS,2018,GDP_per_capita,57410.1737346009
+Australia,AUS,2017,GDP_per_capita,54117.547718609
+Australia,AUS,2016,GDP_per_capita,50084.4440606385
+Australia,AUS,2015,GDP_per_capita,56970.3613028094
+Australia,AUS,2014,GDP_per_capita,62817.2061751737
+Australia,AUS,2013,GDP_per_capita,68476.6788496118
+Australia,AUS,2012,GDP_per_capita,68301.4402512587
+Australia,AUS,2011,GDP_per_capita,62799.3895017032
+Australia,AUS,2010,GDP_per_capita,52313.8939041213
+Australia,AUS,2009,GDP_per_capita,42954.8494884573
+Australia,AUS,2008,GDP_per_capita,49811.2067218988
+Australia,AUS,2007,GDP_per_capita,41128.2476618402
+Australia,AUS,2006,GDP_per_capita,36658.8243476122
+Australia,AUS,2005,GDP_per_capita,34535.20727091
+Australia,AUS,2004,GDP_per_capita,30886.0500949401
+Australia,AUS,2003,GDP_per_capita,23757.5898471684
+Australia,AUS,2002,GDP_per_capita,20335.0960191023
+Australia,AUS,2001,GDP_per_capita,19733.6510102645
+Australia,AUS,2000,GDP_per_capita,21908.9968019784
+Australia,AUS,1999,GDP_per_capita,20749.6443779096
+Australia,AUS,1998,GDP_per_capita,21516.0403147759
+Australia,AUS,1997,GDP_per_capita,23683.4948964934
+Australia,AUS,1996,GDP_per_capita,22055.838490507
+Australia,AUS,1995,GDP_per_capita,20479.1748274233
+Australia,AUS,1994,GDP_per_capita,18155.6282000179
+Australia,AUS,1993,GDP_per_capita,17724.5399501656
+Australia,AUS,1992,GDP_per_capita,18650.3675476612
+Australia,AUS,1991,GDP_per_capita,18885.4274465057
+Australia,AUS,1990,GDP_per_capita,18273.561526468
+Australia,AUS,1989,GDP_per_capita,17857.5520554588
+Australia,AUS,1988,GDP_per_capita,14303.093047615
+Australia,AUS,1987,GDP_per_capita,11665.5298271811
+Australia,AUS,1986,GDP_per_capita,11406.1093011037
+Australia,AUS,1985,GDP_per_capita,11455.379711213
+Australia,AUS,1984,GDP_per_capita,12436.2969052038
+Australia,AUS,1983,GDP_per_capita,11532.4028055582
+Australia,AUS,1982,GDP_per_capita,12797.6758959809
+Australia,AUS,1981,GDP_per_capita,11870.8633077339
+Australia,AUS,1980,GDP_per_capita,10223.2886675105
+Australia,AUS,1979,GDP_per_capita,9307.82127950011
+Australia,AUS,1978,GDP_per_capita,8264.43890373653
+Australia,AUS,1977,GDP_per_capita,7786.4080406928
+Australia,AUS,1976,GDP_per_capita,7497.28175413577
+Australia,AUS,1975,GDP_per_capita,7013.67159761514
+Australia,AUS,1974,GDP_per_capita,6491.74521621099
+Australia,AUS,1973,GDP_per_capita,4777.513168995
+Australia,AUS,1972,GDP_per_capita,3955.22430403017
+Australia,AUS,1971,GDP_per_capita,3500.33603195606
+Australia,AUS,1970,GDP_per_capita,3309.76306254362
+Australia,AUS,1969,GDP_per_capita,2995.86119857452
+Australia,AUS,1968,GDP_per_capita,2728.23426114901
+Australia,AUS,1967,GDP_per_capita,2583.9075241973
+Australia,AUS,1966,GDP_per_capita,2347.37656646515
+Australia,AUS,1965,GDP_per_capita,2284.35582738664
+Australia,AUS,1964,GDP_per_capita,2134.48946124608
+Australia,AUS,1963,GDP_per_capita,1970.17748417817
+Australia,AUS,1962,GDP_per_capita,1857.56127281956
+Australia,AUS,1961,GDP_per_capita,1880.48489498232
+Australia,AUS,1960,GDP_per_capita,1813.43109917039
+Australia,AUS,2024,Life_expectancy,83.0512195121951
+Australia,AUS,2023,Life_expectancy,83.0512195121951
+Australia,AUS,2022,Life_expectancy,83.2
+Australia,AUS,2021,Life_expectancy,83.3
+Australia,AUS,2020,Life_expectancy,83.2
+Australia,AUS,2019,Life_expectancy,82.9
+Australia,AUS,2018,Life_expectancy,82.7487804878049
+Australia,AUS,2017,Life_expectancy,82.5
+Australia,AUS,2016,Life_expectancy,82.4487804878049
+Australia,AUS,2015,Life_expectancy,82.4
+Australia,AUS,2014,Life_expectancy,82.3
+Australia,AUS,2013,Life_expectancy,82.1487804878049
+Australia,AUS,2012,Life_expectancy,82.0463414634146
+Australia,AUS,2011,Life_expectancy,81.8951219512195
+Australia,AUS,2010,Life_expectancy,81.6951219512195
+Australia,AUS,2009,Life_expectancy,81.5439024390244
+Australia,AUS,2008,Life_expectancy,81.3951219512195
+Australia,AUS,2007,Life_expectancy,81.2926829268293
+Australia,AUS,2006,Life_expectancy,81.0414634146342
+Australia,AUS,2005,Life_expectancy,80.8414634146341
+Australia,AUS,2004,Life_expectancy,80.490243902439
+Australia,AUS,2003,Life_expectancy,80.2390243902439
+Australia,AUS,2002,Life_expectancy,79.9365853658537
+Australia,AUS,2001,Life_expectancy,79.6341463414634
+Australia,AUS,2000,Life_expectancy,79.2341463414634
+Australia,AUS,1999,Life_expectancy,78.9317073170732
+Australia,AUS,1998,Life_expectancy,78.6317073170732
+Australia,AUS,1997,Life_expectancy,78.4804878048781
+Australia,AUS,1996,Life_expectancy,78.0780487804878
+Australia,AUS,1995,Life_expectancy,77.8292682926829
+Australia,AUS,1994,Life_expectancy,77.8780487804878
+Australia,AUS,1993,Life_expectancy,77.8780487804878
+Australia,AUS,1992,Life_expectancy,77.3780487804878
+Australia,AUS,1991,Life_expectancy,77.2756097560976
+Australia,AUS,1990,Life_expectancy,76.9946341463415
+Australia,AUS,1989,Life_expectancy,76.7136585365854
+Australia,AUS,1988,Life_expectancy,76.4326829268293
+Australia,AUS,1987,Life_expectancy,76.1517073170732
+Australia,AUS,1986,Life_expectancy,75.8707317073171
+Australia,AUS,1985,Life_expectancy,75.6292682926829
+Australia,AUS,1984,Life_expectancy,75.3878048780488
+Australia,AUS,1983,Life_expectancy,75.1463414634146
+Australia,AUS,1982,Life_expectancy,74.9048780487805
+Australia,AUS,1981,Life_expectancy,74.6634146341463
+Australia,AUS,1980,Life_expectancy,74.3336585365854
+Australia,AUS,1979,Life_expectancy,74.0039024390244
+Australia,AUS,1978,Life_expectancy,73.6741463414634
+Australia,AUS,1977,Life_expectancy,73.3443902439024
+Australia,AUS,1976,Life_expectancy,73.0146341463415
+Australia,AUS,1975,Life_expectancy,72.6253658536586
+Australia,AUS,1974,Life_expectancy,72.2360975609756
+Australia,AUS,1973,Life_expectancy,71.8468292682927
+Australia,AUS,1972,Life_expectancy,71.4575609756098
+Australia,AUS,1971,Life_expectancy,71.0682926829268
+Australia,AUS,1970,Life_expectancy,71.0185365853659
+Australia,AUS,1969,Life_expectancy,70.9687804878049
+Australia,AUS,1968,Life_expectancy,70.9190243902439
+Australia,AUS,1967,Life_expectancy,70.8692682926829
+Australia,AUS,1966,Life_expectancy,70.819512195122
+Australia,AUS,1965,Life_expectancy,70.850243902439
+Australia,AUS,1964,Life_expectancy,70.8809756097561
+Australia,AUS,1963,Life_expectancy,70.9117073170732
+Australia,AUS,1962,Life_expectancy,70.9424390243903
+Australia,AUS,1961,Life_expectancy,70.9731707317073
+Australia,AUS,1960,Life_expectancy,70.8170731707317
+Australia,AUS,2025,Population,27614411.0
+Australia,AUS,2024,Population,27194286.0
+Australia,AUS,2023,Population,26659922.0
+Australia,AUS,2022,Population,26018721.0
+Australia,AUS,2021,Population,25685412.0
+Australia,AUS,2020,Population,25649248.0
+Australia,AUS,2019,Population,25334826.0
+Australia,AUS,2018,Population,24963258.0
+Australia,AUS,2017,Population,24592588.0
+Australia,AUS,2016,Population,24190907.0
+Australia,AUS,2015,Population,23815995.0
+Australia,AUS,2014,Population,23475686.0
+Australia,AUS,2013,Population,23128129.0
+Australia,AUS,2012,Population,22733465.0
+Australia,AUS,2011,Population,22340024.0
+Australia,AUS,2010,Population,22031750.0
+Australia,AUS,2009,Population,21691653.0
+Australia,AUS,2008,Population,21249199.0
+Australia,AUS,2007,Population,20827622.0
+Australia,AUS,2006,Population,20450966.0
+Australia,AUS,2005,Population,20176844.0
+Australia,AUS,2004,Population,19932722.0
+Australia,AUS,2003,Population,19720737.0
+Australia,AUS,2002,Population,19495210.0
+Australia,AUS,2001,Population,19274701.0
+Australia,AUS,2000,Population,19028802.0
+Australia,AUS,1999,Population,18812264.0
+Australia,AUS,1998,Population,18607584.0
+Australia,AUS,1997,Population,18423037.0
+Australia,AUS,1996,Population,18224767.0
+Australia,AUS,1995,Population,18004882.0
+Australia,AUS,1994,Population,17805468.0
+Australia,AUS,1993,Population,17634808.0
+Australia,AUS,1992,Population,17478635.0
+Australia,AUS,1991,Population,17284036.0
+Australia,AUS,1990,Population,17065128.0
+Australia,AUS,1989,Population,16814416.0
+Australia,AUS,1988,Population,16532164.0
+Australia,AUS,1987,Population,16263874.0
+Australia,AUS,1986,Population,16018350.0
+Australia,AUS,1985,Population,15788312.0
+Australia,AUS,1984,Population,15579391.0
+Australia,AUS,1983,Population,15393472.0
+Australia,AUS,1982,Population,15184247.0
+Australia,AUS,1981,Population,14923260.0
+Australia,AUS,1980,Population,14692000.0
+Australia,AUS,1979,Population,14514000.0
+Australia,AUS,1978,Population,14358000.0
+Australia,AUS,1977,Population,14192000.0
+Australia,AUS,1976,Population,14033000.0
+Australia,AUS,1975,Population,13893000.0
+Australia,AUS,1974,Population,13723000.0
+Australia,AUS,1973,Population,13380000.0
+Australia,AUS,1972,Population,13177000.0
+Australia,AUS,1971,Population,12937000.0
+Australia,AUS,1970,Population,12507000.0
+Australia,AUS,1969,Population,12263000.0
+Australia,AUS,1968,Population,12009000.0
+Australia,AUS,1967,Population,11799000.0
+Australia,AUS,1966,Population,11651000.0
+Australia,AUS,1965,Population,11388000.0
+Australia,AUS,1964,Population,11167000.0
+Australia,AUS,1963,Population,10950000.0
+Australia,AUS,1962,Population,10742000.0
+Australia,AUS,1961,Population,10483000.0
+Australia,AUS,1960,Population,10276477.0
+"Korea, Rep.",KOR,2025,GDP_per_capita,36226.9663637512
+"Korea, Rep.",KOR,2024,GDP_per_capita,36238.639908315
+"Korea, Rep.",KOR,2023,GDP_per_capita,35674.095995632
+"Korea, Rep.",KOR,2022,GDP_per_capita,34822.4048404971
+"Korea, Rep.",KOR,2021,GDP_per_capita,37518.4635305697
+"Korea, Rep.",KOR,2020,GDP_per_capita,33645.7719545073
+"Korea, Rep.",KOR,2019,GDP_per_capita,33826.9443301597
+"Korea, Rep.",KOR,2018,GDP_per_capita,35363.9508228687
+"Korea, Rep.",KOR,2017,GDP_per_capita,33296.9845439195
+"Korea, Rep.",KOR,2016,GDP_per_capita,30832.0628072516
+"Korea, Rep.",KOR,2015,GDP_per_capita,30171.7906545222
+"Korea, Rep.",KOR,2014,GDP_per_capita,30667.0912467447
+"Korea, Rep.",KOR,2013,GDP_per_capita,28449.3591104972
+"Korea, Rep.",KOR,2012,GDP_per_capita,26600.5477433903
+"Korea, Rep.",KOR,2011,GDP_per_capita,26175.2398553363
+"Korea, Rep.",KOR,2010,GDP_per_capita,24071.2620526362
+"Korea, Rep.",KOR,2009,GDP_per_capita,19937.3029137734
+"Korea, Rep.",KOR,2008,GDP_per_capita,22252.3125108061
+"Korea, Rep.",KOR,2007,GDP_per_capita,25078.4853957105
+"Korea, Rep.",KOR,2006,GDP_per_capita,22609.7059431449
+"Korea, Rep.",KOR,2005,GDP_per_capita,20167.0474902506
+"Korea, Rep.",KOR,2004,GDP_per_capita,17121.6301633201
+"Korea, Rep.",KOR,2003,GDP_per_capita,15211.5483770422
+"Korea, Rep.",KOR,2002,GDP_per_capita,13642.9424537101
+"Korea, Rep.",KOR,2001,GDP_per_capita,11981.4828218758
+"Korea, Rep.",KOR,2000,GDP_per_capita,12710.2995795579
+"Korea, Rep.",KOR,1999,GDP_per_capita,11062.5019301357
+"Korea, Rep.",KOR,1998,GDP_per_capita,8583.43557499234
+"Korea, Rep.",KOR,1997,GDP_per_capita,12821.6893313675
+"Korea, Rep.",KOR,1996,GDP_per_capita,13864.9376534518
+"Korea, Rep.",KOR,1995,GDP_per_capita,13001.7205867019
+"Korea, Rep.",KOR,1994,GDP_per_capita,10733.9888860657
+"Korea, Rep.",KOR,1993,GDP_per_capita,9179.96872485152
+"Korea, Rep.",KOR,1992,GDP_per_capita,8387.16308258471
+"Korea, Rep.",KOR,1991,GDP_per_capita,7872.65052449111
+"Korea, Rep.",KOR,1990,GDP_per_capita,6812.9019416767
+"Korea, Rep.",KOR,1989,GDP_per_capita,5989.2109474999
+"Korea, Rep.",KOR,1988,GDP_per_capita,4888.68509195605
+"Korea, Rep.",KOR,1987,GDP_per_capita,3657.71773432329
+"Korea, Rep.",KOR,1986,GDP_per_capita,2910.82908054352
+"Korea, Rep.",KOR,1985,GDP_per_capita,2542.88419005153
+"Korea, Rep.",KOR,1984,GDP_per_capita,2468.68667303898
+"Korea, Rep.",KOR,1983,GDP_per_capita,2245.56009425258
+"Korea, Rep.",KOR,1982,GDP_per_capita,2032.25817758667
+"Korea, Rep.",KOR,1981,GDP_per_capita,1918.41779613494
+"Korea, Rep.",KOR,1980,GDP_per_capita,1745.57662116658
+"Korea, Rep.",KOR,1979,GDP_per_capita,1813.9142168105
+"Korea, Rep.",KOR,1978,GDP_per_capita,1428.88714989064
+"Korea, Rep.",KOR,1977,GDP_per_capita,1072.85188247153
+"Korea, Rep.",KOR,1976,GDP_per_capita,847.205737881176
+"Korea, Rep.",KOR,1975,GDP_per_capita,627.142244323246
+"Korea, Rep.",KOR,1974,GDP_per_capita,572.488691764846
+"Korea, Rep.",KOR,1973,GDP_per_capita,412.499262547237
+"Korea, Rep.",KOR,1972,GDP_per_capita,328.021411521648
+"Korea, Rep.",KOR,1971,GDP_per_capita,304.271118680953
+"Korea, Rep.",KOR,1970,GDP_per_capita,281.785631415674
+"Korea, Rep.",KOR,1969,GDP_per_capita,245.494385222026
+"Korea, Rep.",KOR,1968,GDP_per_capita,199.982134957643
+"Korea, Rep.",KOR,1967,GDP_per_capita,162.459907730169
+"Korea, Rep.",KOR,1966,GDP_per_capita,134.431383763277
+"Korea, Rep.",KOR,1965,GDP_per_capita,109.429276511316
+"Korea, Rep.",KOR,1964,GDP_per_capita,124.24136735879
+"Korea, Rep.",KOR,1963,GDP_per_capita,147.00790480127
+"Korea, Rep.",KOR,1962,GDP_per_capita,106.623915747203
+"Korea, Rep.",KOR,1961,GDP_per_capita,94.2045938667769
+"Korea, Rep.",KOR,1960,GDP_per_capita,158.844150776359
+"Korea, Rep.",KOR,2024,Life_expectancy,83.6292682926829
+"Korea, Rep.",KOR,2023,Life_expectancy,83.4292682926829
+"Korea, Rep.",KOR,2022,Life_expectancy,82.6804878048781
+"Korea, Rep.",KOR,2021,Life_expectancy,83.5268292682927
+"Korea, Rep.",KOR,2020,Life_expectancy,83.4268292682927
+"Korea, Rep.",KOR,2019,Life_expectancy,83.2268292682927
+"Korea, Rep.",KOR,2018,Life_expectancy,82.6268292682927
+"Korea, Rep.",KOR,2017,Life_expectancy,82.6268292682927
+"Korea, Rep.",KOR,2016,Life_expectancy,82.2756097560976
+"Korea, Rep.",KOR,2015,Life_expectancy,82.0243902439024
+"Korea, Rep.",KOR,2014,Life_expectancy,81.7219512195122
+"Korea, Rep.",KOR,2013,Life_expectancy,81.2707317073171
+"Korea, Rep.",KOR,2012,Life_expectancy,80.819512195122
+"Korea, Rep.",KOR,2011,Life_expectancy,80.5682926829269
+"Korea, Rep.",KOR,2010,Life_expectancy,80.1170731707317
+"Korea, Rep.",KOR,2009,Life_expectancy,79.9682926829268
+"Korea, Rep.",KOR,2008,Life_expectancy,79.5170731707317
+"Korea, Rep.",KOR,2007,Life_expectancy,79.119512195122
+"Korea, Rep.",KOR,2006,Life_expectancy,78.6682926829268
+"Korea, Rep.",KOR,2005,Life_expectancy,78.1682926829268
+"Korea, Rep.",KOR,2004,Life_expectancy,77.6658536585366
+"Korea, Rep.",KOR,2003,Life_expectancy,77.2146341463415
+"Korea, Rep.",KOR,2002,Life_expectancy,76.7658536585366
+"Korea, Rep.",KOR,2001,Life_expectancy,76.4121951219512
+"Korea, Rep.",KOR,2000,Life_expectancy,75.909756097561
+"Korea, Rep.",KOR,1999,Life_expectancy,75.409756097561
+"Korea, Rep.",KOR,1998,Life_expectancy,75.0048780487805
+"Korea, Rep.",KOR,1997,Life_expectancy,74.6024390243903
+"Korea, Rep.",KOR,1996,Life_expectancy,74.1512195121951
+"Korea, Rep.",KOR,1995,Life_expectancy,73.7
+"Korea, Rep.",KOR,1994,Life_expectancy,73.3975609756098
+"Korea, Rep.",KOR,1993,Life_expectancy,72.9975609756098
+"Korea, Rep.",KOR,1992,Life_expectancy,72.4975609756098
+"Korea, Rep.",KOR,1991,Life_expectancy,72.0463414634146
+"Korea, Rep.",KOR,1990,Life_expectancy,71.5975609756098
+"Korea, Rep.",KOR,1989,Life_expectancy,71.0487804878049
+"Korea, Rep.",KOR,1988,Life_expectancy,70.5487804878049
+"Korea, Rep.",KOR,1987,Life_expectancy,69.9975609756098
+"Korea, Rep.",KOR,1986,Life_expectancy,69.4463414634146
+"Korea, Rep.",KOR,1985,Life_expectancy,68.7951219512195
+"Korea, Rep.",KOR,1984,Life_expectancy,68.1951219512195
+"Korea, Rep.",KOR,1983,Life_expectancy,67.5463414634146
+"Korea, Rep.",KOR,1982,Life_expectancy,67.0951219512195
+"Korea, Rep.",KOR,1981,Life_expectancy,66.5463414634146
+"Korea, Rep.",KOR,1980,Life_expectancy,66.0463414634146
+"Korea, Rep.",KOR,1979,Life_expectancy,65.5463414634146
+"Korea, Rep.",KOR,1978,Life_expectancy,65.1975609756098
+"Korea, Rep.",KOR,1977,Life_expectancy,64.9
+"Korea, Rep.",KOR,1976,Life_expectancy,64.5024390243902
+"Korea, Rep.",KOR,1975,Life_expectancy,64.1536585365854
+"Korea, Rep.",KOR,1974,Life_expectancy,63.8048780487805
+"Korea, Rep.",KOR,1973,Life_expectancy,63.4073170731707
+"Korea, Rep.",KOR,1972,Life_expectancy,63.009756097561
+"Korea, Rep.",KOR,1971,Life_expectancy,62.6121951219512
+"Korea, Rep.",KOR,1970,Life_expectancy,62.1634146341463
+"Korea, Rep.",KOR,1969,Life_expectancy,61.4829024390244
+"Korea, Rep.",KOR,1968,Life_expectancy,60.9432682926829
+"Korea, Rep.",KOR,1967,Life_expectancy,60.9287317073171
+"Korea, Rep.",KOR,1966,Life_expectancy,55.5229756097561
+"Korea, Rep.",KOR,1965,Life_expectancy,55.8645853658537
+"Korea, Rep.",KOR,1964,Life_expectancy,55.392243902439
+"Korea, Rep.",KOR,1963,Life_expectancy,55.0254634146342
+"Korea, Rep.",KOR,1962,Life_expectancy,55.0549512195122
+"Korea, Rep.",KOR,1961,Life_expectancy,54.4768536585366
+"Korea, Rep.",KOR,1960,Life_expectancy,53.7975609756098
+"Korea, Rep.",KOR,2025,Population,51684564.0
+"Korea, Rep.",KOR,2024,Population,51751065.0
+"Korea, Rep.",KOR,2023,Population,51712619.0
+"Korea, Rep.",KOR,2022,Population,51672569.0
+"Korea, Rep.",KOR,2021,Population,51769539.0
+"Korea, Rep.",KOR,2020,Population,51836239.0
+"Korea, Rep.",KOR,2019,Population,51764822.0
+"Korea, Rep.",KOR,2018,Population,51585058.0
+"Korea, Rep.",KOR,2017,Population,51361911.0
+"Korea, Rep.",KOR,2016,Population,51217803.0
+"Korea, Rep.",KOR,2015,Population,51014947.0
+"Korea, Rep.",KOR,2014,Population,50746659.0
+"Korea, Rep.",KOR,2013,Population,50428893.0
+"Korea, Rep.",KOR,2012,Population,50199853.0
+"Korea, Rep.",KOR,2011,Population,49936638.0
+"Korea, Rep.",KOR,2010,Population,49554112.0
+"Korea, Rep.",KOR,2009,Population,49307835.0
+"Korea, Rep.",KOR,2008,Population,49054708.0
+"Korea, Rep.",KOR,2007,Population,48683638.0
+"Korea, Rep.",KOR,2006,Population,48438292.0
+"Korea, Rep.",KOR,2005,Population,48184561.0
+"Korea, Rep.",KOR,2004,Population,48082519.0
+"Korea, Rep.",KOR,2003,Population,47892330.0
+"Korea, Rep.",KOR,2002,Population,47644736.0
+"Korea, Rep.",KOR,2001,Population,47370164.0
+"Korea, Rep.",KOR,2000,Population,47008111.0
+"Korea, Rep.",KOR,1999,Population,46616677.0
+"Korea, Rep.",KOR,1998,Population,46286503.0
+"Korea, Rep.",KOR,1997,Population,45953580.0
+"Korea, Rep.",KOR,1996,Population,45524681.0
+"Korea, Rep.",KOR,1995,Population,45092991.0
+"Korea, Rep.",KOR,1994,Population,44641540.0
+"Korea, Rep.",KOR,1993,Population,44194628.0
+"Korea, Rep.",KOR,1992,Population,43747962.0
+"Korea, Rep.",KOR,1991,Population,43295704.0
+"Korea, Rep.",KOR,1990,Population,42869283.0
+"Korea, Rep.",KOR,1989,Population,42449038.0
+"Korea, Rep.",KOR,1988,Population,42031247.0
+"Korea, Rep.",KOR,1987,Population,41621690.0
+"Korea, Rep.",KOR,1986,Population,41213674.0
+"Korea, Rep.",KOR,1985,Population,40805744.0
+"Korea, Rep.",KOR,1984,Population,40405956.0
+"Korea, Rep.",KOR,1983,Population,39910403.0
+"Korea, Rep.",KOR,1982,Population,39326352.0
+"Korea, Rep.",KOR,1981,Population,38723248.0
+"Korea, Rep.",KOR,1980,Population,38123775.0
+"Korea, Rep.",KOR,1979,Population,37534236.0
+"Korea, Rep.",KOR,1978,Population,36969185.0
+"Korea, Rep.",KOR,1977,Population,36411795.0
+"Korea, Rep.",KOR,1976,Population,35848523.0
+"Korea, Rep.",KOR,1975,Population,35280725.0
+"Korea, Rep.",KOR,1974,Population,34692266.0
+"Korea, Rep.",KOR,1973,Population,34103149.0
+"Korea, Rep.",KOR,1972,Population,33505406.0
+"Korea, Rep.",KOR,1971,Population,32882704.0
+"Korea, Rep.",KOR,1970,Population,32240827.0
+"Korea, Rep.",KOR,1969,Population,31544266.0
+"Korea, Rep.",KOR,1968,Population,30838302.0
+"Korea, Rep.",KOR,1967,Population,30130983.0
+"Korea, Rep.",KOR,1966,Population,29435571.0
+"Korea, Rep.",KOR,1965,Population,28704674.0
+"Korea, Rep.",KOR,1964,Population,27984155.0
+"Korea, Rep.",KOR,1963,Population,27261747.0
+"Korea, Rep.",KOR,1962,Population,26513030.0
+"Korea, Rep.",KOR,1961,Population,25765673.0
+"Korea, Rep.",KOR,1960,Population,25012374.0
+Mexico,MEX,2025,GDP_per_capita,13889.2339628708
+Mexico,MEX,2024,GDP_per_capita,13988.0423745241
+Mexico,MEX,2023,GDP_per_capita,13830.843848864
+Mexico,MEX,2022,GDP_per_capita,11405.7940469896
+Mexico,MEX,2021,GDP_per_capita,10314.0506733708
+Mexico,MEX,2020,GDP_per_capita,8841.27074929751
+Mexico,MEX,2019,GDP_per_capita,10369.5553593527
+Mexico,MEX,2018,GDP_per_capita,10084.7937570364
+Mexico,MEX,2017,GDP_per_capita,9649.27816729586
+Mexico,MEX,2016,GDP_per_capita,9097.92397674769
+Mexico,MEX,2015,GDP_per_capita,10021.2386113616
+Mexico,MEX,2014,GDP_per_capita,11391.3773503964
+Mexico,MEX,2013,GDP_per_capita,11216.800851866
+Mexico,MEX,2012,GDP_per_capita,10744.1335236186
+Mexico,MEX,2011,GDP_per_capita,10664.4944032313
+Mexico,MEX,2010,GDP_per_capita,9728.80078307432
+Mexico,MEX,2009,GDP_per_capita,8423.56933148639
+Mexico,MEX,2008,GDP_per_capita,10523.7685427665
+Mexico,MEX,2007,GDP_per_capita,10134.3327129706
+Mexico,MEX,2006,GDP_per_capita,9512.63575346699
+Mexico,MEX,2005,GDP_per_capita,8671.75891798441
+Mexico,MEX,2004,GDP_per_capita,7849.66759649565
+Mexico,MEX,2003,GDP_per_capita,7434.07465031562
+Mexico,MEX,2002,GDP_per_capita,7983.03398381759
+Mexico,MEX,2001,GDP_per_capita,7952.76479510706
+Mexico,MEX,2000,GDP_per_capita,7524.0271380091
+Mexico,MEX,1999,GDP_per_capita,6499.97182950425
+Mexico,MEX,1998,GDP_per_capita,5832.69342004468
+Mexico,MEX,1997,GDP_per_capita,5567.35599516667
+Mexico,MEX,1996,GDP_per_capita,4674.36792733681
+Mexico,MEX,1995,GDP_per_capita,4183.87847727479
+Mexico,MEX,1994,GDP_per_capita,6202.36588372862
+Mexico,MEX,1993,GDP_per_capita,6048.34840388099
+Mexico,MEX,1992,GDP_per_capita,4220.56643677057
+Mexico,MEX,1991,GDP_per_capita,3708.8420548157
+Mexico,MEX,1990,GDP_per_capita,3154.46920349038
+Mexico,MEX,1989,GDP_per_capita,2725.05572275442
+Mexico,MEX,1988,GDP_per_capita,2278.81222720992
+Mexico,MEX,1987,GDP_per_capita,1888.2631431041
+Mexico,MEX,1986,GDP_per_capita,1756.93563367491
+Mexico,MEX,1985,GDP_per_capita,2601.70825226684
+Mexico,MEX,1984,GDP_per_capita,2506.30742754755
+Mexico,MEX,1983,GDP_per_capita,2169.85285279223
+Mexico,MEX,1982,GDP_per_capita,2620.95793392947
+Mexico,MEX,1981,GDP_per_capita,3829.14437544129
+Mexico,MEX,1980,GDP_per_capita,3054.62162291784
+Mexico,MEX,1979,GDP_per_capita,2049.26468871816
+Mexico,MEX,1978,GDP_per_capita,1604.40920452482
+Mexico,MEX,1977,GDP_per_capita,1314.62044481645
+Mexico,MEX,1976,GDP_per_capita,1465.49877862474
+Mexico,MEX,1975,GDP_per_capita,1491.97048611111
+Mexico,MEX,1974,GDP_per_capita,1256.10280601329
+Mexico,MEX,1973,GDP_per_capita,993.042879548426
+Mexico,MEX,1972,GDP_per_capita,836.569673446138
+Mexico,MEX,1971,GDP_per_capita,747.912361003254
+Mexico,MEX,1970,GDP_per_capita,699.006845485029
+Mexico,MEX,1969,GDP_per_capita,659.71750685117
+Mexico,MEX,1968,GDP_per_capita,615.922912128842
+Mexico,MEX,1967,GDP_per_capita,575.769037534418
+Mexico,MEX,1966,GDP_per_capita,544.935854193449
+Mexico,MEX,1965,GDP_per_capita,505.854419498816
+Mexico,MEX,1964,GDP_per_capita,480.704214437745
+Mexico,MEX,1963,GDP_per_capita,419.552066324849
+Mexico,MEX,1962,GDP_per_capita,388.456702411498
+Mexico,MEX,1961,GDP_per_capita,373.712216995471
+Mexico,MEX,1960,GDP_per_capita,355.075199563018
+Mexico,MEX,2024,Life_expectancy,75.264
+Mexico,MEX,2023,Life_expectancy,75.069
+Mexico,MEX,2022,Life_expectancy,73.973
+Mexico,MEX,2021,Life_expectancy,69.75
+Mexico,MEX,2020,Life_expectancy,70.449
+Mexico,MEX,2019,Life_expectancy,74.53
+Mexico,MEX,2018,Life_expectancy,74.301
+Mexico,MEX,2017,Life_expectancy,74.261
+Mexico,MEX,2016,Life_expectancy,74.376
+Mexico,MEX,2015,Life_expectancy,74.431
+Mexico,MEX,2014,Life_expectancy,74.404
+Mexico,MEX,2013,Life_expectancy,74.289
+Mexico,MEX,2012,Life_expectancy,74.128
+Mexico,MEX,2011,Life_expectancy,73.921
+Mexico,MEX,2010,Life_expectancy,73.718
+Mexico,MEX,2009,Life_expectancy,73.628
+Mexico,MEX,2008,Life_expectancy,73.695
+Mexico,MEX,2007,Life_expectancy,73.796
+Mexico,MEX,2006,Life_expectancy,73.746
+Mexico,MEX,2005,Life_expectancy,73.627
+Mexico,MEX,2004,Life_expectancy,73.432
+Mexico,MEX,2003,Life_expectancy,73.308
+Mexico,MEX,2002,Life_expectancy,73.106
+Mexico,MEX,2001,Life_expectancy,72.912
+Mexico,MEX,2000,Life_expectancy,72.562
+Mexico,MEX,1999,Life_expectancy,72.203
+Mexico,MEX,1998,Life_expectancy,71.792
+Mexico,MEX,1997,Life_expectancy,71.472
+Mexico,MEX,1996,Life_expectancy,71.088
+Mexico,MEX,1995,Life_expectancy,70.703
+Mexico,MEX,1994,Life_expectancy,70.302
+Mexico,MEX,1993,Life_expectancy,69.961
+Mexico,MEX,1992,Life_expectancy,69.663
+Mexico,MEX,1991,Life_expectancy,69.368
+Mexico,MEX,1990,Life_expectancy,69.034
+Mexico,MEX,1989,Life_expectancy,68.621
+Mexico,MEX,1988,Life_expectancy,68.299
+Mexico,MEX,1987,Life_expectancy,67.904
+Mexico,MEX,1986,Life_expectancy,67.377
+Mexico,MEX,1985,Life_expectancy,66.775
+Mexico,MEX,1984,Life_expectancy,66.215
+Mexico,MEX,1983,Life_expectancy,65.756
+Mexico,MEX,1982,Life_expectancy,65.256
+Mexico,MEX,1981,Life_expectancy,64.722
+Mexico,MEX,1980,Life_expectancy,64.282
+Mexico,MEX,1979,Life_expectancy,63.862
+Mexico,MEX,1978,Life_expectancy,63.435
+Mexico,MEX,1977,Life_expectancy,62.988
+Mexico,MEX,1976,Life_expectancy,62.475
+Mexico,MEX,1975,Life_expectancy,61.883
+Mexico,MEX,1974,Life_expectancy,61.18
+Mexico,MEX,1973,Life_expectancy,60.518
+Mexico,MEX,1972,Life_expectancy,60.051
+Mexico,MEX,1971,Life_expectancy,59.415
+Mexico,MEX,1970,Life_expectancy,58.893
+Mexico,MEX,1969,Life_expectancy,58.413
+Mexico,MEX,1968,Life_expectancy,58.22
+Mexico,MEX,1967,Life_expectancy,57.959
+Mexico,MEX,1966,Life_expectancy,57.355
+Mexico,MEX,1965,Life_expectancy,56.688
+Mexico,MEX,1964,Life_expectancy,55.916
+Mexico,MEX,1963,Life_expectancy,55.501
+Mexico,MEX,1962,Life_expectancy,55.057
+Mexico,MEX,1961,Life_expectancy,54.422
+Mexico,MEX,1960,Life_expectancy,53.573
+Mexico,MEX,2025,Population,131946900.0
+Mexico,MEX,2024,Population,130861007.0
+Mexico,MEX,2023,Population,129739759.0
+Mexico,MEX,2022,Population,128613117.0
+Mexico,MEX,2021,Population,127648148.0
+Mexico,MEX,2020,Population,126799054.0
+Mexico,MEX,2019,Population,125762982.0
+Mexico,MEX,2018,Population,124573711.0
+Mexico,MEX,2017,Population,123400057.0
+Mexico,MEX,2016,Population,122251351.0
+Mexico,MEX,2015,Population,121072306.0
+Mexico,MEX,2014,Population,119784261.0
+Mexico,MEX,2013,Population,118343573.0
+Mexico,MEX,2012,Population,116818208.0
+Mexico,MEX,2011,Population,115243504.0
+Mexico,MEX,2010,Population,113623895.0
+Mexico,MEX,2009,Population,111999721.0
+Mexico,MEX,2008,Population,110374288.0
+Mexico,MEX,2007,Population,108774360.0
+Mexico,MEX,2006,Population,107253666.0
+Mexico,MEX,2005,Population,105811504.0
+Mexico,MEX,2004,Population,104394131.0
+Mexico,MEX,2003,Population,102978515.0
+Mexico,MEX,2002,Population,101548624.0
+Mexico,MEX,2001,Population,100099099.0
+Mexico,MEX,2000,Population,98625552.0
+Mexico,MEX,1999,Population,97115707.0
+Mexico,MEX,1998,Population,95575245.0
+Mexico,MEX,1997,Population,94021207.0
+Mexico,MEX,1996,Population,92452702.0
+Mexico,MEX,1995,Population,90862455.0
+Mexico,MEX,1994,Population,89259205.0
+Mexico,MEX,1993,Population,87653807.0
+Mexico,MEX,1992,Population,86044809.0
+Mexico,MEX,1991,Population,84430572.0
+Mexico,MEX,1990,Population,82820170.0
+Mexico,MEX,1989,Population,81247182.0
+Mexico,MEX,1988,Population,79695531.0
+Mexico,MEX,1987,Population,78136651.0
+Mexico,MEX,1986,Population,76585637.0
+Mexico,MEX,1985,Population,75043414.0
+Mexico,MEX,1984,Population,73506846.0
+Mexico,MEX,1983,Population,71971240.0
+Mexico,MEX,1982,Population,70433260.0
+Mexico,MEX,1981,Population,68892108.0
+Mexico,MEX,1980,Population,67300334.0
+Mexico,MEX,1979,Population,65648865.0
+Mexico,MEX,1978,Population,63979046.0
+Mexico,MEX,1977,Population,62308493.0
+Mexico,MEX,1976,Population,60645512.0
+Mexico,MEX,1975,Population,58982400.0
+Mexico,MEX,1974,Population,57320149.0
+Mexico,MEX,1973,Population,55667284.0
+Mexico,MEX,1972,Population,54030168.0
+Mexico,MEX,1971,Population,52412558.0
+Mexico,MEX,1970,Population,50814953.0
+Mexico,MEX,1969,Population,49233194.0
+Mexico,MEX,1968,Population,47668303.0
+Mexico,MEX,1967,Population,46129608.0
+Mexico,MEX,1966,Population,44629106.0
+Mexico,MEX,1965,Population,43174477.0
+Mexico,MEX,1964,Population,41772049.0
+Mexico,MEX,1963,Population,40424065.0
+Mexico,MEX,1962,Population,39129200.0
+Mexico,MEX,1961,Population,37890118.0
+Mexico,MEX,1960,Population,36724615.0
+Indonesia,IDN,2025,GDP_per_capita,5059.62596411213
+Indonesia,IDN,2024,GDP_per_capita,4925.43644992666
+Indonesia,IDN,2023,GDP_per_capita,4876.2992959843
+Indonesia,IDN,2022,GDP_per_capita,4730.83484836107
+Indonesia,IDN,2021,GDP_per_capita,4287.17313995098
+Indonesia,IDN,2020,GDP_per_capita,3853.70288774146
+Indonesia,IDN,2019,GDP_per_capita,4106.94856160358
+Indonesia,IDN,2018,GDP_per_capita,3860.95353090726
+Indonesia,IDN,2017,GDP_per_capita,3798.88326174526
+Indonesia,IDN,2016,GDP_per_capita,3521.46943457574
+Indonesia,IDN,2015,GDP_per_capita,3288.22269725538
+Indonesia,IDN,2014,GDP_per_capita,3441.06808464008
+Indonesia,IDN,2013,GDP_per_capita,3566.60284506078
+Indonesia,IDN,2012,GDP_per_capita,3632.27254030331
+Indonesia,IDN,2011,GDP_per_capita,3579.46442466152
+Indonesia,IDN,2010,GDP_per_capita,3065.68348377765
+Indonesia,IDN,2009,GDP_per_capita,2218.48541852977
+Indonesia,IDN,2008,GDP_per_capita,2124.55483920618
+Indonesia,IDN,2007,GDP_per_capita,1823.21976255073
+Indonesia,IDN,2006,GDP_per_capita,1558.31562847163
+Indonesia,IDN,2005,GDP_per_capita,1238.21447629488
+Indonesia,IDN,2004,GDP_per_capita,1126.84004447173
+Indonesia,IDN,2003,GDP_per_capita,1043.2105838671
+Indonesia,IDN,2002,GDP_per_capita,881.002913569131
+Indonesia,IDN,2001,GDP_per_capita,732.307093405708
+Indonesia,IDN,2000,GDP_per_capita,763.711124950924
+Indonesia,IDN,1999,GDP_per_capita,657.268934667018
+Indonesia,IDN,1998,GDP_per_capita,454.877800792123
+Indonesia,IDN,1997,GDP_per_capita,1044.60674832472
+Indonesia,IDN,1996,GDP_per_capita,1118.92133024129
+Indonesia,IDN,1995,GDP_per_capita,1011.22614205568
+Indonesia,IDN,1994,GDP_per_capita,899.793982949817
+Indonesia,IDN,1993,GDP_per_capita,817.395116417856
+Indonesia,IDN,1992,GDP_per_capita,673.67103954742
+Indonesia,IDN,1991,GDP_per_capita,624.387495384411
+Indonesia,IDN,1990,GDP_per_capita,578.420121135382
+Indonesia,IDN,1989,GDP_per_capita,524.143027322576
+Indonesia,IDN,1988,GDP_per_capita,476.662483405818
+Indonesia,IDN,1987,GDP_per_capita,437.60655039936
+Indonesia,IDN,1986,GDP_per_capita,469.834241253429
+Indonesia,IDN,1985,GDP_per_capita,511.400883618027
+Indonesia,IDN,1984,GDP_per_capita,519.774063103241
+Indonesia,IDN,1983,GDP_per_capita,507.682945653414
+Indonesia,IDN,1982,GDP_per_capita,577.745632722784
+Indonesia,IDN,1981,GDP_per_capita,560.830336032961
+Indonesia,IDN,1980,GDP_per_capita,486.620172021155
+Indonesia,IDN,1979,GDP_per_capita,353.424175826329
+Indonesia,IDN,1978,GDP_per_capita,362.483779779007
+Indonesia,IDN,1977,GDP_per_capita,330.670214101079
+Indonesia,IDN,1976,GDP_per_capita,275.713167824796
+Indonesia,IDN,1975,GDP_per_capita,231.060120618497
+Indonesia,IDN,1974,GDP_per_capita,200.710984454591
+Indonesia,IDN,1973,GDP_per_capita,129.886231088685
+Indonesia,IDN,1972,GDP_per_capita,90.1147549138956
+Indonesia,IDN,1971,GDP_per_capita,78.5428393869752
+Indonesia,IDN,1970,GDP_per_capita,79.118823484002
+Indonesia,IDN,1969,GDP_per_capita,74.0988114128793
+Indonesia,IDN,1968,GDP_per_capita,64.6547730642556
+Indonesia,IDN,1967,GDP_per_capita,53.2051866988581
+Indonesia,IDN,2024,Life_expectancy,71.288
+Indonesia,IDN,2023,Life_expectancy,71.146
+Indonesia,IDN,2022,Life_expectancy,70.925
+Indonesia,IDN,2021,Life_expectancy,67.452
+Indonesia,IDN,2020,Life_expectancy,68.817
+Indonesia,IDN,2019,Life_expectancy,70.349
+Indonesia,IDN,2018,Life_expectancy,70.08
+Indonesia,IDN,2017,Life_expectancy,69.953
+Indonesia,IDN,2016,Life_expectancy,69.733
+Indonesia,IDN,2015,Life_expectancy,69.52
+Indonesia,IDN,2014,Life_expectancy,69.292
+Indonesia,IDN,2013,Life_expectancy,69.064
+Indonesia,IDN,2012,Life_expectancy,68.862
+Indonesia,IDN,2011,Life_expectancy,68.629
+Indonesia,IDN,2010,Life_expectancy,68.364
+Indonesia,IDN,2009,Life_expectancy,68.267
+Indonesia,IDN,2008,Life_expectancy,68.085
+Indonesia,IDN,2007,Life_expectancy,67.914
+Indonesia,IDN,2006,Life_expectancy,67.664
+Indonesia,IDN,2005,Life_expectancy,67.531
+Indonesia,IDN,2004,Life_expectancy,65.521
+Indonesia,IDN,2003,Life_expectancy,67.134
+Indonesia,IDN,2002,Life_expectancy,66.954
+Indonesia,IDN,2001,Life_expectancy,66.583
+Indonesia,IDN,2000,Life_expectancy,66.292
+Indonesia,IDN,1999,Life_expectancy,66.001
+Indonesia,IDN,1998,Life_expectancy,65.942
+Indonesia,IDN,1997,Life_expectancy,65.774
+Indonesia,IDN,1996,Life_expectancy,65.465
+Indonesia,IDN,1995,Life_expectancy,65.263
+Indonesia,IDN,1994,Life_expectancy,65.041
+Indonesia,IDN,1993,Life_expectancy,64.851
+Indonesia,IDN,1992,Life_expectancy,64.182
+Indonesia,IDN,1991,Life_expectancy,63.703
+Indonesia,IDN,1990,Life_expectancy,63.249
+Indonesia,IDN,1989,Life_expectancy,62.883
+Indonesia,IDN,1988,Life_expectancy,62.386
+Indonesia,IDN,1987,Life_expectancy,62.087
+Indonesia,IDN,1986,Life_expectancy,61.736
+Indonesia,IDN,1985,Life_expectancy,61.387
+Indonesia,IDN,1984,Life_expectancy,60.891
+Indonesia,IDN,1983,Life_expectancy,60.343
+Indonesia,IDN,1982,Life_expectancy,59.7
+Indonesia,IDN,1981,Life_expectancy,59.096
+Indonesia,IDN,1980,Life_expectancy,58.701
+Indonesia,IDN,1979,Life_expectancy,58.18
+Indonesia,IDN,1978,Life_expectancy,57.607
+Indonesia,IDN,1977,Life_expectancy,57.09
+Indonesia,IDN,1976,Life_expectancy,56.445
+Indonesia,IDN,1975,Life_expectancy,55.998
+Indonesia,IDN,1974,Life_expectancy,55.443
+Indonesia,IDN,1973,Life_expectancy,54.916
+Indonesia,IDN,1972,Life_expectancy,54.364
+Indonesia,IDN,1971,Life_expectancy,53.823
+Indonesia,IDN,1970,Life_expectancy,53.254
+Indonesia,IDN,1969,Life_expectancy,52.588
+Indonesia,IDN,1968,Life_expectancy,51.888
+Indonesia,IDN,1967,Life_expectancy,51.309
+Indonesia,IDN,1966,Life_expectancy,48.406
+Indonesia,IDN,1965,Life_expectancy,42.762
+Indonesia,IDN,1964,Life_expectancy,49.44
+Indonesia,IDN,1963,Life_expectancy,48.742
+Indonesia,IDN,1962,Life_expectancy,48.141
+Indonesia,IDN,1961,Life_expectancy,47.385
+Indonesia,IDN,1960,Life_expectancy,46.835
+Indonesia,IDN,2025,Population,285721236.0
+Indonesia,IDN,2024,Population,283487931.0
+Indonesia,IDN,2023,Population,281190067.0
+Indonesia,IDN,2022,Population,278830529.0
+Indonesia,IDN,2021,Population,276758053.0
+Indonesia,IDN,2020,Population,274814866.0
+Indonesia,IDN,2019,Population,272489381.0
+Indonesia,IDN,2018,Population,269951846.0
+Indonesia,IDN,2017,Population,267346658.0
+Indonesia,IDN,2016,Population,264627418.0
+Indonesia,IDN,2015,Population,261799249.0
+Indonesia,IDN,2014,Population,258877399.0
+Indonesia,IDN,2013,Population,255852467.0
+Indonesia,IDN,2012,Population,252698525.0
+Indonesia,IDN,2011,Population,249470032.0
+Indonesia,IDN,2010,Population,246305322.0
+Indonesia,IDN,2009,Population,243220028.0
+Indonesia,IDN,2008,Population,240157903.0
+Indonesia,IDN,2007,Population,237062337.0
+Indonesia,IDN,2006,Population,233951652.0
+Indonesia,IDN,2005,Population,230871650.0
+Indonesia,IDN,2004,Population,227926649.0
+Indonesia,IDN,2003,Population,225048008.0
+Indonesia,IDN,2002,Population,222088495.0
+Indonesia,IDN,2001,Population,219097902.0
+Indonesia,IDN,2000,Population,216077790.0
+Indonesia,IDN,1999,Population,213004668.0
+Indonesia,IDN,1998,Population,209826788.0
+Indonesia,IDN,1997,Population,206536095.0
+Indonesia,IDN,1996,Population,203204348.0
+Indonesia,IDN,1995,Population,199888057.0
+Indonesia,IDN,1994,Population,196591828.0
+Indonesia,IDN,1993,Population,193305168.0
+Indonesia,IDN,1992,Population,190043744.0
+Indonesia,IDN,1991,Population,186778238.0
+Indonesia,IDN,1990,Population,183501098.0
+Indonesia,IDN,1989,Population,180201630.0
+Indonesia,IDN,1988,Population,176855065.0
+Indonesia,IDN,1987,Population,173511154.0
+Indonesia,IDN,1986,Population,170175065.0
+Indonesia,IDN,1985,Population,166776185.0
+Indonesia,IDN,1984,Population,163251124.0
+Indonesia,IDN,1983,Population,159651381.0
+Indonesia,IDN,1982,Population,156052152.0
+Indonesia,IDN,1981,Population,152485035.0
+Indonesia,IDN,1980,Population,148950540.0
+Indonesia,IDN,1979,Population,145434834.0
+Indonesia,IDN,1978,Population,141953163.0
+Indonesia,IDN,1977,Population,138533541.0
+Indonesia,IDN,1976,Population,135173655.0
+Indonesia,IDN,1975,Population,131843848.0
+Indonesia,IDN,1974,Population,128555045.0
+Indonesia,IDN,1973,Population,125288515.0
+Indonesia,IDN,1972,Population,122039841.0
+Indonesia,IDN,1971,Population,118833702.0
+Indonesia,IDN,1970,Population,115657495.0
+Indonesia,IDN,1969,Population,112517639.0
+Indonesia,IDN,1968,Population,109450006.0
+Indonesia,IDN,1967,Population,106526393.0
+Indonesia,IDN,1966,Population,103792754.0
+Indonesia,IDN,1965,Population,101365130.0
+Indonesia,IDN,1964,Population,98833749.0
+Indonesia,IDN,1963,Population,96051424.0
+Indonesia,IDN,1962,Population,93375850.0
+Indonesia,IDN,1961,Population,90791249.0
+Indonesia,IDN,1960,Population,88296070.0
+Turkiye,TUR,2025,GDP_per_capita,18599.4420922378
+Turkiye,TUR,2024,GDP_per_capita,15892.7157287241
+Turkiye,TUR,2023,GDP_per_capita,13375.0947282864
+Turkiye,TUR,2022,GDP_per_capita,10897.8397861365
+Turkiye,TUR,2021,GDP_per_capita,9981.76398411336
+Turkiye,TUR,2020,GDP_per_capita,8798.11791709313
+Turkiye,TUR,2019,GDP_per_capita,9395.23378001368
+Turkiye,TUR,2018,GDP_per_capita,9684.11819884721
+Turkiye,TUR,2017,GDP_per_capita,10756.3877677883
+Turkiye,TUR,2016,GDP_per_capita,10984.3643169061
+Turkiye,TUR,2015,GDP_per_capita,11064.6494504662
+Turkiye,TUR,2014,GDP_per_capita,12209.3862327674
+Turkiye,TUR,2013,GDP_per_capita,12635.5570016068
+Turkiye,TUR,2012,GDP_per_capita,11776.7593362033
+Turkiye,TUR,2011,GDP_per_capita,11373.6355760885
+Turkiye,TUR,2010,GDP_per_capita,10698.9699409757
+Turkiye,TUR,2009,GDP_per_capita,9076.92472236977
+Turkiye,TUR,2008,GDP_per_capita,10913.4079047769
+Turkiye,TUR,2007,GDP_per_capita,9766.91734545294
+Turkiye,TUR,2006,GDP_per_capita,7990.08251407245
+Turkiye,TUR,2005,GDP_per_capita,7331.85429430255
+Turkiye,TUR,2004,GDP_per_capita,5979.6054216148
+Turkiye,TUR,2003,GDP_per_capita,4649.63668068586
+Turkiye,TUR,2002,GDP_per_capita,3591.08628982587
+Turkiye,TUR,2001,GDP_per_capita,3052.2256706793
+Turkiye,TUR,2000,GDP_per_capita,4199.3798635759
+Turkiye,TUR,1999,GDP_per_capita,3973.77763854116
+Turkiye,TUR,1998,GDP_per_capita,4331.02761275037
+Turkiye,TUR,1997,GDP_per_capita,4197.37636165642
+Turkiye,TUR,1996,GDP_per_capita,4041.36210281686
+Turkiye,TUR,1995,GDP_per_capita,3845.98997887841
+Turkiye,TUR,1994,GDP_per_capita,2176.2801813809
+Turkiye,TUR,1993,GDP_per_capita,3057.93737480422
+Turkiye,TUR,1992,GDP_per_capita,2743.65320297936
+Turkiye,TUR,1991,GDP_per_capita,2649.27259974439
+Turkiye,TUR,1990,GDP_per_capita,2689.52621921233
+Turkiye,TUR,1989,GDP_per_capita,1948.59179454794
+Turkiye,TUR,1988,GDP_per_capita,1685.69479240535
+Turkiye,TUR,1987,GDP_per_capita,1649.96264794402
+Turkiye,TUR,1986,GDP_per_capita,1461.49658654754
+Turkiye,TUR,1985,GDP_per_capita,1326.42701445307
+Turkiye,TUR,1984,GDP_per_capita,1209.05149383313
+Turkiye,TUR,1983,GDP_per_capita,1275.68337617131
+Turkiye,TUR,1982,GDP_per_capita,1360.23825219775
+Turkiye,TUR,1981,GDP_per_capita,1536.66562064101
+Turkiye,TUR,1980,GDP_per_capita,1515.64589850068
+Turkiye,TUR,1979,GDP_per_capita,2013.37374286503
+Turkiye,TUR,1978,GDP_per_capita,1510.18531064944
+Turkiye,TUR,1977,GDP_per_capita,1371.96185651463
+Turkiye,TUR,1976,GDP_per_capita,1227.92409658199
+Turkiye,TUR,1975,GDP_per_capita,1121.54326914976
+Turkiye,TUR,1974,GDP_per_capita,880.728167716848
+Turkiye,TUR,1973,GDP_per_capita,661.080821885172
+Turkiye,TUR,1972,GDP_per_capita,537.337529232528
+Turkiye,TUR,1971,GDP_per_capita,430.897259673783
+Turkiye,TUR,1970,GDP_per_capita,487.565086682435
+Turkiye,TUR,1969,GDP_per_capita,543.947401329478
+Turkiye,TUR,1968,GDP_per_capita,501.12130904111
+Turkiye,TUR,1967,GDP_per_capita,459.449369053159
+Turkiye,TUR,1966,GDP_per_capita,424.984610131778
+Turkiye,TUR,1965,GDP_per_capita,369.967082204625
+Turkiye,TUR,1964,GDP_per_capita,354.365541117168
+Turkiye,TUR,1963,GDP_per_capita,337.019856859205
+Turkiye,TUR,1962,GDP_per_capita,298.241020884883
+Turkiye,TUR,1961,GDP_per_capita,274.350890943262
+Turkiye,TUR,1960,GDP_per_capita,267.091207552765
+Turkiye,TUR,2024,Life_expectancy,77.421
+Turkiye,TUR,2023,Life_expectancy,77.156
+Turkiye,TUR,2022,Life_expectancy,77.591
+Turkiye,TUR,2021,Life_expectancy,75.722
+Turkiye,TUR,2020,Life_expectancy,76.525
+Turkiye,TUR,2019,Life_expectancy,77.737
+Turkiye,TUR,2018,Life_expectancy,77.454
+Turkiye,TUR,2017,Life_expectancy,77.037
+Turkiye,TUR,2016,Life_expectancy,76.595
+Turkiye,TUR,2015,Life_expectancy,76.539
+Turkiye,TUR,2014,Life_expectancy,76.452
+Turkiye,TUR,2013,Life_expectancy,76.171
+Turkiye,TUR,2012,Life_expectancy,75.552
+Turkiye,TUR,2011,Life_expectancy,74.823
+Turkiye,TUR,2010,Life_expectancy,74.964
+Turkiye,TUR,2009,Life_expectancy,74.679
+Turkiye,TUR,2008,Life_expectancy,74.38
+Turkiye,TUR,2007,Life_expectancy,74.129
+Turkiye,TUR,2006,Life_expectancy,73.804
+Turkiye,TUR,2005,Life_expectancy,73.51
+Turkiye,TUR,2004,Life_expectancy,73.223
+Turkiye,TUR,2003,Life_expectancy,72.906
+Turkiye,TUR,2002,Life_expectancy,72.605
+Turkiye,TUR,2001,Life_expectancy,72.271
+Turkiye,TUR,2000,Life_expectancy,71.931
+Turkiye,TUR,1999,Life_expectancy,70.752
+Turkiye,TUR,1998,Life_expectancy,71.144
+Turkiye,TUR,1997,Life_expectancy,70.668
+Turkiye,TUR,1996,Life_expectancy,70.245
+Turkiye,TUR,1995,Life_expectancy,69.734
+Turkiye,TUR,1994,Life_expectancy,69.402
+Turkiye,TUR,1993,Life_expectancy,69.018
+Turkiye,TUR,1992,Life_expectancy,68.603
+Turkiye,TUR,1991,Life_expectancy,68.287
+Turkiye,TUR,1990,Life_expectancy,67.835
+Turkiye,TUR,1989,Life_expectancy,67.365
+Turkiye,TUR,1988,Life_expectancy,66.902
+Turkiye,TUR,1987,Life_expectancy,66.379
+Turkiye,TUR,1986,Life_expectancy,65.87
+Turkiye,TUR,1985,Life_expectancy,65.344
+Turkiye,TUR,1984,Life_expectancy,64.81
+Turkiye,TUR,1983,Life_expectancy,64.269
+Turkiye,TUR,1982,Life_expectancy,63.74
+Turkiye,TUR,1981,Life_expectancy,63.194
+Turkiye,TUR,1980,Life_expectancy,62.739
+Turkiye,TUR,1979,Life_expectancy,62.161
+Turkiye,TUR,1978,Life_expectancy,61.614
+Turkiye,TUR,1977,Life_expectancy,60.846
+Turkiye,TUR,1976,Life_expectancy,60.014
+Turkiye,TUR,1975,Life_expectancy,59.513
+Turkiye,TUR,1974,Life_expectancy,59.019
+Turkiye,TUR,1973,Life_expectancy,58.455
+Turkiye,TUR,1972,Life_expectancy,57.971
+Turkiye,TUR,1971,Life_expectancy,57.223
+Turkiye,TUR,1970,Life_expectancy,56.702
+Turkiye,TUR,1969,Life_expectancy,56.179
+Turkiye,TUR,1968,Life_expectancy,55.639
+Turkiye,TUR,1967,Life_expectancy,55.183
+Turkiye,TUR,1966,Life_expectancy,54.57
+Turkiye,TUR,1965,Life_expectancy,54.105
+Turkiye,TUR,1964,Life_expectancy,53.6
+Turkiye,TUR,1963,Life_expectancy,53.12
+Turkiye,TUR,1962,Life_expectancy,52.347
+Turkiye,TUR,1961,Life_expectancy,51.558
+Turkiye,TUR,1960,Life_expectancy,50.799
+Turkiye,TUR,2025,Population,85878556.0
+Turkiye,TUR,2024,Population,85518661.0
+Turkiye,TUR,2023,Population,85325965.0
+Turkiye,TUR,2022,Population,84979913.0
+Turkiye,TUR,2021,Population,84147318.0
+Turkiye,TUR,2020,Population,83384680.0
+Turkiye,TUR,2019,Population,82579440.0
+Turkiye,TUR,2018,Population,81407204.0
+Turkiye,TUR,2017,Population,80312698.0
+Turkiye,TUR,2016,Population,79277962.0
+Turkiye,TUR,2015,Population,78218479.0
+Turkiye,TUR,2014,Population,77181884.0
+Turkiye,TUR,2013,Population,76147624.0
+Turkiye,TUR,2012,Population,75175827.0
+Turkiye,TUR,2011,Population,74223629.0
+Turkiye,TUR,2010,Population,73142150.0
+Turkiye,TUR,2009,Population,72039206.0
+Turkiye,TUR,2008,Population,71051678.0
+Turkiye,TUR,2007,Population,70158112.0
+Turkiye,TUR,2006,Population,70045349.0
+Turkiye,TUR,2005,Population,69329557.0
+Turkiye,TUR,2004,Population,68592617.0
+Turkiye,TUR,2003,Population,67831730.0
+Turkiye,TUR,2002,Population,67048795.0
+Turkiye,TUR,2001,Population,66245128.0
+Turkiye,TUR,2000,Population,65425961.0
+Turkiye,TUR,1999,Population,64591923.0
+Turkiye,TUR,1998,Population,63734383.0
+Turkiye,TUR,1997,Population,62852966.0
+Turkiye,TUR,1996,Population,61951134.0
+Turkiye,TUR,1995,Population,61024503.0
+Turkiye,TUR,1994,Population,60033836.0
+Turkiye,TUR,1993,Population,58999167.0
+Turkiye,TUR,1992,Population,57990118.0
+Turkiye,TUR,1991,Population,57009887.0
+Turkiye,TUR,1990,Population,56015628.0
+Turkiye,TUR,1989,Population,54976723.0
+Turkiye,TUR,1988,Population,53909626.0
+Turkiye,TUR,1987,Population,52843670.0
+Turkiye,TUR,1986,Population,51777772.0
+Turkiye,TUR,1985,Population,50687115.0
+Turkiye,TUR,1984,Population,49574069.0
+Turkiye,TUR,1983,Population,48447410.0
+Turkiye,TUR,1982,Population,47322096.0
+Turkiye,TUR,1981,Population,46321190.0
+Turkiye,TUR,1980,Population,45408815.0
+Turkiye,TUR,1979,Population,44510429.0
+Turkiye,TUR,1978,Population,43645306.0
+Turkiye,TUR,1977,Population,42773298.0
+Turkiye,TUR,1976,Population,41899984.0
+Turkiye,TUR,1975,Population,41053126.0
+Turkiye,TUR,1974,Population,40210234.0
+Turkiye,TUR,1973,Population,39329533.0
+Turkiye,TUR,1972,Population,38430221.0
+Turkiye,TUR,1971,Population,37518611.0
+Turkiye,TUR,1970,Population,36638465.0
+Turkiye,TUR,1969,Population,35787774.0
+Turkiye,TUR,1968,Population,34921684.0
+Turkiye,TUR,1967,Population,34050421.0
+Turkiye,TUR,1966,Population,33177672.0
+Turkiye,TUR,1965,Population,32345220.0
+Turkiye,TUR,1964,Population,31543072.0
+Turkiye,TUR,1963,Population,30726841.0
+Turkiye,TUR,1962,Population,29916147.0
+Turkiye,TUR,1961,Population,29119238.0
+Turkiye,TUR,1960,Population,28329898.0
+South Africa,ZAF,2025,GDP_per_capita,6597.71450918774
+South Africa,ZAF,2024,GDP_per_capita,6267.186814093
+South Africa,ZAF,2023,GDP_per_capita,6034.27208964673
+South Africa,ZAF,2022,GDP_per_capita,6534.24867783397
+South Africa,ZAF,2021,GDP_per_capita,6828.75624590017
+South Africa,ZAF,2020,GDP_per_capita,5580.60383075189
+South Africa,ZAF,2019,GDP_per_capita,6533.71121032856
+South Africa,ZAF,2018,GDP_per_capita,6914.1780318076
+South Africa,ZAF,2017,GDP_per_capita,6618.33508255701
+South Africa,ZAF,2016,GDP_per_capita,5651.20585165749
+South Africa,ZAF,2015,GDP_per_capita,6112.27382485974
+South Africa,ZAF,2014,GDP_per_capita,6856.73137092522
+South Africa,ZAF,2013,GDP_per_capita,7331.65467384919
+South Africa,ZAF,2012,GDP_per_capita,8076.97678479741
+South Africa,ZAF,2011,GDP_per_capita,8646.05571071635
+South Africa,ZAF,2010,GDP_per_capita,7973.47195771517
+South Africa,ZAF,2009,GDP_per_capita,6374.70560042992
+South Africa,ZAF,2008,GDP_per_capita,6184.75474328399
+South Africa,ZAF,2007,GDP_per_capita,6591.85535960564
+South Africa,ZAF,2006,GDP_per_capita,6077.38293388876
+South Africa,ZAF,2005,GDP_per_capita,5836.87663325127
+South Africa,ZAF,2004,GDP_per_capita,5221.46333731721
+South Africa,ZAF,2003,GDP_per_capita,4062.21755993786
+South Africa,ZAF,2002,GDP_per_capita,2688.23676032806
+South Africa,ZAF,2001,GDP_per_capita,2847.15191945908
+South Africa,ZAF,2000,GDP_per_capita,3217.84693448467
+South Africa,ZAF,1999,GDP_per_capita,3242.36830483958
+South Africa,ZAF,1998,GDP_per_capita,3309.60933087472
+South Africa,ZAF,1997,GDP_per_capita,3700.23554789867
+South Africa,ZAF,1996,GDP_per_capita,3617.55336002932
+South Africa,ZAF,1995,GDP_per_capita,3855.6340871567
+South Africa,ZAF,1994,GDP_per_capita,3488.59711541763
+South Africa,ZAF,1993,GDP_per_capita,3399.64009566241
+South Africa,ZAF,1992,GDP_per_capita,3462.39400202835
+South Africa,ZAF,1991,GDP_per_capita,3243.23616023953
+South Africa,ZAF,1990,GDP_per_capita,3093.48920352334
+South Africa,ZAF,1989,GDP_per_capita,2726.70980679488
+South Africa,ZAF,1988,GDP_per_capita,2702.05504774508
+South Africa,ZAF,1987,GDP_per_capita,2586.27423314228
+South Africa,ZAF,1986,GDP_per_capita,2027.4662038189
+South Africa,ZAF,1985,GDP_per_capita,1839.4841908184
+South Africa,ZAF,1984,GDP_per_capita,2504.07736790289
+South Africa,ZAF,1983,GDP_per_capita,2938.48980239675
+South Africa,ZAF,1982,GDP_per_capita,2717.16388710425
+South Africa,ZAF,1981,GDP_per_capita,3049.71474333882
+South Africa,ZAF,1980,GDP_per_capita,3028.97447561832
+South Africa,ZAF,1979,GDP_per_capita,2201.51922339868
+South Africa,ZAF,1978,GDP_per_capita,1851.75191300848
+South Africa,ZAF,1977,GDP_per_capita,1671.46618837272
+South Africa,ZAF,1976,GDP_per_capita,1558.99824733487
+South Africa,ZAF,1975,GDP_per_capita,1670.11816898954
+South Africa,ZAF,1974,GDP_per_capita,1656.2890557998
+South Africa,ZAF,1973,GDP_per_capita,1369.16160033933
+South Africa,ZAF,1972,GDP_per_capita,1038.39407468283
+South Africa,ZAF,1971,GDP_per_capita,1020.43983590718
+South Africa,ZAF,1970,GDP_per_capita,952.352188073537
+South Africa,ZAF,1969,GDP_per_capita,890.922089102936
+South Africa,ZAF,1968,GDP_per_capita,817.128340614066
+South Africa,ZAF,1967,GDP_per_capita,778.839335829791
+South Africa,ZAF,1966,GDP_per_capita,721.75375941418
+South Africa,ZAF,1965,GDP_per_capita,684.62122774035
+South Africa,ZAF,1964,GDP_per_capita,645.873375685446
+South Africa,ZAF,1963,GDP_per_capita,604.536855270991
+South Africa,ZAF,1962,GDP_per_capita,563.423008817945
+South Africa,ZAF,1961,GDP_per_capita,545.657511922673
+South Africa,ZAF,1960,GDP_per_capita,532.147504330332
+South Africa,ZAF,2024,Life_expectancy,66.312
+South Africa,ZAF,2023,Life_expectancy,66.139
+South Africa,ZAF,2022,Life_expectancy,65.454
+South Africa,ZAF,2021,Life_expectancy,62.01
+South Africa,ZAF,2020,Life_expectancy,65.15
+South Africa,ZAF,2019,Life_expectancy,66.071
+South Africa,ZAF,2018,Life_expectancy,65.726
+South Africa,ZAF,2017,Life_expectancy,65.422
+South Africa,ZAF,2016,Life_expectancy,64.749
+South Africa,ZAF,2015,Life_expectancy,64.053
+South Africa,ZAF,2014,Life_expectancy,63.184
+South Africa,ZAF,2013,Life_expectancy,62.388
+South Africa,ZAF,2012,Life_expectancy,61.737
+South Africa,ZAF,2011,Life_expectancy,60.602
+South Africa,ZAF,2010,Life_expectancy,58.886
+South Africa,ZAF,2009,Life_expectancy,57.413
+South Africa,ZAF,2008,Life_expectancy,55.982
+South Africa,ZAF,2007,Life_expectancy,54.948
+South Africa,ZAF,2006,Life_expectancy,54.22
+South Africa,ZAF,2005,Life_expectancy,53.914
+South Africa,ZAF,2004,Life_expectancy,53.963
+South Africa,ZAF,2003,Life_expectancy,54.245
+South Africa,ZAF,2002,Life_expectancy,55.58
+South Africa,ZAF,2001,Life_expectancy,57.161
+South Africa,ZAF,2000,Life_expectancy,58.368
+South Africa,ZAF,1999,Life_expectancy,59.19
+South Africa,ZAF,1998,Life_expectancy,59.912
+South Africa,ZAF,1997,Life_expectancy,60.538
+South Africa,ZAF,1996,Life_expectancy,61.079
+South Africa,ZAF,1995,Life_expectancy,61.603
+South Africa,ZAF,1994,Life_expectancy,62.069
+South Africa,ZAF,1993,Life_expectancy,62.618
+South Africa,ZAF,1992,Life_expectancy,62.839
+South Africa,ZAF,1991,Life_expectancy,62.983
+South Africa,ZAF,1990,Life_expectancy,62.942
+South Africa,ZAF,1989,Life_expectancy,63.017
+South Africa,ZAF,1988,Life_expectancy,62.902
+South Africa,ZAF,1987,Life_expectancy,62.694
+South Africa,ZAF,1986,Life_expectancy,62.421
+South Africa,ZAF,1985,Life_expectancy,62.195
+South Africa,ZAF,1984,Life_expectancy,61.837
+South Africa,ZAF,1983,Life_expectancy,61.393
+South Africa,ZAF,1982,Life_expectancy,60.936
+South Africa,ZAF,1981,Life_expectancy,60.445
+South Africa,ZAF,1980,Life_expectancy,59.961
+South Africa,ZAF,1979,Life_expectancy,59.472
+South Africa,ZAF,1978,Life_expectancy,58.991
+South Africa,ZAF,1977,Life_expectancy,58.48
+South Africa,ZAF,1976,Life_expectancy,58.0
+South Africa,ZAF,1975,Life_expectancy,57.591
+South Africa,ZAF,1974,Life_expectancy,57.11
+South Africa,ZAF,1973,Life_expectancy,56.72
+South Africa,ZAF,1972,Life_expectancy,56.377
+South Africa,ZAF,1971,Life_expectancy,56.02
+South Africa,ZAF,1970,Life_expectancy,55.681
+South Africa,ZAF,1969,Life_expectancy,55.44
+South Africa,ZAF,1968,Life_expectancy,55.191
+South Africa,ZAF,1967,Life_expectancy,54.955
+South Africa,ZAF,1966,Life_expectancy,54.731
+South Africa,ZAF,1965,Life_expectancy,54.427
+South Africa,ZAF,1964,Life_expectancy,54.215
+South Africa,ZAF,1963,Life_expectancy,53.895
+South Africa,ZAF,1962,Life_expectancy,53.566
+South Africa,ZAF,1961,Life_expectancy,53.067
+South Africa,ZAF,1960,Life_expectancy,52.575
+South Africa,ZAF,2025,Population,64747319.0
+South Africa,ZAF,2024,Population,64007187.0
+South Africa,ZAF,2023,Population,63212384.0
+South Africa,ZAF,2022,Population,62378410.0
+South Africa,ZAF,2021,Population,61502603.0
+South Africa,ZAF,2020,Population,60562381.0
+South Africa,ZAF,2019,Population,59587885.0
+South Africa,ZAF,2018,Population,58613001.0
+South Africa,ZAF,2017,Population,57635162.0
+South Africa,ZAF,2016,Population,57259551.0
+South Africa,ZAF,2015,Population,56723537.0
+South Africa,ZAF,2014,Population,55594838.0
+South Africa,ZAF,2013,Population,54678791.0
+South Africa,ZAF,2012,Population,53782567.0
+South Africa,ZAF,2011,Population,52995205.0
+South Africa,ZAF,2010,Population,52344051.0
+South Africa,ZAF,2009,Population,51728516.0
+South Africa,ZAF,2008,Population,51114599.0
+South Africa,ZAF,2007,Population,50528584.0
+South Africa,ZAF,2006,Population,49998277.0
+South Africa,ZAF,2005,Population,49490033.0
+South Africa,ZAF,2004,Population,48991421.0
+South Africa,ZAF,2003,Population,48500348.0
+South Africa,ZAF,2002,Population,48019415.0
+South Africa,ZAF,2001,Population,47566800.0
+South Africa,ZAF,2000,Population,47159719.0
+South Africa,ZAF,1999,Population,46730335.0
+South Africa,ZAF,1998,Population,46223880.0
+South Africa,ZAF,1997,Population,45666838.0
+South Africa,ZAF,1996,Population,45123018.0
+South Africa,ZAF,1995,Population,44541554.0
+South Africa,ZAF,1994,Population,44004139.0
+South Africa,ZAF,1993,Population,43297156.0
+South Africa,ZAF,1992,Population,42443509.0
+South Africa,ZAF,1991,Population,41687898.0
+South Africa,ZAF,1990,Population,40746268.0
+South Africa,ZAF,1989,Population,39628575.0
+South Africa,ZAF,1988,Population,38480649.0
+South Africa,ZAF,1987,Population,37326190.0
+South Africa,ZAF,1986,Population,36180515.0
+South Africa,ZAF,1985,Population,35042093.0
+South Africa,ZAF,1984,Population,33892788.0
+South Africa,ZAF,1983,Population,32739304.0
+South Africa,ZAF,1982,Population,31615339.0
+South Africa,ZAF,1981,Population,30541044.0
+South Africa,ZAF,1980,Population,29518857.0
+South Africa,ZAF,1979,Population,28634162.0
+South Africa,ZAF,1978,Population,27869507.0
+South Africa,ZAF,1977,Population,27118952.0
+South Africa,ZAF,1976,Population,26395450.0
+South Africa,ZAF,1975,Population,25690940.0
+South Africa,ZAF,1974,Population,24989108.0
+South Africa,ZAF,1973,Population,24294263.0
+South Africa,ZAF,1972,Population,23609456.0
+South Africa,ZAF,1971,Population,22942143.0
+South Africa,ZAF,1970,Population,22279984.0
+South Africa,ZAF,1969,Population,21614676.0
+South Africa,ZAF,1968,Population,20957287.0
+South Africa,ZAF,1967,Population,20314066.0
+South Africa,ZAF,1966,Population,19690087.0
+South Africa,ZAF,1965,Population,19089380.0
+South Africa,ZAF,1964,Population,18511361.0
+South Africa,ZAF,1963,Population,17954564.0
+South Africa,ZAF,1962,Population,17418522.0
+South Africa,ZAF,1961,Population,16908035.0
+South Africa,ZAF,1960,Population,16440172.0
+Nigeria,NGA,2025,GDP_per_capita,1224.25410237743
+Nigeria,NGA,2024,GDP_per_capita,1084.16041805058
+Nigeria,NGA,2023,GDP_per_capita,2138.76383718757
+Nigeria,NGA,2022,GDP_per_capita,2899.16047469267
+Nigeria,NGA,2021,GDP_per_capita,2787.48779220991
+Nigeria,NGA,2020,GDP_per_capita,2797.184580679
+Nigeria,NGA,2019,GDP_per_capita,3189.81286496183
+Nigeria,NGA,2018,GDP_per_capita,2057.87944554011
+Nigeria,NGA,2017,GDP_per_capita,1876.34027111773
+Nigeria,NGA,2016,GDP_per_capita,2070.4127339595
+Nigeria,NGA,2015,GDP_per_capita,2585.73360671797
+Nigeria,NGA,2014,GDP_per_capita,3088.72131316169
+Nigeria,NGA,2013,GDP_per_capita,2872.79083379398
+Nigeria,NGA,2012,GDP_per_capita,2633.19734671361
+Nigeria,NGA,2011,GDP_per_capita,2418.41316975875
+Nigeria,NGA,2010,GDP_per_capita,2202.25672957344
+Nigeria,NGA,2009,GDP_per_capita,1820.48633854782
+Nigeria,NGA,2008,GDP_per_capita,2154.10543545364
+Nigeria,NGA,2007,GDP_per_capita,1815.52697545827
+Nigeria,NGA,2006,GDP_per_capita,1599.53891556365
+Nigeria,NGA,2005,GDP_per_capita,1211.37703504386
+Nigeria,NGA,2004,GDP_per_capita,962.48104194733
+Nigeria,NGA,2003,GDP_per_capita,763.388745367223
+Nigeria,NGA,2002,GDP_per_capita,712.164852077686
+Nigeria,NGA,2001,GDP_per_capita,566.428231812933
+Nigeria,NGA,2000,GDP_per_capita,547.318298903379
+Nigeria,NGA,1999,GDP_per_capita,480.669363941805
+Nigeria,NGA,1998,GDP_per_capita,1822.46998452473
+Nigeria,NGA,1997,GDP_per_capita,1720.27540949396
+Nigeria,NGA,1996,GDP_per_capita,1632.72469370276
+Nigeria,NGA,1995,GDP_per_capita,1271.61617353199
+Nigeria,NGA,1994,GDP_per_capita,744.884247151377
+Nigeria,NGA,1993,GDP_per_capita,539.573202297542
+Nigeria,NGA,1992,GDP_per_capita,508.515905682785
+Nigeria,NGA,1991,GDP_per_capita,596.938795710722
+Nigeria,NGA,1990,GDP_per_capita,556.376449130902
+Nigeria,NGA,1989,GDP_per_capita,465.488089532188
+Nigeria,NGA,1988,GDP_per_capita,539.539468397166
+Nigeria,NGA,1987,GDP_per_capita,587.956613434089
+Nigeria,NGA,1986,GDP_per_capita,628.248453718536
+Nigeria,NGA,1985,GDP_per_capita,868.640540548893
+Nigeria,NGA,1984,GDP_per_capita,890.434106332302
+Nigeria,NGA,1983,GDP_per_capita,1207.07374565349
+Nigeria,NGA,1982,GDP_per_capita,1821.53265482387
+Nigeria,NGA,1981,GDP_per_capita,2162.20995436075
+Nigeria,NGA,1980,GDP_per_capita,870.359934682057
+Nigeria,NGA,1979,GDP_per_capita,660.994040864293
+Nigeria,NGA,1978,GDP_per_capita,526.895852928476
+Nigeria,NGA,1977,GDP_per_capita,535.965307817329
+Nigeria,NGA,1976,GDP_per_capita,556.389687719878
+Nigeria,NGA,1975,GDP_per_capita,438.078813916795
+Nigeria,NGA,1974,GDP_per_capita,402.836999782685
+Nigeria,NGA,1973,GDP_per_capita,252.369032452868
+Nigeria,NGA,1972,GDP_per_capita,209.454776294345
+Nigeria,NGA,1971,GDP_per_capita,160.479255841113
+Nigeria,NGA,1970,GDP_per_capita,224.46293599595
+Nigeria,NGA,1969,GDP_per_capita,121.436663307697
+Nigeria,NGA,1968,GDP_per_capita,97.3372081255964
+Nigeria,NGA,1967,GDP_per_capita,99.5014906604697
+Nigeria,NGA,1966,GDP_per_capita,124.382440176253
+Nigeria,NGA,1965,GDP_per_capita,117.287226824734
+Nigeria,NGA,1964,GDP_per_capita,113.297345671875
+Nigeria,NGA,1963,GDP_per_capita,107.675741358944
+Nigeria,NGA,1962,GDP_per_capita,104.532495533943
+Nigeria,NGA,1961,GDP_per_capita,97.1375281143562
+Nigeria,NGA,1960,GDP_per_capita,93.1370090424417
+Nigeria,NGA,2024,Life_expectancy,54.635
+Nigeria,NGA,2023,Life_expectancy,54.462
+Nigeria,NGA,2022,Life_expectancy,54.079
+Nigeria,NGA,2021,Life_expectancy,53.455
+Nigeria,NGA,2020,Life_expectancy,53.072
+Nigeria,NGA,2019,Life_expectancy,53.009
+Nigeria,NGA,2018,Life_expectancy,52.669
+Nigeria,NGA,2017,Life_expectancy,52.397
+Nigeria,NGA,2016,Life_expectancy,52.189
+Nigeria,NGA,2015,Life_expectancy,51.939
+Nigeria,NGA,2014,Life_expectancy,51.94
+Nigeria,NGA,2013,Life_expectancy,51.827
+Nigeria,NGA,2012,Life_expectancy,51.688
+Nigeria,NGA,2011,Life_expectancy,51.49
+Nigeria,NGA,2010,Life_expectancy,51.315
+Nigeria,NGA,2009,Life_expectancy,51.08
+Nigeria,NGA,2008,Life_expectancy,50.748
+Nigeria,NGA,2007,Life_expectancy,50.381
+Nigeria,NGA,2006,Life_expectancy,49.876
+Nigeria,NGA,2005,Life_expectancy,49.538
+Nigeria,NGA,2004,Life_expectancy,49.148
+Nigeria,NGA,2003,Life_expectancy,48.618
+Nigeria,NGA,2002,Life_expectancy,48.02
+Nigeria,NGA,2001,Life_expectancy,47.549
+Nigeria,NGA,2000,Life_expectancy,47.143
+Nigeria,NGA,1999,Life_expectancy,46.609
+Nigeria,NGA,1998,Life_expectancy,46.148
+Nigeria,NGA,1997,Life_expectancy,45.96
+Nigeria,NGA,1996,Life_expectancy,45.833
+Nigeria,NGA,1995,Life_expectancy,45.87
+Nigeria,NGA,1994,Life_expectancy,45.748
+Nigeria,NGA,1993,Life_expectancy,45.783
+Nigeria,NGA,1992,Life_expectancy,45.587
+Nigeria,NGA,1991,Life_expectancy,45.483
+Nigeria,NGA,1990,Life_expectancy,45.733
+Nigeria,NGA,1989,Life_expectancy,45.83
+Nigeria,NGA,1988,Life_expectancy,45.834
+Nigeria,NGA,1987,Life_expectancy,45.89
+Nigeria,NGA,1986,Life_expectancy,45.953
+Nigeria,NGA,1985,Life_expectancy,46.193
+Nigeria,NGA,1984,Life_expectancy,46.339
+Nigeria,NGA,1983,Life_expectancy,46.442
+Nigeria,NGA,1982,Life_expectancy,46.437
+Nigeria,NGA,1981,Life_expectancy,46.309
+Nigeria,NGA,1980,Life_expectancy,45.959
+Nigeria,NGA,1979,Life_expectancy,45.738
+Nigeria,NGA,1978,Life_expectancy,45.348
+Nigeria,NGA,1977,Life_expectancy,44.847
+Nigeria,NGA,1976,Life_expectancy,44.186
+Nigeria,NGA,1975,Life_expectancy,43.054
+Nigeria,NGA,1974,Life_expectancy,42.489
+Nigeria,NGA,1973,Life_expectancy,41.831
+Nigeria,NGA,1972,Life_expectancy,41.273
+Nigeria,NGA,1971,Life_expectancy,40.606
+Nigeria,NGA,1970,Life_expectancy,40.008
+Nigeria,NGA,1969,Life_expectancy,38.946
+Nigeria,NGA,1968,Life_expectancy,38.642
+Nigeria,NGA,1967,Life_expectancy,37.497
+Nigeria,NGA,1966,Life_expectancy,38.355
+Nigeria,NGA,1965,Life_expectancy,38.221
+Nigeria,NGA,1964,Life_expectancy,37.98
+Nigeria,NGA,1963,Life_expectancy,37.806
+Nigeria,NGA,1962,Life_expectancy,37.606
+Nigeria,NGA,1961,Life_expectancy,37.427
+Nigeria,NGA,1960,Life_expectancy,37.207
+Nigeria,NGA,2025,Population,237527782.0
+Nigeria,NGA,2024,Population,232679478.0
+Nigeria,NGA,2023,Population,227882945.0
+Nigeria,NGA,2022,Population,223150896.0
+Nigeria,NGA,2021,Population,218529286.0
+Nigeria,NGA,2020,Population,213996181.0
+Nigeria,NGA,2019,Population,209485641.0
+Nigeria,NGA,2018,Population,204938755.0
+Nigeria,NGA,2017,Population,200254579.0
+Nigeria,NGA,2016,Population,195443700.0
+Nigeria,NGA,2015,Population,190671878.0
+Nigeria,NGA,2014,Population,185896915.0
+Nigeria,NGA,2013,Population,181049443.0
+Nigeria,NGA,2012,Population,176200625.0
+Nigeria,NGA,2011,Population,171379598.0
+Nigeria,NGA,2010,Population,166642886.0
+Nigeria,NGA,2009,Population,162049464.0
+Nigeria,NGA,2008,Population,157595014.0
+Nigeria,NGA,2007,Population,153267261.0
+Nigeria,NGA,2006,Population,149077334.0
+Nigeria,NGA,2005,Population,145017253.0
+Nigeria,NGA,2004,Population,141057045.0
+Nigeria,NGA,2003,Population,137202644.0
+Nigeria,NGA,2002,Population,133471989.0
+Nigeria,NGA,2001,Population,129862595.0
+Nigeria,NGA,2000,Population,126382494.0
+Nigeria,NGA,1999,Population,123047320.0
+Nigeria,NGA,1998,Population,119846254.0
+Nigeria,NGA,1997,Population,116754792.0
+Nigeria,NGA,1996,Population,113754779.0
+Nigeria,NGA,1995,Population,110819428.0
+Nigeria,NGA,1994,Population,107935714.0
+Nigeria,NGA,1993,Population,105122069.0
+Nigeria,NGA,1992,Population,102372770.0
+Nigeria,NGA,1991,Population,99720162.0
+Nigeria,NGA,1990,Population,97120925.0
+Nigeria,NGA,1989,Population,94531014.0
+Nigeria,NGA,1988,Population,92020090.0
+Nigeria,NGA,1987,Population,89591716.0
+Nigeria,NGA,1986,Population,87235953.0
+Nigeria,NGA,1985,Population,84897973.0
+Nigeria,NGA,1984,Population,82526443.0
+Nigeria,NGA,1983,Population,80438260.0
+Nigeria,NGA,1982,Population,78378701.0
+Nigeria,NGA,1981,Population,76068103.0
+Nigeria,NGA,1980,Population,73764641.0
+Nigeria,NGA,1979,Population,71498242.0
+Nigeria,NGA,1978,Population,69326532.0
+Nigeria,NGA,1977,Population,67234590.0
+Nigeria,NGA,1976,Population,65258009.0
+Nigeria,NGA,1975,Population,63410815.0
+Nigeria,NGA,1974,Population,61679144.0
+Nigeria,NGA,1973,Population,60082139.0
+Nigeria,NGA,1972,Population,58601748.0
+Nigeria,NGA,1971,Population,57214684.0
+Nigeria,NGA,1970,Population,55893838.0
+Nigeria,NGA,1969,Population,54631914.0
+Nigeria,NGA,1968,Population,53432783.0
+Nigeria,NGA,1967,Population,52293065.0
+Nigeria,NGA,1966,Population,51188234.0
+Nigeria,NGA,1965,Population,50086764.0
+Nigeria,NGA,1964,Population,49012016.0
+Nigeria,NGA,1963,Population,47973575.0
+Nigeria,NGA,1962,Population,46965292.0
+Nigeria,NGA,1961,Population,45989310.0
+Nigeria,NGA,1960,Population,45053782.0
+"Egypt, Arab Rep.",EGY,2025,GDP_per_capita,3085.80712036204
+"Egypt, Arab Rep.",EGY,2024,GDP_per_capita,3338.47371043679
+"Egypt, Arab Rep.",EGY,2023,GDP_per_capita,3456.78965212363
+"Egypt, Arab Rep.",EGY,2022,GDP_per_capita,4233.30783744856
+"Egypt, Arab Rep.",EGY,2021,GDP_per_capita,3827.35415374308
+"Egypt, Arab Rep.",EGY,2020,GDP_per_capita,3511.11381026379
+"Egypt, Arab Rep.",EGY,2019,GDP_per_capita,2962.98892023003
+"Egypt, Arab Rep.",EGY,2018,GDP_per_capita,2484.70315630508
+"Egypt, Arab Rep.",EGY,2017,GDP_per_capita,2395.10333299491
+"Egypt, Arab Rep.",EGY,2016,GDP_per_capita,3270.6287768197
+"Egypt, Arab Rep.",EGY,2015,GDP_per_capita,3306.98159414141
+"Egypt, Arab Rep.",EGY,2014,GDP_per_capita,3133.39102265541
+"Egypt, Arab Rep.",EGY,2013,GDP_per_capita,3025.52563552448
+"Egypt, Arab Rep.",EGY,2012,GDP_per_capita,2996.0677072015
+"Egypt, Arab Rep.",EGY,2011,GDP_per_capita,2590.64384891965
+"Egypt, Arab Rep.",EGY,2010,GDP_per_capita,2455.08194645282
+"Egypt, Arab Rep.",EGY,2009,GDP_per_capita,2161.63964573927
+"Egypt, Arab Rep.",EGY,2008,GDP_per_capita,1896.21594269779
+"Egypt, Arab Rep.",EGY,2007,GDP_per_capita,1547.74170735909
+"Egypt, Arab Rep.",EGY,2006,GDP_per_capita,1298.97900203124
+"Egypt, Arab Rep.",EGY,2005,GDP_per_capita,1105.53920713903
+"Egypt, Arab Rep.",EGY,2004,GDP_per_capita,991.255689145253
+"Egypt, Arab Rep.",EGY,2003,GDP_per_capita,1031.27556291284
+"Egypt, Arab Rep.",EGY,2002,GDP_per_capita,1116.82884626213
+"Egypt, Arab Rep.",EGY,2001,GDP_per_capita,1295.1374184163
+"Egypt, Arab Rep.",EGY,2000,GDP_per_capita,1366.09274372613
+"Egypt, Arab Rep.",EGY,1999,GDP_per_capita,1268.30949160496
+"Egypt, Arab Rep.",EGY,1998,GDP_per_capita,1212.82259820477
+"Egypt, Arab Rep.",EGY,1997,GDP_per_capita,1146.20172117634
+"Egypt, Arab Rep.",EGY,1996,GDP_per_capita,1008.97637629447
+"Egypt, Arab Rep.",EGY,1995,GDP_per_capita,916.326617700876
+"Egypt, Arab Rep.",EGY,1994,GDP_per_capita,807.303537230487
+"Egypt, Arab Rep.",EGY,1993,GDP_per_capita,740.334217356418
+"Egypt, Arab Rep.",EGY,1992,GDP_per_capita,680.79923864551
+"Egypt, Arab Rep.",EGY,1991,GDP_per_capita,622.829605007867
+"Egypt, Arab Rep.",EGY,1990,GDP_per_capita,735.982935028025
+"Egypt, Arab Rep.",EGY,1989,GDP_per_capita,701.037717929191
+"Egypt, Arab Rep.",EGY,1988,GDP_per_capita,633.839369496566
+"Egypt, Arab Rep.",EGY,1987,GDP_per_capita,753.722263747615
+"Egypt, Arab Rep.",EGY,1986,GDP_per_capita,790.201793698565
+"Egypt, Arab Rep.",EGY,1985,GDP_per_capita,769.755137148666
+"Egypt, Arab Rep.",EGY,1984,GDP_per_capita,689.807675510205
+"Egypt, Arab Rep.",EGY,1983,GDP_per_capita,648.013629771434
+"Egypt, Arab Rep.",EGY,1982,GDP_per_capita,595.918898169378
+"Egypt, Arab Rep.",EGY,1981,GDP_per_capita,490.308796861598
+"Egypt, Arab Rep.",EGY,1980,GDP_per_capita,493.053573271061
+"Egypt, Arab Rep.",EGY,1979,GDP_per_capita,420.85821686233
+"Egypt, Arab Rep.",EGY,1978,GDP_per_capita,354.674246269687
+"Egypt, Arab Rep.",EGY,1977,GDP_per_capita,353.403833676533
+"Egypt, Arab Rep.",EGY,1976,GDP_per_capita,334.609918474469
+"Egypt, Arab Rep.",EGY,1975,GDP_per_capita,299.217518322538
+"Egypt, Arab Rep.",EGY,1974,GDP_per_capita,243.061473902314
+"Egypt, Arab Rep.",EGY,1973,GDP_per_capita,272.182710085295
+"Egypt, Arab Rep.",EGY,1972,GDP_per_capita,256.482815640115
+"Egypt, Arab Rep.",EGY,1971,GDP_per_capita,242.971070265891
+"Egypt, Arab Rep.",EGY,1970,GDP_per_capita,232.272492342671
+"Egypt, Arab Rep.",EGY,1969,GDP_per_capita,192.964908828257
+"Egypt, Arab Rep.",EGY,1968,GDP_per_capita,179.774096694265
+"Egypt, Arab Rep.",EGY,1967,GDP_per_capita,174.103044536176
+"Egypt, Arab Rep.",EGY,1966,GDP_per_capita,168.054342944501
+"Egypt, Arab Rep.",EGY,1965,GDP_per_capita,161.567123566919
+"Egypt, Arab Rep.",EGY,1964,GDP_per_capita,157.716536507206
+"Egypt, Arab Rep.",EGY,1963,GDP_per_capita,143.928402522656
+"Egypt, Arab Rep.",EGY,1962,GDP_per_capita,142.409576739705
+"Egypt, Arab Rep.",EGY,1961,GDP_per_capita,162.841644181754
+"Egypt, Arab Rep.",EGY,1960,GDP_per_capita,156.387397481519
+"Egypt, Arab Rep.",EGY,2024,Life_expectancy,71.806
+"Egypt, Arab Rep.",EGY,2023,Life_expectancy,71.633
+"Egypt, Arab Rep.",EGY,2022,Life_expectancy,71.01
+"Egypt, Arab Rep.",EGY,2021,Life_expectancy,68.976
+"Egypt, Arab Rep.",EGY,2020,Life_expectancy,69.79
+"Egypt, Arab Rep.",EGY,2019,Life_expectancy,71.213
+"Egypt, Arab Rep.",EGY,2018,Life_expectancy,70.974
+"Egypt, Arab Rep.",EGY,2017,Life_expectancy,70.709
+"Egypt, Arab Rep.",EGY,2016,Life_expectancy,70.437
+"Egypt, Arab Rep.",EGY,2015,Life_expectancy,70.135
+"Egypt, Arab Rep.",EGY,2014,Life_expectancy,69.911
+"Egypt, Arab Rep.",EGY,2013,Life_expectancy,69.632
+"Egypt, Arab Rep.",EGY,2012,Life_expectancy,69.464
+"Egypt, Arab Rep.",EGY,2011,Life_expectancy,69.232
+"Egypt, Arab Rep.",EGY,2010,Life_expectancy,69.078
+"Egypt, Arab Rep.",EGY,2009,Life_expectancy,68.915
+"Egypt, Arab Rep.",EGY,2008,Life_expectancy,68.761
+"Egypt, Arab Rep.",EGY,2007,Life_expectancy,68.627
+"Egypt, Arab Rep.",EGY,2006,Life_expectancy,68.493
+"Egypt, Arab Rep.",EGY,2005,Life_expectancy,68.355
+"Egypt, Arab Rep.",EGY,2004,Life_expectancy,68.211
+"Egypt, Arab Rep.",EGY,2003,Life_expectancy,68.045
+"Egypt, Arab Rep.",EGY,2002,Life_expectancy,67.846
+"Egypt, Arab Rep.",EGY,2001,Life_expectancy,67.612
+"Egypt, Arab Rep.",EGY,2000,Life_expectancy,67.332
+"Egypt, Arab Rep.",EGY,1999,Life_expectancy,67.01
+"Egypt, Arab Rep.",EGY,1998,Life_expectancy,66.635
+"Egypt, Arab Rep.",EGY,1997,Life_expectancy,66.207
+"Egypt, Arab Rep.",EGY,1996,Life_expectancy,65.733
+"Egypt, Arab Rep.",EGY,1995,Life_expectancy,65.214
+"Egypt, Arab Rep.",EGY,1994,Life_expectancy,64.663
+"Egypt, Arab Rep.",EGY,1993,Life_expectancy,64.147
+"Egypt, Arab Rep.",EGY,1992,Life_expectancy,63.585
+"Egypt, Arab Rep.",EGY,1991,Life_expectancy,63.059
+"Egypt, Arab Rep.",EGY,1990,Life_expectancy,62.513
+"Egypt, Arab Rep.",EGY,1989,Life_expectancy,61.949
+"Egypt, Arab Rep.",EGY,1988,Life_expectancy,61.358
+"Egypt, Arab Rep.",EGY,1987,Life_expectancy,60.736
+"Egypt, Arab Rep.",EGY,1986,Life_expectancy,60.085
+"Egypt, Arab Rep.",EGY,1985,Life_expectancy,59.405
+"Egypt, Arab Rep.",EGY,1984,Life_expectancy,58.697
+"Egypt, Arab Rep.",EGY,1983,Life_expectancy,57.967
+"Egypt, Arab Rep.",EGY,1982,Life_expectancy,57.219
+"Egypt, Arab Rep.",EGY,1981,Life_expectancy,56.454
+"Egypt, Arab Rep.",EGY,1980,Life_expectancy,55.673
+"Egypt, Arab Rep.",EGY,1979,Life_expectancy,54.876
+"Egypt, Arab Rep.",EGY,1978,Life_expectancy,54.075
+"Egypt, Arab Rep.",EGY,1977,Life_expectancy,53.272
+"Egypt, Arab Rep.",EGY,1976,Life_expectancy,52.484
+"Egypt, Arab Rep.",EGY,1975,Life_expectancy,51.734
+"Egypt, Arab Rep.",EGY,1974,Life_expectancy,51.044
+"Egypt, Arab Rep.",EGY,1973,Life_expectancy,50.098
+"Egypt, Arab Rep.",EGY,1972,Life_expectancy,49.908
+"Egypt, Arab Rep.",EGY,1971,Life_expectancy,49.48
+"Egypt, Arab Rep.",EGY,1970,Life_expectancy,49.0
+"Egypt, Arab Rep.",EGY,1969,Life_expectancy,48.7
+"Egypt, Arab Rep.",EGY,1968,Life_expectancy,48.602
+"Egypt, Arab Rep.",EGY,1967,Life_expectancy,48.13
+"Egypt, Arab Rep.",EGY,1966,Life_expectancy,47.988
+"Egypt, Arab Rep.",EGY,1965,Life_expectancy,47.577
+"Egypt, Arab Rep.",EGY,1964,Life_expectancy,47.075
+"Egypt, Arab Rep.",EGY,1963,Life_expectancy,46.493
+"Egypt, Arab Rep.",EGY,1962,Life_expectancy,45.844
+"Egypt, Arab Rep.",EGY,1961,Life_expectancy,45.146
+"Egypt, Arab Rep.",EGY,1960,Life_expectancy,44.436
+"Egypt, Arab Rep.",EGY,2025,Population,118365995.0
+"Egypt, Arab Rep.",EGY,2024,Population,116538258.0
+"Egypt, Arab Rep.",EGY,2023,Population,114535772.0
+"Egypt, Arab Rep.",EGY,2022,Population,112618250.0
+"Egypt, Arab Rep.",EGY,2021,Population,110957008.0
+"Egypt, Arab Rep.",EGY,2020,Population,109315124.0
+"Egypt, Arab Rep.",EGY,2019,Population,107553158.0
+"Egypt, Arab Rep.",EGY,2018,Population,105682094.0
+"Egypt, Arab Rep.",EGY,2017,Population,103696057.0
+"Egypt, Arab Rep.",EGY,2016,Population,101644589.0
+"Egypt, Arab Rep.",EGY,2015,Population,99597342.0
+"Egypt, Arab Rep.",EGY,2014,Population,97528654.0
+"Egypt, Arab Rep.",EGY,2013,Population,95333553.0
+"Egypt, Arab Rep.",EGY,2012,Population,93161001.0
+"Egypt, Arab Rep.",EGY,2011,Population,91093059.0
+"Egypt, Arab Rep.",EGY,2010,Population,89196072.0
+"Egypt, Arab Rep.",EGY,2009,Population,87501636.0
+"Egypt, Arab Rep.",EGY,2008,Population,85864789.0
+"Egypt, Arab Rep.",EGY,2007,Population,84276225.0
+"Egypt, Arab Rep.",EGY,2006,Population,82700403.0
+"Egypt, Arab Rep.",EGY,2005,Population,81101004.0
+"Egypt, Arab Rep.",EGY,2004,Population,79477443.0
+"Egypt, Arab Rep.",EGY,2003,Population,77853548.0
+"Egypt, Arab Rep.",EGY,2002,Population,76239137.0
+"Egypt, Arab Rep.",EGY,2001,Population,74652029.0
+"Egypt, Arab Rep.",EGY,2000,Population,73083284.0
+"Egypt, Arab Rep.",EGY,1999,Population,71520954.0
+"Egypt, Arab Rep.",EGY,1998,Population,69943294.0
+"Egypt, Arab Rep.",EGY,1997,Population,68431740.0
+"Egypt, Arab Rep.",EGY,1996,Population,67028048.0
+"Egypt, Arab Rep.",EGY,1995,Population,65652622.0
+"Egypt, Arab Rep.",EGY,1994,Population,64285589.0
+"Egypt, Arab Rep.",EGY,1993,Population,62915681.0
+"Egypt, Arab Rep.",EGY,1992,Population,61480660.0
+"Egypt, Arab Rep.",EGY,1991,Population,60028997.0
+"Egypt, Arab Rep.",EGY,1990,Population,58396618.0
+"Egypt, Arab Rep.",EGY,1989,Population,56710642.0
+"Egypt, Arab Rep.",EGY,1988,Population,55187681.0
+"Egypt, Arab Rep.",EGY,1987,Population,53674435.0
+"Egypt, Arab Rep.",EGY,1986,Population,52206295.0
+"Egypt, Arab Rep.",EGY,1985,Population,50734968.0
+"Egypt, Arab Rep.",EGY,1984,Population,49247334.0
+"Egypt, Arab Rep.",EGY,1983,Population,47786402.0
+"Egypt, Arab Rep.",EGY,1982,Population,46407611.0
+"Egypt, Arab Rep.",EGY,1981,Population,45147224.0
+"Egypt, Arab Rep.",EGY,1980,Population,43950413.0
+"Egypt, Arab Rep.",EGY,1979,Population,42818628.0
+"Egypt, Arab Rep.",EGY,1978,Population,41761431.0
+"Egypt, Arab Rep.",EGY,1977,Population,40748870.0
+"Egypt, Arab Rep.",EGY,1976,Population,39795557.0
+"Egypt, Arab Rep.",EGY,1975,Population,38875327.0
+"Egypt, Arab Rep.",EGY,1974,Population,37969667.0
+"Egypt, Arab Rep.",EGY,1973,Population,37102043.0
+"Egypt, Arab Rep.",EGY,1972,Population,36258328.0
+"Egypt, Arab Rep.",EGY,1971,Population,35433368.0
+"Egypt, Arab Rep.",EGY,1970,Population,34623990.0
+"Egypt, Arab Rep.",EGY,1969,Population,33811615.0
+"Egypt, Arab Rep.",EGY,1968,Population,32998319.0
+"Egypt, Arab Rep.",EGY,1967,Population,32196360.0
+"Egypt, Arab Rep.",EGY,1966,Population,31406541.0
+"Egypt, Arab Rep.",EGY,1965,Population,30629174.0
+"Egypt, Arab Rep.",EGY,1964,Population,29858922.0
+"Egypt, Arab Rep.",EGY,1963,Population,29091869.0
+"Egypt, Arab Rep.",EGY,1962,Population,28337013.0
+"Egypt, Arab Rep.",EGY,1961,Population,27600898.0
+"Egypt, Arab Rep.",EGY,1960,Population,26896479.0
+Kenya,KEN,2025,GDP_per_capita,2362.86091198611
+Kenya,KEN,2024,GDP_per_capita,2133.46193404026
+Kenya,KEN,2023,GDP_per_capita,1942.58802756191
+Kenya,KEN,2022,GDP_per_capita,2109.56288513137
+Kenya,KEN,2021,GDP_per_capita,2061.35622089594
+Kenya,KEN,2020,GDP_per_capita,1927.66459027849
+Kenya,KEN,2019,GDP_per_capita,1960.40808854893
+Kenya,KEN,2018,GDP_per_capita,1836.45275528993
+Kenya,KEN,2017,GDP_per_capita,1667.48447230835
+Kenya,KEN,2016,GDP_per_capita,1554.12610314423
+Kenya,KEN,2015,GDP_per_capita,1489.11959777284
+Kenya,KEN,2014,GDP_per_capita,1482.81566253497
+Kenya,KEN,2013,GDP_per_capita,1370.87885214659
+Kenya,KEN,2012,GDP_per_capita,1285.00536171512
+Kenya,KEN,2011,GDP_per_capita,1096.14499807675
+Kenya,KEN,2010,GDP_per_capita,1091.51873101194
+Kenya,KEN,2009,GDP_per_capita,1047.9678324485
+Kenya,KEN,2008,GDP_per_capita,915.54435473604
+Kenya,KEN,2007,GDP_per_capita,840.201439476765
+Kenya,KEN,2006,GDP_per_capita,699.80237063381
+Kenya,KEN,2005,GDP_per_capita,523.456312433863
+Kenya,KEN,2004,GDP_per_capita,463.662781300121
+Kenya,KEN,2003,GDP_per_capita,442.898457253405
+Kenya,KEN,2002,GDP_per_capita,402.936385605382
+Kenya,KEN,2001,GDP_per_capita,410.700452474814
+Kenya,KEN,2000,GDP_per_capita,414.626365130846
+Kenya,KEN,1999,GDP_per_capita,433.721235701305
+Kenya,KEN,1998,GDP_per_capita,487.883239905452
+Kenya,KEN,1997,GDP_per_capita,466.723814611399
+Kenya,KEN,1996,GDP_per_capita,440.527078880876
+Kenya,KEN,1995,GDP_per_capita,340.064842175429
+Kenya,KEN,1994,GDP_per_capita,276.447871981244
+Kenya,KEN,1993,GDP_per_capita,228.998032843434
+Kenya,KEN,1992,GDP_per_capita,336.68139978696
+Kenya,KEN,1991,GDP_per_capita,344.722642127742
+Kenya,KEN,1990,GDP_per_capita,374.458992895562
+Kenya,KEN,1989,GDP_per_capita,374.489193682103
+Kenya,KEN,1988,GDP_per_capita,391.238771204282
+Kenya,KEN,1987,GDP_per_capita,386.630929992512
+Kenya,KEN,1986,GDP_per_capita,363.745117772717
+Kenya,KEN,1985,GDP_per_capita,319.503611010714
+Kenya,KEN,1984,GDP_per_capita,334.40283575753
+Kenya,KEN,1983,GDP_per_capita,335.037151735189
+Kenya,KEN,1982,GDP_per_capita,373.794835688888
+Kenya,KEN,1981,GDP_per_capita,412.883704225392
+Kenya,KEN,1980,GDP_per_capita,453.558973444809
+Kenya,KEN,1979,GDP_per_capita,403.242079834358
+Kenya,KEN,1978,GDP_per_capita,355.141982232607
+Kenya,KEN,1977,GDP_per_capita,311.48625291648
+Kenya,KEN,1976,GDP_per_capita,248.935108198575
+Kenya,KEN,1975,GDP_per_capita,241.224426147057
+Kenya,KEN,1974,GDP_per_capita,227.233442066411
+Kenya,KEN,1973,GDP_per_capita,198.578083872556
+Kenya,KEN,1972,GDP_per_capita,172.642044778441
+Kenya,KEN,1971,GDP_per_capita,150.852979093178
+Kenya,KEN,1970,GDP_per_capita,141.039390962597
+Kenya,KEN,1969,GDP_per_capita,133.310793093247
+Kenya,KEN,1968,GDP_per_capita,128.654646882243
+Kenya,KEN,1967,GDP_per_capita,121.90214207834
+Kenya,KEN,1966,GDP_per_capita,119.833476389359
+Kenya,KEN,1965,GDP_per_capita,106.865601340262
+Kenya,KEN,1964,GDP_per_capita,111.300544823892
+Kenya,KEN,1963,GDP_per_capita,107.393655978243
+Kenya,KEN,1962,GDP_per_capita,104.600455936259
+Kenya,KEN,1961,GDP_per_capita,99.2716957068382
+Kenya,KEN,1960,GDP_per_capita,102.824417465582
+Kenya,KEN,2024,Life_expectancy,63.834
+Kenya,KEN,2023,Life_expectancy,63.646
+Kenya,KEN,2022,Life_expectancy,63.549
+Kenya,KEN,2021,Life_expectancy,61.225
+Kenya,KEN,2020,Life_expectancy,61.596
+Kenya,KEN,2019,Life_expectancy,62.939
+Kenya,KEN,2018,Life_expectancy,62.825
+Kenya,KEN,2017,Life_expectancy,62.725
+Kenya,KEN,2016,Life_expectancy,62.526
+Kenya,KEN,2015,Life_expectancy,62.279
+Kenya,KEN,2014,Life_expectancy,61.99
+Kenya,KEN,2013,Life_expectancy,61.729
+Kenya,KEN,2012,Life_expectancy,61.537
+Kenya,KEN,2011,Life_expectancy,61.283
+Kenya,KEN,2010,Life_expectancy,60.915
+Kenya,KEN,2009,Life_expectancy,60.483
+Kenya,KEN,2008,Life_expectancy,59.955
+Kenya,KEN,2007,Life_expectancy,59.407
+Kenya,KEN,2006,Life_expectancy,59.059
+Kenya,KEN,2005,Life_expectancy,58.51
+Kenya,KEN,2004,Life_expectancy,57.947
+Kenya,KEN,2003,Life_expectancy,57.369
+Kenya,KEN,2002,Life_expectancy,56.759
+Kenya,KEN,2001,Life_expectancy,56.501
+Kenya,KEN,2000,Life_expectancy,56.084
+Kenya,KEN,1999,Life_expectancy,55.866
+Kenya,KEN,1998,Life_expectancy,55.568
+Kenya,KEN,1997,Life_expectancy,55.478
+Kenya,KEN,1996,Life_expectancy,55.575
+Kenya,KEN,1995,Life_expectancy,55.856
+Kenya,KEN,1994,Life_expectancy,56.101
+Kenya,KEN,1993,Life_expectancy,56.668
+Kenya,KEN,1992,Life_expectancy,57.095
+Kenya,KEN,1991,Life_expectancy,57.826
+Kenya,KEN,1990,Life_expectancy,58.334
+Kenya,KEN,1989,Life_expectancy,59.99
+Kenya,KEN,1988,Life_expectancy,60.32
+Kenya,KEN,1987,Life_expectancy,60.721
+Kenya,KEN,1986,Life_expectancy,60.818
+Kenya,KEN,1985,Life_expectancy,60.856
+Kenya,KEN,1984,Life_expectancy,60.611
+Kenya,KEN,1983,Life_expectancy,60.342
+Kenya,KEN,1982,Life_expectancy,59.904
+Kenya,KEN,1981,Life_expectancy,59.562
+Kenya,KEN,1980,Life_expectancy,59.175
+Kenya,KEN,1979,Life_expectancy,58.691
+Kenya,KEN,1978,Life_expectancy,58.234
+Kenya,KEN,1977,Life_expectancy,57.684
+Kenya,KEN,1976,Life_expectancy,57.153
+Kenya,KEN,1975,Life_expectancy,56.62
+Kenya,KEN,1974,Life_expectancy,56.039
+Kenya,KEN,1973,Life_expectancy,55.5
+Kenya,KEN,1972,Life_expectancy,55.013
+Kenya,KEN,1971,Life_expectancy,54.543
+Kenya,KEN,1970,Life_expectancy,54.143
+Kenya,KEN,1969,Life_expectancy,53.734
+Kenya,KEN,1968,Life_expectancy,53.302
+Kenya,KEN,1967,Life_expectancy,52.796
+Kenya,KEN,1966,Life_expectancy,52.383
+Kenya,KEN,1965,Life_expectancy,51.886
+Kenya,KEN,1964,Life_expectancy,51.323
+Kenya,KEN,1963,Life_expectancy,50.758
+Kenya,KEN,1962,Life_expectancy,50.104
+Kenya,KEN,1961,Life_expectancy,49.33
+Kenya,KEN,1960,Life_expectancy,48.477
+Kenya,KEN,2025,Population,57532493.0
+Kenya,KEN,2024,Population,56432944.0
+Kenya,KEN,2023,Population,55339003.0
+Kenya,KEN,2022,Population,54252461.0
+Kenya,KEN,2021,Population,53219166.0
+Kenya,KEN,2020,Population,52217334.0
+Kenya,KEN,2019,Population,51202827.0
+Kenya,KEN,2018,Population,50207107.0
+Kenya,KEN,2017,Population,49197766.0
+Kenya,KEN,2016,Population,48139687.0
+Kenya,KEN,2015,Population,47088526.0
+Kenya,KEN,2014,Population,46051440.0
+Kenya,KEN,2013,Population,44986791.0
+Kenya,KEN,2012,Population,43888303.0
+Kenya,KEN,2011,Population,42758461.0
+Kenya,KEN,2010,Population,41598567.0
+Kenya,KEN,2009,Population,40408891.0
+Kenya,KEN,2008,Population,39206351.0
+Kenya,KEN,2007,Population,38036349.0
+Kenya,KEN,2006,Population,36904008.0
+Kenya,KEN,2005,Population,35796484.0
+Kenya,KEN,2004,Population,34713455.0
+Kenya,KEN,2003,Population,33652223.0
+Kenya,KEN,2002,Population,32629808.0
+Kenya,KEN,2001,Population,31619170.0
+Kenya,KEN,2000,Population,30642890.0
+Kenya,KEN,1999,Population,29733408.0
+Kenya,KEN,1998,Population,28888057.0
+Kenya,KEN,1997,Population,28101768.0
+Kenya,KEN,1996,Population,27344211.0
+Kenya,KEN,1995,Population,26601751.0
+Kenya,KEN,1994,Population,25857130.0
+Kenya,KEN,1993,Population,25117188.0
+Kenya,KEN,1992,Population,24382460.0
+Kenya,KEN,1991,Population,23646514.0
+Kenya,KEN,1990,Population,22892651.0
+Kenya,KEN,1989,Population,22118434.0
+Kenya,KEN,1988,Population,21356219.0
+Kenya,KEN,1987,Population,20616096.0
+Kenya,KEN,1986,Population,19901646.0
+Kenya,KEN,1985,Population,19201768.0
+Kenya,KEN,1984,Population,18514906.0
+Kenya,KEN,1983,Population,17846374.0
+Kenya,KEN,1982,Population,17206175.0
+Kenya,KEN,1981,Population,16601507.0
+Kenya,KEN,1980,Population,16018459.0
+Kenya,KEN,1979,Population,15460666.0
+Kenya,KEN,1978,Population,14934126.0
+Kenya,KEN,1977,Population,14428819.0
+Kenya,KEN,1976,Population,13957623.0
+Kenya,KEN,1975,Population,13511671.0
+Kenya,KEN,1974,Population,13070078.0
+Kenya,KEN,1973,Population,12634835.0
+Kenya,KEN,1972,Population,12206060.0
+Kenya,KEN,1971,Population,11788904.0
+Kenya,KEN,1970,Population,11368791.0
+Kenya,KEN,1969,Population,10939695.0
+Kenya,KEN,1968,Population,10518823.0
+Kenya,KEN,1967,Population,10111057.0
+Kenya,KEN,1966,Population,9717816.0
+Kenya,KEN,1965,Population,9338078.0
+Kenya,KEN,1964,Population,8973535.0
+Kenya,KEN,1963,Population,8627971.0
+Kenya,KEN,1962,Population,8299308.0
+Kenya,KEN,1961,Population,7987770.0
+Kenya,KEN,1960,Population,7695307.0
+Ethiopia,ETH,2025,GDP_per_capita,932.729352775179
+Ethiopia,ETH,2024,GDP_per_capita,1133.88279681256
+Ethiopia,ETH,2023,GDP_per_capita,1055.81091593061
+Ethiopia,ETH,2022,GDP_per_capita,982.103161502198
+Ethiopia,ETH,2021,GDP_per_capita,893.009835441784
+Ethiopia,ETH,2020,GDP_per_capita,829.790982552951
+Ethiopia,ETH,2019,GDP_per_capita,793.473247218996
+Ethiopia,ETH,2018,GDP_per_capita,739.702022272086
+Ethiopia,ETH,2017,GDP_per_capita,696.348429076216
+Ethiopia,ETH,2016,GDP_per_capita,641.651523286233
+Ethiopia,ETH,2015,GDP_per_capita,597.912113218663
+Ethiopia,ETH,2014,GDP_per_capita,549.986577082588
+Ethiopia,ETH,2013,GDP_per_capita,484.039833104062
+Ethiopia,ETH,2012,GDP_per_capita,452.101031885754
+Ethiopia,ETH,2011,GDP_per_capita,343.024942351887
+Ethiopia,ETH,2010,GDP_per_capita,330.619412798644
+Ethiopia,ETH,2009,GDP_per_capita,368.574712267445
+Ethiopia,ETH,2008,GDP_per_capita,316.410475118075
+Ethiopia,ETH,2007,GDP_per_capita,237.146255996319
+Ethiopia,ETH,2006,GDP_per_capita,189.345737521418
+Ethiopia,ETH,2005,GDP_per_capita,158.243458082465
+Ethiopia,ETH,2004,GDP_per_capita,133.169812538096
+Ethiopia,ETH,2003,GDP_per_capita,116.800491132777
+Ethiopia,ETH,2002,GDP_per_capita,109.593813612988
+Ethiopia,ETH,2001,GDP_per_capita,118.457204255261
+Ethiopia,ETH,2000,GDP_per_capita,122.269202606069
+Ethiopia,ETH,1999,GDP_per_capita,120.734631499865
+Ethiopia,ETH,1998,GDP_per_capita,126.465095781244
+Ethiopia,ETH,1997,GDP_per_capita,143.369531498844
+Ethiopia,ETH,1996,GDP_per_capita,147.327458851964
+Ethiopia,ETH,1995,GDP_per_capita,136.523619088963
+Ethiopia,ETH,1994,GDP_per_capita,127.685923459033
+Ethiopia,ETH,1993,GDP_per_capita,168.520401400989
+Ethiopia,ETH,1992,GDP_per_capita,207.406400863847
+Ethiopia,ETH,1991,GDP_per_capita,277.565910365091
+Ethiopia,ETH,1990,GDP_per_capita,262.108971053707
+Ethiopia,ETH,1989,GDP_per_capita,256.386475306315
+Ethiopia,ETH,1988,GDP_per_capita,253.248262470167
+Ethiopia,ETH,1987,GDP_per_capita,254.121329421554
+Ethiopia,ETH,1986,GDP_per_capita,245.977228769295
+Ethiopia,ETH,1985,GDP_per_capita,243.897382584019
+Ethiopia,ETH,1984,GDP_per_capita,214.228860396002
+Ethiopia,ETH,1983,GDP_per_capita,232.683474421159
+Ethiopia,ETH,1982,GDP_per_capita,215.25098547162
+Ethiopia,ETH,1981,GDP_per_capita,212.657517980298
+Ethiopia,ETH,1980,GDP_per_capita,203.685394440965
+Ethiopia,ETH,1979,GDP_per_capita,192.357117273999
+Ethiopia,ETH,1978,GDP_per_capita,178.302480574913
+Ethiopia,ETH,1977,GDP_per_capita,170.40414371556
+Ethiopia,ETH,1976,GDP_per_capita,151.95618662171
+Ethiopia,ETH,1975,GDP_per_capita,144.280537635495
+Ethiopia,ETH,1974,GDP_per_capita,147.855722504485
+Ethiopia,ETH,1973,GDP_per_capita,134.935511021947
+Ethiopia,ETH,1972,GDP_per_capita,119.839997124757
+Ethiopia,ETH,1971,GDP_per_capita,112.736674296624
+Ethiopia,ETH,1970,GDP_per_capita,109.430466337285
+Ethiopia,ETH,1969,GDP_per_capita,102.280177675035
+Ethiopia,ETH,1968,GDP_per_capita,99.4743651000667
+Ethiopia,ETH,1967,GDP_per_capita,96.0864747436757
+Ethiopia,ETH,1966,GDP_per_capita,93.1549467874985
+Ethiopia,ETH,1965,GDP_per_capita,88.8500294110243
+Ethiopia,ETH,1964,GDP_per_capita,83.8368648270969
+Ethiopia,ETH,1963,GDP_per_capita,79.1726343703284
+Ethiopia,ETH,1962,GDP_per_capita,77.7901849782504
+Ethiopia,ETH,1961,GDP_per_capita,76.7301966411733
+Ethiopia,ETH,1960,GDP_per_capita,75.3396090705961
+Ethiopia,ETH,2024,Life_expectancy,67.603
+Ethiopia,ETH,2023,Life_expectancy,67.315
+Ethiopia,ETH,2022,Life_expectancy,66.897
+Ethiopia,ETH,2021,Life_expectancy,65.33
+Ethiopia,ETH,2020,Life_expectancy,65.969
+Ethiopia,ETH,2019,Life_expectancy,65.741
+Ethiopia,ETH,2018,Life_expectancy,65.257
+Ethiopia,ETH,2017,Life_expectancy,64.766
+Ethiopia,ETH,2016,Life_expectancy,64.162
+Ethiopia,ETH,2015,Life_expectancy,63.592
+Ethiopia,ETH,2014,Life_expectancy,62.927
+Ethiopia,ETH,2013,Life_expectancy,62.161
+Ethiopia,ETH,2012,Life_expectancy,61.443
+Ethiopia,ETH,2011,Life_expectancy,60.595
+Ethiopia,ETH,2010,Life_expectancy,59.709
+Ethiopia,ETH,2009,Life_expectancy,58.715
+Ethiopia,ETH,2008,Life_expectancy,57.733
+Ethiopia,ETH,2007,Life_expectancy,56.566
+Ethiopia,ETH,2006,Life_expectancy,55.402
+Ethiopia,ETH,2005,Life_expectancy,54.364
+Ethiopia,ETH,2004,Life_expectancy,53.735
+Ethiopia,ETH,2003,Life_expectancy,52.877
+Ethiopia,ETH,2002,Life_expectancy,52.085
+Ethiopia,ETH,2001,Life_expectancy,51.428
+Ethiopia,ETH,2000,Life_expectancy,50.88
+Ethiopia,ETH,1999,Life_expectancy,49.486
+Ethiopia,ETH,1998,Life_expectancy,49.785
+Ethiopia,ETH,1997,Life_expectancy,49.21
+Ethiopia,ETH,1996,Life_expectancy,48.697
+Ethiopia,ETH,1995,Life_expectancy,48.156
+Ethiopia,ETH,1994,Life_expectancy,47.926
+Ethiopia,ETH,1993,Life_expectancy,47.676
+Ethiopia,ETH,1992,Life_expectancy,47.279
+Ethiopia,ETH,1991,Life_expectancy,46.657
+Ethiopia,ETH,1990,Life_expectancy,45.117
+Ethiopia,ETH,1989,Life_expectancy,45.644
+Ethiopia,ETH,1988,Life_expectancy,45.682
+Ethiopia,ETH,1987,Life_expectancy,45.892
+Ethiopia,ETH,1986,Life_expectancy,38.371
+Ethiopia,ETH,1985,Life_expectancy,37.747
+Ethiopia,ETH,1984,Life_expectancy,36.737
+Ethiopia,ETH,1983,Life_expectancy,36.319
+Ethiopia,ETH,1982,Life_expectancy,43.434
+Ethiopia,ETH,1981,Life_expectancy,43.084
+Ethiopia,ETH,1980,Life_expectancy,42.815
+Ethiopia,ETH,1979,Life_expectancy,42.376
+Ethiopia,ETH,1978,Life_expectancy,41.506
+Ethiopia,ETH,1977,Life_expectancy,41.397
+Ethiopia,ETH,1976,Life_expectancy,41.32
+Ethiopia,ETH,1975,Life_expectancy,38.941
+Ethiopia,ETH,1974,Life_expectancy,39.083
+Ethiopia,ETH,1973,Life_expectancy,41.103
+Ethiopia,ETH,1972,Life_expectancy,41.035
+Ethiopia,ETH,1971,Life_expectancy,42.216
+Ethiopia,ETH,1970,Life_expectancy,42.115
+Ethiopia,ETH,1969,Life_expectancy,42.131
+Ethiopia,ETH,1968,Life_expectancy,42.092
+Ethiopia,ETH,1967,Life_expectancy,41.941
+Ethiopia,ETH,1966,Life_expectancy,39.343
+Ethiopia,ETH,1965,Life_expectancy,41.413
+Ethiopia,ETH,1964,Life_expectancy,41.261
+Ethiopia,ETH,1963,Life_expectancy,40.967
+Ethiopia,ETH,1962,Life_expectancy,40.531
+Ethiopia,ETH,1961,Life_expectancy,40.198
+Ethiopia,ETH,1960,Life_expectancy,39.615
+Ethiopia,ETH,2025,Population,135472051.0
+Ethiopia,ETH,2024,Population,132059767.0
+Ethiopia,ETH,2023,Population,128691692.0
+Ethiopia,ETH,2022,Population,125384287.0
+Ethiopia,ETH,2021,Population,122138588.0
+Ethiopia,ETH,2020,Population,118917671.0
+Ethiopia,ETH,2019,Population,115737383.0
+Ethiopia,ETH,2018,Population,112664152.0
+Ethiopia,ETH,2017,Population,109666481.0
+Ethiopia,ETH,2016,Population,106718162.0
+Ethiopia,ETH,2015,Population,103867135.0
+Ethiopia,ETH,2014,Population,101115610.0
+Ethiopia,ETH,2013,Population,98438751.0
+Ethiopia,ETH,2012,Population,95798767.0
+Ethiopia,ETH,2011,Population,93149970.0
+Ethiopia,ETH,2010,Population,90538514.0
+Ethiopia,ETH,2009,Population,88007636.0
+Ethiopia,ETH,2008,Population,85543668.0
+Ethiopia,ETH,2007,Population,83103217.0
+Ethiopia,ETH,2006,Population,80703490.0
+Ethiopia,ETH,2005,Population,78367470.0
+Ethiopia,ETH,2004,Population,76077206.0
+Ethiopia,ETH,2003,Population,73832663.0
+Ethiopia,ETH,2002,Population,71635517.0
+Ethiopia,ETH,2001,Population,69487762.0
+Ethiopia,ETH,2000,Population,67411494.0
+Ethiopia,ETH,1999,Population,65374561.0
+Ethiopia,ETH,1998,Population,63363524.0
+Ethiopia,ETH,1997,Population,61404539.0
+Ethiopia,ETH,1996,Population,59467635.0
+Ethiopia,ETH,1995,Population,57537335.0
+Ethiopia,ETH,1994,Population,55611508.0
+Ethiopia,ETH,1993,Population,53708891.0
+Ethiopia,ETH,1992,Population,51853747.0
+Ethiopia,ETH,1991,Population,49717198.0
+Ethiopia,ETH,1990,Population,47609755.0
+Ethiopia,ETH,1989,Population,45879690.0
+Ethiopia,ETH,1988,Population,44150825.0
+Ethiopia,ETH,1987,Population,42460039.0
+Ethiopia,ETH,1986,Population,41037656.0
+Ethiopia,ETH,1985,Population,39842136.0
+Ethiopia,ETH,1984,Population,38735722.0
+Ethiopia,ETH,1983,Population,37740817.0
+Ethiopia,ETH,1982,Population,36701290.0
+Ethiopia,ETH,1981,Population,35304012.0
+Ethiopia,ETH,1980,Population,34428514.0
+Ethiopia,ETH,1979,Population,34238652.0
+Ethiopia,ETH,1978,Population,33734592.0
+Ethiopia,ETH,1977,Population,33167272.0
+Ethiopia,ETH,1976,Population,32534418.0
+Ethiopia,ETH,1975,Population,31723252.0
+Ethiopia,ETH,1974,Population,30957273.0
+Ethiopia,ETH,1973,Population,30166785.0
+Ethiopia,ETH,1972,Population,29374608.0
+Ethiopia,ETH,1971,Population,28600106.0
+Ethiopia,ETH,1970,Population,27829128.0
+Ethiopia,ETH,1969,Population,27072571.0
+Ethiopia,ETH,1968,Population,26337930.0
+Ethiopia,ETH,1967,Population,25620276.0
+Ethiopia,ETH,1966,Population,24952689.0
+Ethiopia,ETH,1965,Population,24310612.0
+Ethiopia,ETH,1964,Population,23666548.0
+Ethiopia,ETH,1963,Population,23051637.0
+Ethiopia,ETH,1962,Population,22465126.0
+Ethiopia,ETH,1961,Population,21906102.0
+Ethiopia,ETH,1960,Population,21376693.0
+Rwanda,RWA,2025,GDP_per_capita,1123.73874633225
+Rwanda,RWA,2024,GDP_per_capita,1059.93709298801
+Rwanda,RWA,2023,GDP_per_capita,1061.05788154076
+Rwanda,RWA,2022,GDP_per_capita,1007.05989322914
+Rwanda,RWA,2021,GDP_per_capita,842.581492947672
+Rwanda,RWA,2020,GDP_per_capita,802.638686936204
+Rwanda,RWA,2019,GDP_per_capita,823.355304065304
+Rwanda,RWA,2018,GDP_per_capita,772.754982959354
+Rwanda,RWA,2017,GDP_per_capita,751.049039527547
+Rwanda,RWA,2016,GDP_per_capita,721.258515833094
+Rwanda,RWA,2015,GDP_per_capita,725.691418696952
+Rwanda,RWA,2014,GDP_per_capita,715.36808783393
+Rwanda,RWA,2013,GDP_per_capita,695.397140963607
+Rwanda,RWA,2012,GDP_per_capita,697.760143509565
+Rwanda,RWA,2011,GDP_per_capita,643.356138618166
+Rwanda,RWA,2010,GDP_per_capita,586.599950359877
+Rwanda,RWA,2009,GDP_per_capita,556.97399621739
+Rwanda,RWA,2008,GDP_per_capita,522.288339420679
+Rwanda,RWA,2007,GDP_per_capita,420.733580702508
+Rwanda,RWA,2006,GDP_per_capita,352.093916578347
+Rwanda,RWA,2005,GDP_per_capita,324.016863847189
+Rwanda,RWA,2004,GDP_per_capita,269.540446333402
+Rwanda,RWA,2003,GDP_per_capita,249.012274982252
+Rwanda,RWA,2002,GDP_per_capita,234.043016755733
+Rwanda,RWA,2001,GDP_per_capita,237.308846200901
+Rwanda,RWA,2000,GDP_per_capita,251.86926386091
+Rwanda,RWA,1999,GDP_per_capita,264.74368682977
+Rwanda,RWA,1998,GDP_per_capita,246.154673288384
+Rwanda,RWA,1997,GDP_per_capita,238.749371368214
+Rwanda,RWA,1996,GDP_per_capita,206.04911417485
+Rwanda,RWA,1995,GDP_per_capita,227.971147849318
+Rwanda,RWA,1994,GDP_per_capita,110.953668251372
+Rwanda,RWA,1993,GDP_per_capita,247.023318476014
+Rwanda,RWA,1992,GDP_per_capita,264.083914517464
+Rwanda,RWA,1991,GDP_per_capita,253.966902025944
+Rwanda,RWA,1990,GDP_per_capita,345.773495139137
+Rwanda,RWA,1989,GDP_per_capita,334.741963426594
+Rwanda,RWA,1988,GDP_per_capita,343.781325823561
+Rwanda,RWA,1987,GDP_per_capita,319.643663256479
+Rwanda,RWA,1986,GDP_per_capita,297.725981826167
+Rwanda,RWA,1985,GDP_per_capita,271.578979042227
+Rwanda,RWA,1984,GDP_per_capita,259.906684534137
+Rwanda,RWA,1983,GDP_per_capita,250.568951738884
+Rwanda,RWA,1982,GDP_per_capita,246.385549572059
+Rwanda,RWA,1981,GDP_per_capita,254.569201378167
+Rwanda,RWA,1980,GDP_per_capita,234.392851445713
+Rwanda,RWA,1979,GDP_per_capita,213.765751338516
+Rwanda,RWA,1978,GDP_per_capita,179.876527814998
+Rwanda,RWA,1977,GDP_per_capita,152.744262361192
+Rwanda,RWA,1976,GDP_per_capita,134.378431213996
+Rwanda,RWA,1975,GDP_per_capita,124.109648020906
+Rwanda,RWA,1974,GDP_per_capita,68.9411498895124
+Rwanda,RWA,1973,GDP_per_capita,66.9143871515521
+Rwanda,RWA,1972,GDP_per_capita,58.3976955241411
+Rwanda,RWA,1971,GDP_per_capita,54.378076042345
+Rwanda,RWA,1970,GDP_per_capita,55.24197214158
+Rwanda,RWA,1969,GDP_per_capita,48.8699283221628
+Rwanda,RWA,1968,GDP_per_capita,45.9934717060673
+Rwanda,RWA,1967,GDP_per_capita,43.9610505582521
+Rwanda,RWA,1966,GDP_per_capita,35.3602860890843
+Rwanda,RWA,1965,GDP_per_capita,43.4679672009398
+Rwanda,RWA,1964,GDP_per_capita,38.9824483022799
+Rwanda,RWA,1963,GDP_per_capita,39.2771771988804
+Rwanda,RWA,1962,GDP_per_capita,39.2338440538353
+Rwanda,RWA,1961,GDP_per_capita,39.2689714979989
+Rwanda,RWA,1960,GDP_per_capita,39.3740728074578
+Rwanda,RWA,2024,Life_expectancy,68.017
+Rwanda,RWA,2023,Life_expectancy,67.785
+Rwanda,RWA,2022,Life_expectancy,67.528
+Rwanda,RWA,2021,Life_expectancy,66.85
+Rwanda,RWA,2020,Life_expectancy,66.953
+Rwanda,RWA,2019,Life_expectancy,66.691
+Rwanda,RWA,2018,Life_expectancy,66.354
+Rwanda,RWA,2017,Life_expectancy,66.14
+Rwanda,RWA,2016,Life_expectancy,65.733
+Rwanda,RWA,2015,Life_expectancy,65.419
+Rwanda,RWA,2014,Life_expectancy,65.088
+Rwanda,RWA,2013,Life_expectancy,64.651
+Rwanda,RWA,2012,Life_expectancy,64.189
+Rwanda,RWA,2011,Life_expectancy,63.476
+Rwanda,RWA,2010,Life_expectancy,62.804
+Rwanda,RWA,2009,Life_expectancy,61.813
+Rwanda,RWA,2008,Life_expectancy,60.641
+Rwanda,RWA,2007,Life_expectancy,59.504
+Rwanda,RWA,2006,Life_expectancy,58.342
+Rwanda,RWA,2005,Life_expectancy,56.968
+Rwanda,RWA,2004,Life_expectancy,55.52
+Rwanda,RWA,2003,Life_expectancy,53.529
+Rwanda,RWA,2002,Life_expectancy,51.262
+Rwanda,RWA,2001,Life_expectancy,49.49
+Rwanda,RWA,2000,Life_expectancy,47.798
+Rwanda,RWA,1999,Life_expectancy,45.749
+Rwanda,RWA,1998,Life_expectancy,43.099
+Rwanda,RWA,1997,Life_expectancy,41.978
+Rwanda,RWA,1996,Life_expectancy,42.486
+Rwanda,RWA,1995,Life_expectancy,41.518
+Rwanda,RWA,1994,Life_expectancy,12.158
+Rwanda,RWA,1993,Life_expectancy,42.937
+Rwanda,RWA,1992,Life_expectancy,44.397
+Rwanda,RWA,1991,Life_expectancy,46.243
+Rwanda,RWA,1990,Life_expectancy,47.763
+Rwanda,RWA,1989,Life_expectancy,49.485
+Rwanda,RWA,1988,Life_expectancy,50.914
+Rwanda,RWA,1987,Life_expectancy,51.465
+Rwanda,RWA,1986,Life_expectancy,51.706
+Rwanda,RWA,1985,Life_expectancy,51.704
+Rwanda,RWA,1984,Life_expectancy,51.445
+Rwanda,RWA,1983,Life_expectancy,50.944
+Rwanda,RWA,1982,Life_expectancy,50.188
+Rwanda,RWA,1981,Life_expectancy,49.216
+Rwanda,RWA,1980,Life_expectancy,48.122
+Rwanda,RWA,1979,Life_expectancy,47.087
+Rwanda,RWA,1978,Life_expectancy,46.165
+Rwanda,RWA,1977,Life_expectancy,45.579
+Rwanda,RWA,1976,Life_expectancy,45.312
+Rwanda,RWA,1975,Life_expectancy,45.324
+Rwanda,RWA,1974,Life_expectancy,45.566
+Rwanda,RWA,1973,Life_expectancy,45.944
+Rwanda,RWA,1972,Life_expectancy,46.343
+Rwanda,RWA,1971,Life_expectancy,46.755
+Rwanda,RWA,1970,Life_expectancy,47.116
+Rwanda,RWA,1969,Life_expectancy,47.437
+Rwanda,RWA,1968,Life_expectancy,47.731
+Rwanda,RWA,1967,Life_expectancy,47.987
+Rwanda,RWA,1966,Life_expectancy,48.084
+Rwanda,RWA,1965,Life_expectancy,48.203
+Rwanda,RWA,1964,Life_expectancy,48.131
+Rwanda,RWA,1963,Life_expectancy,43.998
+Rwanda,RWA,1962,Life_expectancy,47.802
+Rwanda,RWA,1961,Life_expectancy,47.458
+Rwanda,RWA,1960,Life_expectancy,47.022
+Rwanda,RWA,2025,Population,14569341.0
+Rwanda,RWA,2024,Population,14256567.0
+Rwanda,RWA,2023,Population,13954471.0
+Rwanda,RWA,2022,Population,13651030.0
+Rwanda,RWA,2021,Population,13355260.0
+Rwanda,RWA,2020,Population,13065837.0
+Rwanda,RWA,2019,Population,12776103.0
+Rwanda,RWA,2018,Population,12487996.0
+Rwanda,RWA,2017,Population,12202060.0
+Rwanda,RWA,2016,Population,11919183.0
+Rwanda,RWA,2015,Population,11640022.0
+Rwanda,RWA,2014,Population,11364757.0
+Rwanda,RWA,2013,Population,11093340.0
+Rwanda,RWA,2012,Population,10829901.0
+Rwanda,RWA,2011,Population,10573733.0
+Rwanda,RWA,2010,Population,10317553.0
+Rwanda,RWA,2009,Population,10060432.0
+Rwanda,RWA,2008,Population,9804269.0
+Rwanda,RWA,2007,Population,9549933.0
+Rwanda,RWA,2006,Population,9299246.0
+Rwanda,RWA,2005,Population,9054528.0
+Rwanda,RWA,2004,Population,8816844.0
+Rwanda,RWA,2003,Population,8586875.0
+Rwanda,RWA,2002,Population,8400180.0
+Rwanda,RWA,2001,Population,8287094.0
+Rwanda,RWA,2000,Population,8213931.0
+Rwanda,RWA,1999,Population,8147912.0
+Rwanda,RWA,1998,Population,8081681.0
+Rwanda,RWA,1997,Population,7755238.0
+Rwanda,RWA,1996,Population,6708764.0
+Rwanda,RWA,1995,Population,5674118.0
+Rwanda,RWA,1994,Population,6792352.0
+Rwanda,RWA,1993,Population,7981132.0
+Rwanda,RWA,1992,Population,7683266.0
+Rwanda,RWA,1991,Population,7526966.0
+Rwanda,RWA,1990,Population,7375307.0
+Rwanda,RWA,1989,Population,7184706.0
+Rwanda,RWA,1988,Population,6968071.0
+Rwanda,RWA,1987,Population,6749493.0
+Rwanda,RWA,1986,Population,6531881.0
+Rwanda,RWA,1985,Population,6317228.0
+Rwanda,RWA,1984,Population,6107627.0
+Rwanda,RWA,1983,Population,5905311.0
+Rwanda,RWA,1982,Population,5711549.0
+Rwanda,RWA,1981,Population,5527230.0
+Rwanda,RWA,1980,Population,5353259.0
+Rwanda,RWA,1979,Population,5189541.0
+Rwanda,RWA,1978,Population,5035171.0
+Rwanda,RWA,1977,Population,4888240.0
+Rwanda,RWA,1976,Population,4745954.0
+Rwanda,RWA,1975,Population,4607728.0
+Rwanda,RWA,1974,Population,4474228.0
+Rwanda,RWA,1973,Population,4345047.0
+Rwanda,RWA,1972,Population,4220335.0
+Rwanda,RWA,1971,Population,4100044.0
+Rwanda,RWA,1970,Population,3980669.0
+Rwanda,RWA,1969,Population,3861271.0
+Rwanda,RWA,1968,Population,3744010.0
+Rwanda,RWA,1967,Population,3629577.0
+Rwanda,RWA,1966,Population,3521626.0
+Rwanda,RWA,1965,Population,3423210.0
+Rwanda,RWA,1964,Population,3334834.0
+Rwanda,RWA,1963,Population,3258890.0
+Rwanda,RWA,1962,Population,3186025.0
+Rwanda,RWA,1961,Population,3106779.0
+Rwanda,RWA,1960,Population,3022294.0
