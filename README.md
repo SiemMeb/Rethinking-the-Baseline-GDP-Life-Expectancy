@@ -8,7 +8,7 @@ It combines a regression analysis with time-series checks (stationarity tests an
 
 ## Data
 
-World Bank Open Data API, 20 selected countries, analysis year **2024** (the latest year with complete data for all three indicators).
+Collected from the World Bank Open Data API for 20 selected countries and saved as a CSV (`data/raw_world_bank_data.csv`, also published as a Kaggle dataset). The analysis year is **2024**, the latest year with complete data for all three indicators.
 
 | Indicator | Code |
 |---|---|
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-The notebook pulls data from the World Bank API, so an internet connection is required.
+The notebook reads the saved CSV in `data/`, so no API access is needed. (It installs `linearmodels` with pip in one cell, which needs internet.)
 
 ## Limitations
 
